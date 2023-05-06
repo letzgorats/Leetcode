@@ -15,4 +15,7 @@ LeetCode
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./leetcode/11.py)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./leetcode/11.py)|Easy|
 
-### HackerRanker Algorithm
+HackerRank
+========
+
+### HackerRank Algorithm
