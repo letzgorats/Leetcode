@@ -17,6 +17,8 @@ LeetCode
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/?envType=study-plan&id=level-1) | [Python](./leetcode/1480/RunningSumof1dArray.py)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1) | [Python](./leetcode/724/FindPivotIndex.py)|Easy|
 |205|[Isomorphic](https://leetcode.com/problems/isomorphic-strings/?envType=study-plan&id=level-1) | [Python](./leetcode/205/IsomorphicStrings.py)|Easy|
+|392|[IsSubsequence](https://leetcode.com/problems/is-subsequence/?envType=study-plan&id=level-1) | [Python](./leetcode/392/IsSubsequence.py)|Easy|
+
 
 
 HackerRank
