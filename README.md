@@ -19,6 +19,7 @@ LeetCode
 |205|[Isomorphic](https://leetcode.com/problems/isomorphic-strings/?envType=study-plan&id=level-1) | [Python](./leetcode/205/IsomorphicStrings.py)|Easy|
 |392|[IsSubsequence](https://leetcode.com/problems/is-subsequence/?envType=study-plan&id=level-1) | [Python](./leetcode/392/IsSubsequence.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?envType=study-plan&id=level-1) | [Python](./leetcode/21/MergeTwoSortedLists.py)|Easy|🛑|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./leetcode/121/BestTimetoBuyandSellStock.py)|Easy|
 
 
 
