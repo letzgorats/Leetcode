@@ -8,8 +8,8 @@ LeetCode
 ### LeetCode Algorithm
 
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty | Check |
+|---| ----- | -------- | ---------- | ------| 
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./leetcode/88/MergeSortedArray.py)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./leetcode/704/BinarySearch.py)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./leetcode/977/SquaresofaSortedArray.py)|Easy|
@@ -18,6 +18,7 @@ LeetCode
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1) | [Python](./leetcode/724/FindPivotIndex.py)|Easy|
 |205|[Isomorphic](https://leetcode.com/problems/isomorphic-strings/?envType=study-plan&id=level-1) | [Python](./leetcode/205/IsomorphicStrings.py)|Easy|
 |392|[IsSubsequence](https://leetcode.com/problems/is-subsequence/?envType=study-plan&id=level-1) | [Python](./leetcode/392/IsSubsequence.py)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?envType=study-plan&id=level-1) | [Python](./leetcode/21/MergeTwoSortedLists.py)|Easy|🛑|
 
 
 
