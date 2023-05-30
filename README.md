@@ -23,6 +23,7 @@ LeetCode
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?envType=study-plan&id=level-1) | [Python](./leetcode/409/LongestPalindrome.py)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/?envType=study-plan&id=level-1) | [Python](./leetcode/589/N_aryTreePreorderTraversal.py)|Easy|🛑|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/?envType=study-plan&id=level-1) | [Python](./leetcode/733/FloodFill.py)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./leetcode/1/TwoSum.py)|Easy|
 
 
 
