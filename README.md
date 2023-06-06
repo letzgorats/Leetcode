@@ -24,6 +24,7 @@ LeetCode
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/?envType=study-plan&id=level-1) | [Python](./leetcode/589/N_aryTreePreorderTraversal.py)|Easy|🛑|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/?envType=study-plan&id=level-1) | [Python](./leetcode/733/FloodFill.py)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./leetcode/1/TwoSum.py)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/?envType=study-plan&envId=level-1&plan=leetcode-75) | [Python](./leetcode/BinaryTreeLevelOrderTraversal.py)|Easy|
 
 
 
