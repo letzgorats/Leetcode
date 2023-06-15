@@ -306,6 +306,7 @@ LeetCode
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python](./leetcode/75/Sort%20Colors.py)|Medium|🛑|
 |2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/?envType=daily-question&envId=2024-06-13) | [Python](./leetcode/2037/Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.py)|Easy|
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/?envType=daily-question&envId=2024-06-14) | [Python](./leetcode/945/Minimum%20Increment%20to%20Make%20Array%20Unique.py)|Medium|
+|502|[IPO](https://leetcode.com/problems/ipo/description/?envType=daily-question&envId=2024-06-15) | [Python](./leetcode/502/IPO.py)|Hard|🛑|
 
 
 
