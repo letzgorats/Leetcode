@@ -26,6 +26,8 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./leetcode/1/TwoSum.py)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/?envType=study-plan&envId=level-1&plan=leetcode-75) | [Python](./leetcode/BinaryTreeLevelOrderTraversal.py)|Medium|🛑|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/minimum-size-subarray-sum/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/TopKFrequentElements.py)|Medium|🛑|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/20/ValidParentheses.py)|Easy|
+
 
 
 HackerRank
