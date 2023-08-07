@@ -30,6 +30,7 @@ LeetCode
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |[Python](./leetcode/122/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) | Medium |
 |238|[Product Of Array ExceptSelf](https://leetcode.com/problems/product-of-array-except-self/description/) |[Python](./leetcode/238/ProductOfArrayExceptSelf.py) | Medium |🛑|
 |2784|[Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/description/) | [Python](./leetcode/2784/Check%20if%20Array%20is%20Good.py)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Python](.leetcode/112/Path%20Sum.py)|Easy|
 
 
 
