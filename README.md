@@ -31,7 +31,7 @@ LeetCode
 |238|[Product Of Array ExceptSelf](https://leetcode.com/problems/product-of-array-except-self/description/) |[Python](./leetcode/238/ProductOfArrayExceptSelf.py) | Medium |🛑|
 |2784|[Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/description/) | [Python](./leetcode/2784/Check%20if%20Array%20is%20Good.py)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Python](.leetcode/112/Path%20Sum.py)|Easy|
-
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[Python](./leetcode/3/Longest%20Substring%20Without%20Repeating%20Characters.py) | Medium |
 
 
 
