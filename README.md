@@ -35,7 +35,7 @@ LeetCode
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) |[Python](.leetcode/647/Palindromic%20Substrings.py) | Medium |
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |[Python](.leetcode/538/Convert%20BST%20to%20Greater%20Tree.py) | Medium |🛑|
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/) |[Python](.leetcode/486/Predict%20the%20Winner.py) | Medium |🛑|
-
+|1137|[Nth tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Python](./leetcode/1137/N-th%20Tribonacci%20Number.py)|Easy|
 
 
 HackerRank
