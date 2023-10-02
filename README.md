@@ -37,6 +37,8 @@ LeetCode
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/) |[Python](.leetcode/486/Predict%20the%20Winner.py) | Medium |🛑|
 |1137|[Nth tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Python](./leetcode/1137/N-th%20Tribonacci%20Number.py)|Easy|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |[Python](.leetcode/210/Course%20Schedule%20II.py) | Medium |🛑|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/58/Length%20of%20Last%20Word.py)|Easy|
+
 
 HackerRank
 ========
