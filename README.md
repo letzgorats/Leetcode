@@ -39,6 +39,8 @@ LeetCode
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |[Python](.leetcode/210/Course%20Schedule%20II.py) | Medium |🛑|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/58/Length%20of%20Last%20Word.py)|Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=study-plan-v2&envId=top-interview-150) |[Python](./leetcode/17/Letter%20Combinations%20of%20a%20Phone%20Number.py) | Medium |🛑|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/?envType=daily-question&envId=2023-10-05) |[Python](./leetcode/229/Majority%20Element%20II.py) | Medium |
+
 
 HackerRank
 ========
