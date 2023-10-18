@@ -1,11 +1,5 @@
 class Solution(object):
     def minimumTime(self, n, relations, time):
-        """
-        :type n: int
-        :type relations: List[List[int]]
-        :type time: List[int]
-        :rtype: int
-        """
 
         indegree = [0] * (n+1)
         graph = [[] for i in range(n+1)]
