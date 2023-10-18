@@ -30,21 +30,21 @@ LeetCode
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |[Python](./leetcode/122/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) | Medium |
 |238|[Product Of Array ExceptSelf](https://leetcode.com/problems/product-of-array-except-self/description/) |[Python](./leetcode/238/ProductOfArrayExceptSelf.py) | Medium |🛑|
 |2784|[Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/description/) | [Python](./leetcode/2784/Check%20if%20Array%20is%20Good.py)|Easy|
-|112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Python](.leetcode/112/Path%20Sum.py)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Python](./leetcode/112/Path%20Sum.py)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[Python](./leetcode/3/Longest%20Substring%20Without%20Repeating%20Characters.py) | Medium |
-|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) |[Python](.leetcode/647/Palindromic%20Substrings.py) | Medium |
-|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |[Python](.leetcode/538/Convert%20BST%20to%20Greater%20Tree.py) | Medium |🛑|
-|486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/) |[Python](.leetcode/486/Predict%20the%20Winner.py) | Medium |🛑|
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) |[Python](./leetcode/647/Palindromic%20Substrings.py) | Medium |
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |[Python](./leetcode/538/Convert%20BST%20to%20Greater%20Tree.py) | Medium |🛑|
+|486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/) |[Python](./leetcode/486/Predict%20the%20Winner.py) | Medium |🛑|
 |1137|[Nth tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Python](./leetcode/1137/N-th%20Tribonacci%20Number.py)|Easy|
-|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |[Python](.leetcode/210/Course%20Schedule%20II.py) | Medium |🛑|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |[Python](./leetcode/210/Course%20Schedule%20II.py) | Medium |🛑|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/58/Length%20of%20Last%20Word.py)|Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=study-plan-v2&envId=top-interview-150) |[Python](./leetcode/17/Letter%20Combinations%20of%20a%20Phone%20Number.py) | Medium |🛑|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/?envType=daily-question&envId=2023-10-05) |[Python](./leetcode/229/Majority%20Element%20II.py) | Medium |
-|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/?envType=daily-question&envId=2023-10-01) | [Python](.leetcode/557/Reverse%20Words%20in%20a%20String%20III.py)|Easy|
+|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/?envType=daily-question&envId=2023-10-01) | [Python](./leetcode/557/Reverse%20Words%20in%20a%20String%20III.py)|Easy|
 |2038|[Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/?envType=daily-question&envId=2023-10-02) |[Python](./leetcode/2038/Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color.py) | Medium |
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/?envType=daily-question&envId=2023-10-16) | [Python](./leetcode/119/Pascal's%20Triangle%20II.py)|Easy|
-|1361|[Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/description/?envType=daily-question&envId=2023-10-17) |[Python](.leetcode/1361/Validate%20Binary%20Tree%20Nodes.py) | Medium |🛑|
-|2050|[Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/description/?envType=daily-question&envId=2023-10-18) |[Python](.leetcode/2050/Parallel%20Courses%20III.py) | Hard |🛑|
+|1361|[Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/description/?envType=daily-question&envId=2023-10-17) |[Python](./leetcode/1361/Validate%20Binary%20Tree%20Nodes.py) | Medium |🛑|
+|2050|[Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/description/?envType=daily-question&envId=2023-10-18) | [Python](./leetcode/2050/Parallel%20Courses%20III.py) | Hard |🛑|
 
 HackerRank
 ========
