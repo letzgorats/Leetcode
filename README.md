@@ -44,8 +44,7 @@ LeetCode
 |2038|[Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/?envType=daily-question&envId=2023-10-02) |[Python](./leetcode/2038/Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color.py) | Medium |
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/?envType=daily-question&envId=2023-10-16) | [Python](./leetcode/119/Pascal's%20Triangle%20II.py)|Easy|
 |1361|[Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/description/?envType=daily-question&envId=2023-10-17) |[Python](.leetcode/1361/Validate%20Binary%20Tree%20Nodes.py) | Medium |🛑|
-
-
+|2050|[Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/description/?envType=daily-question&envId=2023-10-18) |[Python](.leetcode/2050/Parallel%20Courses%20III.py) | Hard |🛑|
 
 HackerRank
 ========
