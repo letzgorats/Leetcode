@@ -20,9 +20,6 @@ class Solution(object):
             elif alpha != "#":
                 tmp2.append(alpha)
 
-        print(tmp1)
-        print(tmp2)
-        if tmp1 == tmp2 :
-            return True
-        else:
-            return False
+        # print(tmp1)
+        # print(tmp2)
+        return tmp1 == tmp2
