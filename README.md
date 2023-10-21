@@ -47,7 +47,7 @@ LeetCode
 |2050|[Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/description/?envType=daily-question&envId=2023-10-18) | [Python](./leetcode/2050/Parallel%20Courses%20III.py) | Hard |🛑|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/?envType=daily-question&envId=2023-10-19) | [Python](./leetcode/844/Backspace%20String%20Compare.py)|Easy|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/?envType=daily-question&envId=2023-10-20) |[Python](./leetcode/341/Flatten%20Nested%20List%20Iterator.py) | Medium |🛑|
-
+|1425|[Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/?envType=daily-question&envId=2023-10-21) | [Python](./leetcode/1425/Constrained%20Subsequence%20Sum.py) | Hard |🛑|
 
 
 HackerRank
