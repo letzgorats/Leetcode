@@ -50,7 +50,7 @@ LeetCode
 |1425|[Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/?envType=daily-question&envId=2023-10-21) | [Python](./leetcode/1425/Constrained%20Subsequence%20Sum.py) | Hard |🛑|
 |1793|[Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | [Python](./leetcode/1793/Maximum%20Score%20of%20a%20Good%20Subarray.py) | Hard |🛑|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/?envType=daily-question&envId=2023-10-23) | [Python](./leetcode/342/Power%20of%20Four.py)|Easy|
-
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |[Python](./leetcode/515/Find%20Largest%20Value%20in%20Each%20Tree%20Row.py) | Medium |
 
 
 HackerRank
