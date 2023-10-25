@@ -51,6 +51,8 @@ LeetCode
 |1793|[Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | [Python](./leetcode/1793/Maximum%20Score%20of%20a%20Good%20Subarray.py) | Hard |🛑|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/?envType=daily-question&envId=2023-10-23) | [Python](./leetcode/342/Power%20of%20Four.py)|Easy|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |[Python](./leetcode/515/Find%20Largest%20Value%20in%20Each%20Tree%20Row.py) | Medium |
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25) |[Python](./leetcode/779/K-th%20Symbol%20in%20Grammar.py) | Medium |
+
 
 
 HackerRank
