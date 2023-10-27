@@ -53,6 +53,8 @@ LeetCode
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |[Python](./leetcode/515/Find%20Largest%20Value%20in%20Each%20Tree%20Row.py) | Medium |
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25) |[Python](./leetcode/779/K-th%20Symbol%20in%20Grammar.py) | Medium |
 |823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/description/?envType=daily-question&envId=2023-10-26) |[Python](./leetcode/823/Binary%20Trees%20With%20Factors.py) | Medium |🛑|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=daily-question&envId=2023-10-27) |[Python](./leetcode/5/Longest%20Palindromic%20Substring.py) | Medium |
+
 
 
 HackerRank
