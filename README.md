@@ -54,7 +54,7 @@ LeetCode
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=daily-question&envId=2023-10-25) |[Python](./leetcode/779/K-th%20Symbol%20in%20Grammar.py) | Medium |
 |823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/description/?envType=daily-question&envId=2023-10-26) |[Python](./leetcode/823/Binary%20Trees%20With%20Factors.py) | Medium |🛑|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=daily-question&envId=2023-10-27) |[Python](./leetcode/5/Longest%20Palindromic%20Substring.py) | Medium |
-
+|1220|[Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/?envType=daily-question&envId=2023-10-28) | [Python](./leetcode/1220/Count%20Vowels%20Permutation.py) | Hard |🛑|
 
 
 HackerRank
