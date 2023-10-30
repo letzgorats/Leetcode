@@ -56,6 +56,8 @@ LeetCode
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=daily-question&envId=2023-10-27) |[Python](./leetcode/5/Longest%20Palindromic%20Substring.py) | Medium |
 |1220|[Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/?envType=daily-question&envId=2023-10-28) | [Python](./leetcode/1220/Count%20Vowels%20Permutation.py) | Hard |🛑|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/?envType=daily-question&envId=2023-10-29) | [Python](./leetcode/458/Poor%20Pigs.py) | Hard |🛑|
+|1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Python](./leetcode/1356/Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py)|Easy|
+
 
 
 HackerRank
