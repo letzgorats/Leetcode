@@ -58,6 +58,8 @@ LeetCode
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/?envType=daily-question&envId=2023-10-29) | [Python](./leetcode/458/Poor%20Pigs.py) | Hard |🛑|
 |1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Python](./leetcode/1356/Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py)|Easy|
 |2433|[Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) |[Python](./leetcode/2433/Find%20The%20Original%20Array%20of%20Prefix%20Xor.py) | Medium |
+|501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/?envType=daily-question&envId=2023-11-01) | [Python](./leetcode/501/Find%20Mode%20in%20Binary%20Search%20Tree.py)|Easy|
+ 
 
 
 HackerRank
