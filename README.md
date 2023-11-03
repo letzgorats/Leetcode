@@ -60,6 +60,8 @@ LeetCode
 |2433|[Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) |[Python](./leetcode/2433/Find%20The%20Original%20Array%20of%20Prefix%20Xor.py) | Medium |
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/?envType=daily-question&envId=2023-11-01) | [Python](./leetcode/501/Find%20Mode%20in%20Binary%20Search%20Tree.py)|Easy|
 |2265|[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/?envType=daily-question&envId=2023-11-02) |[Python](./leetcode/2265/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.py) | Medium |🛑|
+|1441|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/?envType=daily-question&envId=2023-11-03) |[Python](./leetcode/1441/Build%20an%20Array%20With%20Stack%20Operations.py) | Medium |
+
 
 
 
