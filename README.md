@@ -63,6 +63,7 @@ LeetCode
 |1441|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/?envType=daily-question&envId=2023-11-03) |[Python](./leetcode/1441/Build%20an%20Array%20With%20Stack%20Operations.py) | Medium |
 |1503|[Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/?envType=daily-question&envId=2023-11-04) |[Python](./leetcode/1503/Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank.py) | Medium |
 |1535|[Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/?envType=daily-question&envId=2023-11-05) |[Python](./leetcode/1535/Find%20the%20Winner%20of%20an%20Array%20Game.py) | Medium |🛑|
+|1845|[Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/?envType=daily-question&envId=2023-11-06) |[Python](./leetcode/1845/Seat%20Reservation%20Manager.py) | Medium |
 
 
 HackerRank
