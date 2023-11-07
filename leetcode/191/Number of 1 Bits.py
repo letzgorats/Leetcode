@@ -27,3 +27,15 @@ class Solution(object):
             mask <<= 1
         
         return answer
+
+# sol 3
+class Solution(object):
+    def hammingWeight(self, n):
+
+
+        ans = 0
+        while n :
+            ans += (n%2)
+            n >>= 1
+        
+        return ans
