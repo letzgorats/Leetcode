@@ -65,6 +65,9 @@ LeetCode
 |1535|[Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/?envType=daily-question&envId=2023-11-05) |[Python](./leetcode/1535/Find%20the%20Winner%20of%20an%20Array%20Game.py) | Medium |🛑|
 |1845|[Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/?envType=daily-question&envId=2023-11-06) |[Python](./leetcode/1845/Seat%20Reservation%20Manager.py) | Medium |
 |1921|[Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/?envType=daily-question&envId=2023-11-07) |[Python](./leetcode/1921/Eliminate%20Maximum%20Number%20of%20Monsters.py) | Medium |🛑|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Python](./leetcode/191/Number%20of%201%20Bits.py)|Easy|
+
+
 
 
 HackerRank
