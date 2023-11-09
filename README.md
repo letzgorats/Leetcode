@@ -67,6 +67,8 @@ LeetCode
 |1921|[Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/?envType=daily-question&envId=2023-11-07) |[Python](./leetcode/1921/Eliminate%20Maximum%20Number%20of%20Monsters.py) | Medium |🛑|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Python](./leetcode/191/Number%20of%201%20Bits.py)|Easy|
 |2849|[Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/?envType=daily-question&envId=2023-11-08) |[Python](./leetcode/2849/Determine%20if%20a%20Cell%20Is%20Reachable%20at%20a%20Given%20Time.py) | Medium |🛑|
+|1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/?envType=daily-question&envId=2023-11-09) |[Python](./https://github.com/letzgorats/Leetcode/tree/main/leetcode/1759) | Medium |
+
 
 
 
