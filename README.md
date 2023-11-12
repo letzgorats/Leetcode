@@ -70,6 +70,7 @@ LeetCode
 |1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/?envType=daily-question&envId=2023-11-09) |[Python](./leetcode/1759/Count%20Number%20of%20Homogenous%20Substrings.py) | Medium |
 |1743|[Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/?envType=daily-question&envId=2023-11-10) |[Python](./leetcode/1743/Restore%20the%20Array%20From%20Adjacent%20Pairs.py) | Medium |🛑|
 |2642|[Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/?envType=daily-question&envId=2023-11-11) | [Python](./leetcode/2642/Design%20Graph%20With%20Shortest%20Path%20Calculator.py) | Hard |🛑|
+|815|[Bus Routes](https://leetcode.com/problems/bus-routes/description/?envType=daily-question&envId=2023-11-12) | [Python](./leetcode/815/Bus%20Routes.py) | Hard |🛑|
 
 
 
