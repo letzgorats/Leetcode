@@ -73,7 +73,7 @@ LeetCode
 |815|[Bus Routes](https://leetcode.com/problems/bus-routes/description/?envType=daily-question&envId=2023-11-12) | [Python](./leetcode/815/Bus%20Routes.py) | Hard |🛑|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/?envType=daily-question&envId=2023-11-12) | [Python](./leetcode/746/Min%20Cost%20Climbing%20Stairs.py)|Easy|🛑|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Python](./leetcode/13/Roman%20to%20Integer.py)|Easy|
-
+|2785|[Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/?envType=daily-question&envId=2023-11-13) |[Python](./leetcode/2785/Sort%20Vowels%20in%20a%20String.py) | Medium |
 
 
 
