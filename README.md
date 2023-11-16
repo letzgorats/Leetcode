@@ -75,8 +75,8 @@ LeetCode
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Python](./leetcode/13/Roman%20to%20Integer.py)|Easy|
 |2785|[Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/?envType=daily-question&envId=2023-11-13) |[Python](./leetcode/2785/Sort%20Vowels%20in%20a%20String.py) | Medium |
 |1930|[Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/?envType=daily-question&envId=2023-11-14) |[Python](./leetcode/1930/Unique%20Length-3%20Palindromic%20Subsequences.py) | Medium |🛑|
-|1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/?envType=daily-question&envId=2023-11-15) |[Python](./leetcode/1846/Maximum%20Element%20After%20Decreasing%20and%20Rearranging.py) | Medium |
-
+|1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/?envType=daily-question&envId=2023-11-15) | [Python](./leetcode/1846/Maximum%20Element%20After%20Decreasing%20and%20Rearranging.py) | Medium |
+|1980|[Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/?envType=daily-question&envId=2023-11-16) |[Python](./leetcode/1980/Find%20Unique%20Binary%20String.py) | Medium |
 
 
 
