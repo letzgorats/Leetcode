@@ -78,7 +78,7 @@ LeetCode
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/?envType=daily-question&envId=2023-11-15) | [Python](./leetcode/1846/Maximum%20Element%20After%20Decreasing%20and%20Rearranging.py) | Medium |
 |1980|[Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/?envType=daily-question&envId=2023-11-16) |[Python](./leetcode/1980/Find%20Unique%20Binary%20String.py) | Medium |
 |1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/?envType=daily-question&envId=2023-11-17) |[Python](./leetcode/1877/Minimize%20Maximum%20Pair%20Sum%20in%20Array.py) | Medium|
-
+|1838|[Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/) |[Python](./leetcode/1838/Frequency%20of%20the%20Most%20Frequent%20Element.py) | Medium |🛑|
 
 
 
