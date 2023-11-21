@@ -81,7 +81,7 @@ LeetCode
 |1838|[Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/) |[Python](./leetcode/1838/Frequency%20of%20the%20Most%20Frequent%20Element.py) | Medium |🛑|
 |1887|[Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) |[Python](./leetcode/1887/Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal.py) | Medium |
 |2391|[Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/?envType=daily-question&envId=2023-11-20) |[Python](./leetcode/2391/Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.py) | Medium |
-
+|1814|[Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/?envType=daily-question&envId=2023-11-21) |[Python](./leetcode/1814/Count%20Nice%20Pairs%20in%20an%20Array.py) | Medium |🛑|
 
 
 
