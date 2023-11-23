@@ -83,6 +83,7 @@ LeetCode
 |2391|[Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/?envType=daily-question&envId=2023-11-20) | [Python](./leetcode/2391/Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.py) | Medium |
 |1814|[Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/?envType=daily-question&envId=2023-11-21) |[Python](./leetcode/1814/Count%20Nice%20Pairs%20in%20an%20Array.py) | Medium |🛑|
 |1424| [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/description/?envType=daily-question&envId=2023-11-22) |[Python](./leetcode/1424/Diagonal%20Traverse%20II.py) | Medium |🛑|
+|1630| [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/?envType=daily-question&envId=2023-11-23) |[Python](./leetcode/1630/Arithmetic%20Subarrays.py) | Medium |
 
 
 HackerRank
