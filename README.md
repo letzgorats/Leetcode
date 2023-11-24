@@ -84,6 +84,8 @@ LeetCode
 |1814|[Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/?envType=daily-question&envId=2023-11-21) |[Python](./leetcode/1814/Count%20Nice%20Pairs%20in%20an%20Array.py) | Medium |🛑|
 |1424| [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/description/?envType=daily-question&envId=2023-11-22) |[Python](./leetcode/1424/Diagonal%20Traverse%20II.py) | Medium |🛑|
 |1630| [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/?envType=daily-question&envId=2023-11-23) |[Python](./leetcode/1630/Arithmetic%20Subarrays.py) | Medium |
+|1561| [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/?envType=daily-question&envId=2023-11-24) |[Python](./leetcode/1561/Maximum%20Number%20of%20Coins%20You%20Can%20Get.py) | Medium |
+
 
 
 HackerRank
