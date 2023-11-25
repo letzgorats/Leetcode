@@ -43,5 +43,30 @@ class Solution(object):
 
         return answer
 
+
+
+class Solution(object):
+    def getSumAbsoluteDifferences(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        n = len(nums)
+
+        left = 0
+        right = sum(nums)
+        answer = []
+
+        for idx in range(n):
+
+            if len(answer) == 0:
+                answer.append(right-n*nums[idx])
+            else:
+                answer.append(nums[idx]*idx-left + right-nums[idx]-(n-idx-1)*nums[idx])
+            left += nums[idx]
+            right -= nums[idx]
+            
+
+        return answer
             
         
