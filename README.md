@@ -85,6 +85,7 @@ LeetCode
 |1424| [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/description/?envType=daily-question&envId=2023-11-22) |[Python](./leetcode/1424/Diagonal%20Traverse%20II.py) | Medium |🛑|
 |1630| [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/?envType=daily-question&envId=2023-11-23) |[Python](./leetcode/1630/Arithmetic%20Subarrays.py) | Medium |
 |1561| [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/?envType=daily-question&envId=2023-11-24) |[Python](./leetcode/1561/Maximum%20Number%20of%20Coins%20You%20Can%20Get.py) | Medium |
+|1685| [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/?envType=daily-question&envId=2023-11-25) |[Python](./leetcode/1685/Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array.py) | Medium |🛑|
 
 
 
