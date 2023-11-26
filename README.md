@@ -87,6 +87,7 @@ LeetCode
 |1561| [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/?envType=daily-question&envId=2023-11-24) |[Python](./leetcode/1561/Maximum%20Number%20of%20Coins%20You%20Can%20Get.py) | Medium |
 |1685| [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/?envType=daily-question&envId=2023-11-25) |[Python](./leetcode/1685/Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array.py) | Medium |🛑|
 |1727| [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/?envType=daily-question&envId=2023-11-26) |[Python](./leetcode/1727/Largest%20Submatrix%20With%20Rearrangements.py) | Medium |🛑|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Python](./leetcode/84/Largest%20Rectangle%20in%20Histogram.py) | Hard |🛑|
 
 
 HackerRank
