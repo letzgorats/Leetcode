@@ -89,7 +89,7 @@ LeetCode
 |1727| [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/?envType=daily-question&envId=2023-11-26) |[Python](./leetcode/1727/Largest%20Submatrix%20With%20Rearrangements.py) | Medium |🛑|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Python](./leetcode/84/Largest%20Rectangle%20in%20Histogram.py) | Hard |🛑|
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/?envType=daily-question&envId=2023-11-27) |[Python](./leetcode/935/Knight%20Dialer.py) | Medium |🛑|
-
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/26/Remove%20Duplicates%20from%20Sorted%20Array.py)|Easy|
 
 
 HackerRank
