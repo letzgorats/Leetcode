@@ -90,7 +90,7 @@ LeetCode
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Python](./leetcode/84/Largest%20Rectangle%20in%20Histogram.py) | Hard |🛑|
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/?envType=daily-question&envId=2023-11-27) |[Python](./leetcode/935/Knight%20Dialer.py) | Medium |🛑|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/26/Remove%20Duplicates%20from%20Sorted%20Array.py)|Easy|
-
+|1611|[Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/?envType=daily-question&envId=2023-11-30) | [Python](./leetcode/1611/Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero.py) | Hard |🛑|
 
 HackerRank
 ========
