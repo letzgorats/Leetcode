@@ -93,6 +93,7 @@ LeetCode
 |1611|[Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/?envType=daily-question&envId=2023-11-30) | [Python](./leetcode/1611/Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero.py) | Hard |🛑|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/?envType=daily-question&envId=2023-12-01) | [Python](./leetcode/1662/Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/?envType=daily-question&envId=2023-12-02) | [Python](./leetcode/1160/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.py)|Easy|
+|1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/?envType=daily-question&envId=2023-12-03) | [Python](./leetcode/1266/Minimum%20Time%20Visiting%20All%20Points.py)|Easy|
 
 
 HackerRank
