@@ -97,7 +97,7 @@ LeetCode
 |2264|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2023-12-04) | [Python](./leetcode/2264/Largest%203-Same-Digit%20Number%20in%20String.py)|Easy|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/?envType=daily-question&envId=2023-12-05) | [Python](./leetcode/1688/Count%20of%20Matches%20in%20Tournament.py)|Easy|
 |1716|[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envType=daily-question&envId=2023-12-06) | [Python](./leetcode/1716/Calculate%20Money%20in%20Leetcode%20Bank.py)|Easy|
-
+|1903|[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=daily-question&envId=2023-12-07) | [Python](./leetcode/1903/Largest%20Odd%20Number%20in%20String.py)|Easy|
 
 
 HackerRank
