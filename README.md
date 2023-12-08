@@ -98,6 +98,8 @@ LeetCode
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/?envType=daily-question&envId=2023-12-05) | [Python](./leetcode/1688/Count%20of%20Matches%20in%20Tournament.py)|Easy|
 |1716|[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envType=daily-question&envId=2023-12-06) | [Python](./leetcode/1716/Calculate%20Money%20in%20Leetcode%20Bank.py)|Easy|
 |1903|[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=daily-question&envId=2023-12-07) | [Python](./leetcode/1903/Largest%20Odd%20Number%20in%20String.py)|Easy|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/?envType=daily-question&envId=2023-12-08) | [Python](./leetcode/606/Construct%20String%20from%20Binary%20Tree.py)|Easy|
+
 
 
 HackerRank
