@@ -1,4 +1,4 @@
-# solution 1)
+# solution 1) dfs
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
@@ -12,7 +12,7 @@ class Solution(object):
         return self.inorderTraversal(root.left) + [root.val] + self.inorderTraversal(root.right) if root else []
 
 
-# solution 2)
+# solution 2) dfs
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
