@@ -100,6 +100,7 @@ LeetCode
 |1903|[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=daily-question&envId=2023-12-07) | [Python](./leetcode/1903/Largest%20Odd%20Number%20in%20String.py)|Easy|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/?envType=daily-question&envId=2023-12-08) | [Python](./leetcode/606/Construct%20String%20from%20Binary%20Tree.py)|Easy|
 |809|[Expressive Words](https://leetcode.com/problems/expressive-words/description/) | [Python](./leetcode/809/Expressive%20Words.py)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/?envType=daily-question&envId=2023-12-09) | [Python](./leetcode/94/Binary%20Tree%20Inorder%20Traversal.py)|Easy|
 
 
 
