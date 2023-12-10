@@ -101,6 +101,7 @@ LeetCode
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/?envType=daily-question&envId=2023-12-08) | [Python](./leetcode/606/Construct%20String%20from%20Binary%20Tree.py)|Easy|
 |809|[Expressive Words](https://leetcode.com/problems/expressive-words/description/) | [Python](./leetcode/809/Expressive%20Words.py)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/?envType=daily-question&envId=2023-12-09) | [Python](./leetcode/94/Binary%20Tree%20Inorder%20Traversal.py)|Easy|
+|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/?envType=daily-question&envId=2023-12-10) | [Python](./leetcode/867/Transpose%20Matrix.py)|Easy|
 
 
 
