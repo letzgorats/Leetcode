@@ -104,6 +104,7 @@ LeetCode
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/?envType=daily-question&envId=2023-12-10) | [Python](./leetcode/867/Transpose%20Matrix.py)|Easy|
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Python](./leetcode/1287/Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array.py)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/125/Valid%20Palindrome.py)|Easy|
+|1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/?envType=daily-question&envId=2023-12-12) | [Python](./leetcode/1464/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py)|Easy|
 
  
 HackerRank
