@@ -106,8 +106,8 @@ LeetCode
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/125/Valid%20Palindrome.py)|Easy|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/?envType=daily-question&envId=2023-12-12) | [Python](./leetcode/1464/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/383/Ransom%20Note.py)|Easy|
+|1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/?envType=daily-question&envId=2023-12-13) | [Python](./leetcode/1582/Special%20Positions%20in%20a%20Binary%20Matrix.py)|Easy|
 
- 
 HackerRank
 ========
 
