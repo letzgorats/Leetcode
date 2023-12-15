@@ -110,7 +110,7 @@ LeetCode
 |2482|[Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/) | [Python](./leetcode/2482/Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column.py)|Medium|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/290/Word%20Pattern.py)|Easy|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/?envType=daily-question&envId=2023-12-15) | [Python](./leetcode/1436/Destination%20City.py)|Easy|
-|909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Python](./leetcode/909/Snakes%20and%20Ladders.py)|Medium|
+|909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Python](./leetcode/909/Snakes%20and%20Ladders.py)|Medium|🛑|
 
 HackerRank
 ========
