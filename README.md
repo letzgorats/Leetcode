@@ -112,6 +112,8 @@ LeetCode
 |1436|[Destination City](https://leetcode.com/problems/destination-city/?envType=daily-question&envId=2023-12-15) | [Python](./leetcode/1436/Destination%20City.py)|Easy|
 |909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Python](./leetcode/909/Snakes%20and%20Ladders.py)|Medium|🛑|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=daily-question&envId=2023-12-16) | [Python](./leetcode/242/Valid%20Anagram.py)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/70/Climbing%20Stairs.py)|Easy|🛑|
+
 
 
 HackerRank
