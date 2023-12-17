@@ -114,7 +114,7 @@ LeetCode
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=daily-question&envId=2023-12-16) | [Python](./leetcode/242/Valid%20Anagram.py)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/70/Climbing%20Stairs.py)|Easy|🛑|
 |2353|[Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2023-12-17) | [Python](./leetcode/2353/Design%20a%20Food%20Rating%20System.py)|Medium|🛑|
-
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/215/Kth%20Largest%20Element%20in%20an%20Array.py)|Medium|
 
 
 HackerRank
