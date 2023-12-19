@@ -116,6 +116,8 @@ LeetCode
 |2353|[Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2023-12-17) | [Python](./leetcode/2353/Design%20a%20Food%20Rating%20System.py)|Medium|🛑|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/215/Kth%20Largest%20Element%20in%20an%20Array.py)|Medium|
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18) | [Python](./leetcode/1913/Maximum%20Product%20Difference%20Between%20Two%20Pairs.py)|Easy|
+|661|[Image Smoother](https://leetcode.com/problems/image-smoother/?envType=daily-question&envId=2023-12-19) | [Python](./leetcode/661/Image%20Smoother.py)|Easy|
+
 
 
 
