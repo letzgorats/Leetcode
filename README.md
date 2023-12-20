@@ -119,7 +119,7 @@ LeetCode
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/?envType=daily-question&envId=2023-12-19) | [Python](./leetcode/661/Image%20Smoother.py)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/219/Contains%20Duplicate%20II.py)|Easy|
 |2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20) | [Python](./leetcode/2706/Buy%20Two%20Chocolates.py)|Easy|
-
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/80/Remove%20Duplicates%20from%20Sorted%20Array%20II.py)|Medium|🛑|
 
 
 
