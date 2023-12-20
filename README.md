@@ -118,6 +118,9 @@ LeetCode
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18) | [Python](./leetcode/1913/Maximum%20Product%20Difference%20Between%20Two%20Pairs.py)|Easy|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/?envType=daily-question&envId=2023-12-19) | [Python](./leetcode/661/Image%20Smoother.py)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/219/Contains%20Duplicate%20II.py)|Easy|
+|2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20) | [Python](./leetcode/2706/Buy%20Two%20Chocolates.py)|Easy|
+
+
 
 
 HackerRank
