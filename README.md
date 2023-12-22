@@ -121,6 +121,7 @@ LeetCode
 |2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20) | [Python](./leetcode/2706/Buy%20Two%20Chocolates.py)|Easy|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/80/Remove%20Duplicates%20from%20Sorted%20Array%20II.py)|Medium|🛑|
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Python](./leetcode/1637/Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py)|Medium|
+|1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python](./leetcode/1422/Maximum%20Score%20After%20Splitting%20a%20String.py)|Easy|
 
 
 HackerRank
