@@ -124,6 +124,7 @@ LeetCode
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python](./leetcode/1422/Maximum%20Score%20After%20Splitting%20a%20String.py)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/228/Summary%20Ranges.py)|Easy|
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23) | [Python](./leetcode/1496/Path%20Crossing.py)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/202/Happy%20Number.py)|Easy|
 
 
 HackerRank
