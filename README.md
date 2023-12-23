@@ -123,8 +123,7 @@ LeetCode
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Python](./leetcode/1637/Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py)|Medium|
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python](./leetcode/1422/Maximum%20Score%20After%20Splitting%20a%20String.py)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/228/Summary%20Ranges.py)|Easy|
-
-
+|1496|[Path Crossing](https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23) | [Python](./leetcode/1496/Path%20Crossing.py)|Easy|
 
 
 HackerRank
