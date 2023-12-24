@@ -125,6 +125,8 @@ LeetCode
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/228/Summary%20Ranges.py)|Easy|
 |1496|[Path Crossing](https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23) | [Python](./leetcode/1496/Path%20Crossing.py)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/202/Happy%20Number.py)|Easy|
+|1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Python](./leetcode/1758/Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.py)|Easy|
+
 
 
 HackerRank
