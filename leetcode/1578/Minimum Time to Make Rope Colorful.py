@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/minimum-time-to-make-rope-colorful/solutions/4463574/98-20-beats-intuitive-approach-easy-to-understand-python/
+
 class Solution:
     def minCost(self, colors: str, neededTime: List[int]) -> int:
 
@@ -60,6 +62,53 @@ class Solution:
         #     i             j
         # 1 + 3 + 5 + 4 + 5 + 4 + 4 + 2 + 6 + 
 
+# solution using function
+class Solution:
+    def minCost(self, colors: str, neededTime: List[int]) -> int:
+
+        if len(neededTime) <= 1:
+            return 0
+
+        def change_index(i,j):
+
+            if j - i >= 2:
+                i = j       # change standard
+                j += 1
+
+            else: 
+                i += 1
+                j += 1
+
+            return i,j
+
+
+        cost = 0
+        i,j = 0,1
+        n = len(colors)
+
+        while i < n and j < n:
+
+            if colors[i] != colors[j]:
+
+                i,j = change_index(i,j)
+            
+            else:
+                if neededTime[i] <= neededTime[j] :
+
+                    cost += neededTime[i]
+                    i,j = change_index(i,j)
+
+                else:
+                    
+                    cost += neededTime[j]
+                    # 어차피 현재 max neededTime 값은 i 위치에 있다.
+                    # neededTime[i] 가 max time 이므로
+                    # j만 단순히 증가 시켜도 비교하는데 문제 없다.
+                    # 지금 현재 i 위치의 값보다 큰 값이 나오면, 
+                    # 그 때 가서 i 값을 갱신하면 된다.
+                    j += 1  
+
+        return cost
 
 
 # refactoring code
