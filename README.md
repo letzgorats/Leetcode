@@ -129,6 +129,9 @@ LeetCode
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/?envType=daily-question&envId=2023-12-25) | [Python](./leetcode/91/Decode%20Ways.py)|Medium|🛑|
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/?envType=daily-question&envId=2023-12-26) | [Python](./leetcode/1155/Number%20of%20Dice%20Rolls%20With%20Target%20Sum.py)|Medium|🛑|
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/?envType=daily-question&envId=2023-12-27) | [Python](./leetcode/1578/Minimum%20Time%20to%20Make%20Rope%20Colorful.py)|Medium|
+|1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/description/?envType=daily-question&envId=2023-12-28) | [Python](./leetcode/1531/String%20Compression%20II.py)|Hard|(?)🛑|
+
+
 
 
 
