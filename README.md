@@ -132,7 +132,7 @@ LeetCode
 |1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/description/?envType=daily-question&envId=2023-12-28) | [Python](./leetcode/1531/String%20Compression%20II.py)|Hard|🛑|
 |1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/?envType=daily-question&envId=2023-12-29) | [Python](./leetcode/1335/Minimum%20Difficulty%20of%20a%20Job%20Schedule.py)|Hard|🛑|
 |1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Python](./leetcode/1897/Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.py)|Easy|
-
+|1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/?envType=daily-question&envId=2023-12-31) | [Python](./leetcode/1624/Largest%20Substring%20Between%20Two%20Equal%20Characters.py)|Easy|
 
 
 
