@@ -134,6 +134,7 @@ LeetCode
 |1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Python](./leetcode/1897/Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.py)|Easy|
 |1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/?envType=daily-question&envId=2023-12-31) | [Python](./leetcode/1624/Largest%20Substring%20Between%20Two%20Equal%20Characters.py)|Easy|
 |455|[Solution with step by step explanation](https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01) | [Python](./leetcode/455/Assign%20Cookies.py)|Easy|
+|2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python](./leetcode/2610/Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.py)|Medium|
 
 
 
