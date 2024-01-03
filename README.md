@@ -135,7 +135,7 @@ LeetCode
 |1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/?envType=daily-question&envId=2023-12-31) | [Python](./leetcode/1624/Largest%20Substring%20Between%20Two%20Equal%20Characters.py)|Easy|
 |455|[Solution with step by step explanation](https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01) | [Python](./leetcode/455/Assign%20Cookies.py)|Easy|
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python](./leetcode/2610/Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.py)|Medium|
-
+|2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/?envType=daily-question&envId=2024-01-03) | [Python](./leetcode/2125/Number%20of%20Laser%20Beams%20in%20a%20Bank.py)|Medium|
 
 
 
