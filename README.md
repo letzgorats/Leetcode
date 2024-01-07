@@ -139,6 +139,8 @@ LeetCode
 |2870|[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/?envType=daily-question&envId=2024-01-04) | [Python](./leetcode/2870/Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.py)|Medium|🛑|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/?envType=daily-question&envId=2024-01-05) | [Python](./leetcode/300/Longest%20Increasing%20Subsequence.py)|Medium|🛑|
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/?envType=daily-question&envId=2024-01-06) | [Python](./leetcode/1235/Maximum%20Profit%20in%20Job%20Scheduling.py)|Hard|🛑|
+|446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/?envType=daily-question&envId=2024-01-07) | [Python](./leetcode/446/Arithmetic%20Slices%20II%20-%20Subsequence.py)|Hard|🛑|
+
 
 
 HackerRank
