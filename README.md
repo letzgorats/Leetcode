@@ -141,6 +141,8 @@ LeetCode
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/?envType=daily-question&envId=2024-01-06) | [Python](./leetcode/1235/Maximum%20Profit%20in%20Job%20Scheduling.py)|Hard|🛑|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/?envType=daily-question&envId=2024-01-07) | [Python](./leetcode/446/Arithmetic%20Slices%20II%20-%20Subsequence.py)|Hard|🛑|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) | [Python](./leetcode/413/Arithmetic%20Slices.py)|Medium|🛑|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08) | [Python](./leetcode/938/Range%20Sum%20of%20BST.py)|Easy|
+
 
 
 HackerRank
