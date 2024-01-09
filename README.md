@@ -142,6 +142,8 @@ LeetCode
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/?envType=daily-question&envId=2024-01-07) | [Python](./leetcode/446/Arithmetic%20Slices%20II%20-%20Subsequence.py)|Hard|🛑|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) | [Python](./leetcode/413/Arithmetic%20Slices.py)|Medium|🛑|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08) | [Python](./leetcode/938/Range%20Sum%20of%20BST.py)|Easy|
+|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/?envType=daily-question&envId=2024-01-09) | [Python](./leetcode/872/Leaf-Similar%20Trees.py)|Easy|
+
 
 
 
