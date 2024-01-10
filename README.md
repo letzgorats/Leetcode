@@ -143,8 +143,7 @@ LeetCode
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) | [Python](./leetcode/413/Arithmetic%20Slices.py)|Medium|🛑|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08) | [Python](./leetcode/938/Range%20Sum%20of%20BST.py)|Easy|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/?envType=daily-question&envId=2024-01-09) | [Python](./leetcode/872/Leaf-Similar%20Trees.py)|Easy|
-
-
+|2385|[Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10) | [Python](./leetcode/2385/Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected.py)|Medium|🛑|
 
 
 HackerRank
