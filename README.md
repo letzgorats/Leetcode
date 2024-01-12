@@ -145,6 +145,7 @@ LeetCode
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/?envType=daily-question&envId=2024-01-09) | [Python](./leetcode/872/Leaf-Similar%20Trees.py)|Easy|
 |2385|[Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10) | [Python](./leetcode/2385/Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected.py)|Medium|🛑|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/?envType=daily-question&envId=2024-01-11) | [Python](./leetcode/1026/Maximum%20Difference%20Between%20Node%20and%20Ancestor.py)|Medium|🛑|
+|1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=daily-question&envId=2024-01-12) | [Python](./leetcode/1704/Determine%20if%20String%20Halves%20Are%20Alike.py)|Easy|
 
 
 
