@@ -148,8 +148,7 @@ LeetCode
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=daily-question&envId=2024-01-12) | [Python](./leetcode/1704/Determine%20if%20String%20Halves%20Are%20Alike.py)|Easy|
 |1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/?envType=daily-question&envId=2024-01-13) | [Python](./leetcode/1347/Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.py)|Medium|🛑|
 |1657|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/description/?envType=daily-question&envId=2024-01-14) | [Python](./leetcode/1657/Determine%20if%20Two%20Strings%20Are%20Close.py)|Medium|🛑|
-
-
+|2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/?envType=daily-question&envId=2024-01-15) | [Python](./leetcode/2225/Find%20Players%20With%20Zero%20or%20One%20Losses.py)|Medium|
 
 
 
