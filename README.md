@@ -151,6 +151,7 @@ LeetCode
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/?envType=daily-question&envId=2024-01-15) | [Python](./leetcode/2225/Find%20Players%20With%20Zero%20or%20One%20Losses.py)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=daily-question&envId=2024-01-16) | [Python](./leetcode/380/Insert%20Delete%20GetRandom%20O(1).py)|Medium|🛑|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/solutions/?envType=daily-question&envId=2024-01-17) | [Python](./leetcode/1207/Unique%20Number%20of%20Occurrences.py)|Easy|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/?envType=daily-question&envId=2024-01-18) | [Python](./leetcode/168/Excel%20Sheet%20Column%20Title.py)|Easy|🛑|
 
 
 
