@@ -157,6 +157,7 @@ LeetCode
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/?envType=daily-question&envId=2024-01-21) | [Python](./leetcode/198/House%20Robber.py)|Medium|🛑|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/?envType=daily-question&envId=2024-01-22) | [Python](./leetcode/645/Set%20Mismatch.py)|Easy|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/?envType=daily-question&envId=2024-01-23) | [Python](./leetcode/1239/Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.py)|Medium|🛑|
+|1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/?envType=daily-question&envId=2024-01-24) | [Python](./leetcode/1457/Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.py)|Medium|
 
 
 
