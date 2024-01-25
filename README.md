@@ -160,6 +160,9 @@ LeetCode
 |1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/?envType=daily-question&envId=2024-01-24) | [Python](./leetcode/1457/Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.py)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/104/Maximum%20Depth%20of%20Binary%20Tree.py)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/100/Same%20Tree.py)|Easy|
+|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/?envType=daily-question&envId=2024-01-25) | [Python](./leetcode/1143/Longest%20Common%20Subsequence.py)|Medium|🛑|
+
+
 
 
 HackerRank
