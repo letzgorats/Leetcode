@@ -164,6 +164,8 @@ LeetCode
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/description/?envType=daily-question&envId=2024-01-26) | [Python](./leetcode/576/Out%20of%20Boundary%20Paths.py)|Medium|🛑|
 |629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/description/?envType=daily-question&envId=2024-01-27) | [Python](./leetcode/629/K%20Inverse%20Pairs%20Array.py)|Hard|🛑|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Python](./leetcode/560/Subarray%20Sum%20Equals%20K.py)|Medium|🛑|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./leetcode/225/Implement%20Stack%20using%20Queues.py)|Easy|🛑|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=daily-question&envId=2024-01-29) | [Python](./leetcode/232/Implement%20Queue%20using%20Stacks.py)|Easy|🛑|
 
 HackerRank
 ========
