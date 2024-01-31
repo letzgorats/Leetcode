@@ -168,7 +168,7 @@ LeetCode
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=daily-question&envId=2024-01-29) | [Python](./leetcode/232/Implement%20Queue%20using%20Stacks.py)|Easy|🛑|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/?envType=daily-question&envId=2024-01-30) | [Python](./leetcode/150/Evaluate%20Reverse%20Polish%20Notation.py)|Medium|🛑|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/?envType=daily-question&envId=2024-01-31) | [Python](./leetcode/739/Daily%20Temperatures.py)|Medium|
-
+|901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Python](./leetcode/901/Online%20Stock%20Span.py)|Medium|🛑|
 
 
 HackerRank
