@@ -169,7 +169,8 @@ LeetCode
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/?envType=daily-question&envId=2024-01-30) | [Python](./leetcode/150/Evaluate%20Reverse%20Polish%20Notation.py)|Medium|🛑|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/?envType=daily-question&envId=2024-01-31) | [Python](./leetcode/739/Daily%20Temperatures.py)|Medium|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Python](./leetcode/901/Online%20Stock%20Span.py)|Medium|🛑|
-
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Python](./leetcode/496/Next%20Greater%20Element%20I.py)|Easy|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Python](./leetcode/496/Next%20Greater%20Element%20I.py)|Follow up|🛑|
 
 HackerRank
 ========
