@@ -173,6 +173,8 @@ LeetCode
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [Python](./leetcode/496/Next%20Greater%20Element%20I.py)|Follow up|🛑|
 |2966|[Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2024-02-01) | [Python](./leetcode/2966/Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.py)|Medium|
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/description/?envType=daily-question&envId=2024-02-02) | [Python](./leetcode/1291/Sequential%20Digits.py)|Medium|
+|1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/?envType=daily-question&envId=2024-02-03) | [Python](./leetcode/1043/Partition%20Array%20for%20Maximum%20Sum.py)|Medium|🛑|
+
 
 
 HackerRank
