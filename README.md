@@ -175,7 +175,7 @@ LeetCode
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/description/?envType=daily-question&envId=2024-02-02) | [Python](./leetcode/1291/Sequential%20Digits.py)|Medium|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/?envType=daily-question&envId=2024-02-03) | [Python](./leetcode/1043/Partition%20Array%20for%20Maximum%20Sum.py)|Medium|🛑|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/?envType=daily-question&envId=2024-02-04) | [Python](./leetcode/76/Minimum%20Window%20Substring.py)|Hard|🛑|
-
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=daily-question&envId=2024-02-05) | [Python](./leetcode/387/First%20Unique%20Character%20in%20a%20String.py)|Easy|
 
 
 HackerRank
