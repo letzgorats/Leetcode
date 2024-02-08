@@ -178,7 +178,7 @@ LeetCode
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=daily-question&envId=2024-02-05) | [Python](./leetcode/387/First%20Unique%20Character%20in%20a%20String.py)|Easy|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/?envType=daily-question&envId=2024-02-06) | [Python](./leetcode/49/Group%20Anagrams.py)|Medium|🛑|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=daily-question&envId=2024-02-07) | [Python](./leetcode/451/Sort%20Characters%20By%20Frequency.py)|Medium|
-|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/?envType=daily-question&envId=2024-02-08) | [Python](./leetcode/279/Perfect%20Squares.py)|Medium|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/?envType=daily-question&envId=2024-02-08) | [Python](./leetcode/279/Perfect%20Squares.py)|Medium|🛑|
 
 
 
