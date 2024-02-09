@@ -180,6 +180,8 @@ LeetCode
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=daily-question&envId=2024-02-07) | [Python](./leetcode/451/Sort%20Characters%20By%20Frequency.py)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/?envType=daily-question&envId=2024-02-08) | [Python](./leetcode/279/Perfect%20Squares.py)|Medium|🛑|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Python](./leetcode/2/Add%20Two%20Numbers.py)|Medium|🛑|
+|368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/?envType=daily-question&envId=2024-02-09) | [Python](./leetcode/368/Largest%20Divisible%20Subset.py)|Medium|🛑|
+
 
 
 
