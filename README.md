@@ -32,7 +32,7 @@ LeetCode
 |2784|[Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/description/) | [Python](./leetcode/2784/Check%20if%20Array%20is%20Good.py)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Python](./leetcode/112/Path%20Sum.py)|Easy|🟢🛑|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[Python](./leetcode/3/Longest%20Substring%20Without%20Repeating%20Characters.py) | Medium |
-|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) |[Python](./leetcode/647/Palindromic%20Substrings.py) | Medium |
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) |[Python](./leetcode/647/Palindromic%20Substrings.py) | Medium |🟢🟢|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |[Python](./leetcode/538/Convert%20BST%20to%20Greater%20Tree.py) | Medium |🛑|
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/) |[Python](./leetcode/486/Predict%20the%20Winner.py) | Medium |🛑|
 |1137|[Nth tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Python](./leetcode/1137/N-th%20Tribonacci%20Number.py)|Easy|
