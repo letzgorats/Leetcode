@@ -76,5 +76,4 @@ class Solution(object):
         
         return cnt
 
-
 how to solve -> (https://letzgorats.tistory.com/entry/%EB%A6%AC%ED%8A%B8%EC%BD%94%EB%93%9Cleetcodepython-647-Palindromic-Substrings)
