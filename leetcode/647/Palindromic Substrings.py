@@ -50,4 +50,31 @@ class Solution(object):
         return answer
 
 
+# second solution - less effective - 553ms
+class Solution(object):
+    def countSubstrings(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+
+        n = len(s)
+        dp = [1] * n
+        cnt = 0
+        left = 0
+        right = 0
+
+        while left <= n-1:
+            right = left
+            while right < n+1:
+                tmp = s[left:right] 
+                if tmp and tmp == tmp[::-1]:
+                    cnt += 1
+                right += 1
+
+            left += 1
+        
+        return cnt
+
+
 how to solve -> (https://letzgorats.tistory.com/entry/%EB%A6%AC%ED%8A%B8%EC%BD%94%EB%93%9Cleetcodepython-647-Palindromic-Substrings)
