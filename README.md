@@ -183,7 +183,7 @@ LeetCode
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/?envType=daily-question&envId=2024-02-09) | [Python](./leetcode/368/Largest%20Divisible%20Subset.py)|Medium|🛑|
 |1463|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description/?envType=daily-question&envId=2024-02-11) | [Python](./leetcode/1463/Cherry%20Pickup%20II.py)|Hard|🛑|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/?envType=daily-question&envId=2024-02-12) | [Python](./leetcode/169/Majority%20Element.py)|Easy|
-
+|2404|[Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/) | [Python](./leetcode/2404/Most%20Frequent%20Even%20Element.py)|Easy|
 
 
 HackerRank
