@@ -184,6 +184,8 @@ LeetCode
 |1463|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description/?envType=daily-question&envId=2024-02-11) | [Python](./leetcode/1463/Cherry%20Pickup%20II.py)|Hard|🛑|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/?envType=daily-question&envId=2024-02-12) | [Python](./leetcode/169/Majority%20Element.py)|Easy|
 |2404|[Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/) | [Python](./leetcode/2404/Most%20Frequent%20Even%20Element.py)|Easy|
+|2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/?envType=daily-question&envId=2024-02-13) | [Python](./leetcode/2108/Find%20First%20Palindromic%20String%20in%20the%20Array.py)|Easy|
+
 
 
 HackerRank
