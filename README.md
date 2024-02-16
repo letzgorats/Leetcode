@@ -187,6 +187,8 @@ LeetCode
 |2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/?envType=daily-question&envId=2024-02-13) | [Python](./leetcode/2108/Find%20First%20Palindromic%20String%20in%20the%20Array.py)|Easy|
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/?envType=daily-question&envId=2024-02-14) | [Python](./leetcode/2149/Rearrange%20Array%20Elements%20by%20Sign.py)|Medium|
 |2971|[Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/description/?envType=daily-question&envId=2024-02-15) | [Python](./leetcode/2971/Find%20Polygon%20With%20the%20Largest%20Perimeter.py)|Medium|
+|1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/?envType=daily-question&envId=2024-02-16) | [Python](./leetcode/1481/Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.py)|Medium|
+
 
 
 
