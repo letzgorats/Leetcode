@@ -189,7 +189,7 @@ LeetCode
 |2971|[Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/description/?envType=daily-question&envId=2024-02-15) | [Python](./leetcode/2971/Find%20Polygon%20With%20the%20Largest%20Perimeter.py)|Medium|
 |1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/?envType=daily-question&envId=2024-02-16) | [Python](./leetcode/1481/Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.py)|Medium|
 |1642|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/description/?envType=daily-question&envId=2024-02-17) | [Python](./leetcode/1642/Furthest%20Building%20You%20Can%20Reach.py)|Medium|🛑|
-
+|2402|[Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2024-02-18) | [Python](./leetcode/2402/Meeting%20Rooms%20III.py)|Hard|🛑|
 
 
 
