@@ -191,6 +191,7 @@ LeetCode
 |1642|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/description/?envType=daily-question&envId=2024-02-17) | [Python](./leetcode/1642/Furthest%20Building%20You%20Can%20Reach.py)|Medium|🛑|
 |2402|[Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2024-02-18) | [Python](./leetcode/2402/Meeting%20Rooms%20III.py)|Hard|🛑|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/?envType=daily-question&envId=2024-02-19) | [Python](./leetcode/231/Power%20of%20Two.py)|Easy|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./leetcode/326/Power%20of%20Three.py)|Easy|
 
 
 
