@@ -193,6 +193,7 @@ LeetCode
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/?envType=daily-question&envId=2024-02-19) | [Python](./leetcode/231/Power%20of%20Two.py)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./leetcode/326/Power%20of%20Three.py)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/?envType=daily-question&envId=2024-02-20) | [Python](./leetcode/268/Missing%20Number.py)|Easy|
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=daily-question&envId=2024-02-21) | [Python](./leetcode/201/Bitwise%20AND%20of%20Numbers%20Range.py)|Medium|🛑|
 
 
 
