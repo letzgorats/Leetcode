@@ -195,6 +195,7 @@ LeetCode
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/?envType=daily-question&envId=2024-02-20) | [Python](./leetcode/268/Missing%20Number.py)|Easy|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=daily-question&envId=2024-02-21) | [Python](./leetcode/201/Bitwise%20AND%20of%20Numbers%20Range.py)|Medium|🛑|
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/?envType=daily-question&envId=2024-02-22) | [Python](./leetcode/997/Find%20the%20Town%20Judge.py)|Easy|
+|787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/?envType=daily-question&envId=2024-02-23) | [Python](./leetcode/787/Cheapest%20Flights%20Within%20K%20Stops.py)|Medium|🛑|
 
 
 
