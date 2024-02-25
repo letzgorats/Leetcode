@@ -197,7 +197,7 @@ LeetCode
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/?envType=daily-question&envId=2024-02-22) | [Python](./leetcode/997/Find%20the%20Town%20Judge.py)|Easy|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/?envType=daily-question&envId=2024-02-23) | [Python](./leetcode/787/Cheapest%20Flights%20Within%20K%20Stops.py)|Medium|🛑|
 |2092|[Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/description/?envType=daily-question&envId=2024-02-24) | [Python](./leetcode/2092/Find%20All%20People%20With%20Secret.py)|Hard|🛑|
-
+|2709|[Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/description/?envType=daily-question&envId=2024-02-25) | [Python](./leetcode/2709/Greatest%20Common%20Divisor%20Traversal.py)|Hard|🛑|
 
 
 
