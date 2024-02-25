@@ -1,3 +1,50 @@
+# Memoey Limit Exceeded
+from collections import deque, defaultdict
+class Solution(object):
+    def canTraverseAllPairs(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+
+        def gcd(a,b):
+
+            while b:
+                a,b = b, a % b
+
+            return a
+
+        def buildGraph(nums):
+            graph = defaultdict(list)
+            for i in range(len(nums)):
+                for j in range(i+1,len(nums)):
+                    if gcd(nums[i],nums[j]) > 1:
+                        graph[i].append(j)
+                        graph[j].append(i)
+            return graph
+        
+        def bfs(graph,start,n):
+
+            visited = [False] * n
+            queue = deque([start])
+            visited[start] = True
+            while queue:
+                node = queue.popleft()
+                for neighbor in graph[node]:
+                    if not visited[neighbor]:
+                        visited[neighbor] = True
+                        queue.append(neighbor)
+            
+            return all(visited)
+        
+        graph = buildGraph(nums)
+
+        return bfs(graph,0,len(nums))
+
+        
+
+# solution
+
 class Solution:
     def canTraverseAllPairs(self, nums: List[int]) -> bool:
 
