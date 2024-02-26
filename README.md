@@ -198,7 +198,7 @@ LeetCode
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/?envType=daily-question&envId=2024-02-23) | [Python](./leetcode/787/Cheapest%20Flights%20Within%20K%20Stops.py)|Medium|🛑|
 |2092|[Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/description/?envType=daily-question&envId=2024-02-24) | [Python](./leetcode/2092/Find%20All%20People%20With%20Secret.py)|Hard|🛑|
 |2709|[Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/description/?envType=daily-question&envId=2024-02-25) | [Python](./leetcode/2709/Greatest%20Common%20Divisor%20Traversal.py)|Hard|🛑|
-
+|55|[Jump Game](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/55/Jump%20Game.py)|Medium|🛑|
 
 
 
