@@ -201,6 +201,7 @@ LeetCode
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/55/Jump%20Game.py)|Medium|🛑|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/?envType=daily-question&envId=2024-02-27) | [Python](./leetcode/543/Diameter%20of%20Binary%20Tree.py)|Easy|🛑|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/?envType=daily-question&envId=2024-02-28) | [Python](./leetcode/513/Find%20Bottom%20Left%20Tree%20Value.py)|Medium|🛑|
+|1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/?envType=daily-question&envId=2024-02-29) | [Python](./leetcode/1609/Even%20Odd%20Tree.py)|Medium|🛑|
 
 
 
