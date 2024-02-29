@@ -24,7 +24,7 @@ LeetCode
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/?envType=study-plan&id=level-1) | [Python](./leetcode/589/N_aryTreePreorderTraversal.py)|Easy|🛑|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/?envType=study-plan&id=level-1) | [Python](./leetcode/733/FloodFill.py)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./leetcode/1/TwoSum.py)|Easy|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/?envType=study-plan&envId=level-1&plan=leetcode-75) | [Python](./leetcode/BinaryTreeLevelOrderTraversal.py)|Medium|🛑|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/?envType=study-plan&envId=level-1&plan=leetcode-75) | [Python](./leetcode/102/BinaryTreeLevelOrderTraversal.py)|Medium|🛑🛑|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/minimum-size-subarray-sum/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/TopKFrequentElements.py)|Medium|🛑|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/20/ValidParentheses.py)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |[Python](./leetcode/122/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) | Medium |
