@@ -203,6 +203,7 @@ LeetCode
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/?envType=daily-question&envId=2024-02-28) | [Python](./leetcode/513/Find%20Bottom%20Left%20Tree%20Value.py)|Medium|🛑|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/?envType=daily-question&envId=2024-02-29) | [Python](./leetcode/1609/Even%20Odd%20Tree.py)|Medium|🛑|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Python](./leetcode/111/Minimum%20Depth%20of%20Binary%20Tree.py)|Easy|
+|2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/description/?envType=daily-question&envId=2024-03-01) | [Python](./leetcode/2864/Maximum%20Odd%20Binary%20Number.py)|Easy|
 
 
 
