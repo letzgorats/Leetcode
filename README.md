@@ -12,8 +12,8 @@ LeetCode
 |---| ----- | -------- | ---------- | ------| 
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./leetcode/88/MergeSortedArray.py)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./leetcode/704/BinarySearch.py)|Easy|
-|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./leetcode/977/SquaresofaSortedArray.py)|Easy|
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./leetcode/11/ContainerWithMostWater.py)|Easy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./leetcode/977/SquaresofaSortedArray.py)|Easy|🟢🟢|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./leetcode/11/ContainerWithMostWater.py)()|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/?envType=study-plan&id=level-1) | [Python](./leetcode/1480/RunningSumof1dArray.py)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1) | [Python](./leetcode/724/FindPivotIndex.py)|Easy|
 |205|[Isomorphic](https://leetcode.com/problems/isomorphic-strings/?envType=study-plan&id=level-1) | [Python](./leetcode/205/IsomorphicStrings.py)|Easy|
