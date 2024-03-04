@@ -205,6 +205,8 @@ LeetCode
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Python](./leetcode/111/Minimum%20Depth%20of%20Binary%20Tree.py)|Easy|
 |2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/description/?envType=daily-question&envId=2024-03-01) | [Python](./leetcode/2864/Maximum%20Odd%20Binary%20Number.py)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=daily-question&envId=2024-03-03) | [Python](./leetcode/19/Remove%20Nth%20Node%20From%20End%20of%20List.py)|Medium|🛑|
+|948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/?envType=daily-question&envId=2024-03-04) | [Python](./leetcode/948/Bag%20of%20Tokens.py)|Medium|
+
 
 
 HackerRank
