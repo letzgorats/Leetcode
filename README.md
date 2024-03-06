@@ -207,7 +207,7 @@ LeetCode
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=daily-question&envId=2024-03-03) | [Python](./leetcode/19/Remove%20Nth%20Node%20From%20End%20of%20List.py)|Medium|🛑|
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/?envType=daily-question&envId=2024-03-04) | [Python](./leetcode/948/Bag%20of%20Tokens.py)|Medium|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description/?envType=daily-question&envId=2024-03-05) | [Python](./leetcode/1750/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends.py)|Medium|
-
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=daily-question&envId=2024-03-06) | [Python](./leetcode/141/Linked%20List%20Cycle.py)|Easy|🛑|
 
 
 HackerRank
