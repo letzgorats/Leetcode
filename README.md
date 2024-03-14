@@ -215,6 +215,7 @@ LeetCode
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/?envType=daily-question&envId=2024-03-11) | [Python](./leetcode/791/Custom%20Sort%20String.py)|Medium|
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/?envType=daily-question&envId=2024-03-12) | [Python](./leetcode/1171/Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List.py)|Medium|🛑|
 |2485|[Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/?envType=daily-question&envId=2024-03-13) | [Python](./leetcode/2485/Find%20the%20Pivot%20Integer.py)|Easy|
+|930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/?envType=daily-question&envId=2024-03-14) | [Python](./leetcode/930/Binary%20Subarrays%20With%20Sum.py)|Medium|🛑|
 
 
 
