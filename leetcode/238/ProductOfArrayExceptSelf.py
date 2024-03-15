@@ -1,3 +1,4 @@
+# first
 class Solution(object):
 
     def productExceptSelf(self, nums):
@@ -24,4 +25,37 @@ class Solution(object):
             p *= nums[idx]
         # print(p)
      
+        return answer
+
+
+solution 2 try)
+class Solution(object):
+    def productExceptSelf(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+
+        zero_idx = []
+        for i,n in enumerate(nums):
+            if n == 0:
+                zero_idx.append(i)
+        
+        if len(zero_idx) >= 2:
+            return [0] * len(nums)
+        
+        total = 1
+        for x in nums:
+            if x != 0:
+                total *= x
+
+        answer = [0] * len(nums)
+        if zero_idx :
+            answer[zero_idx[0]] = total
+            return answer
+
+        answer = []
+        for n in nums:
+            answer.append(total // n)
+
         return answer
