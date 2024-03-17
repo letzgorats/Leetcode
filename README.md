@@ -217,6 +217,7 @@ LeetCode
 |2485|[Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/?envType=daily-question&envId=2024-03-13) | [Python](./leetcode/2485/Find%20the%20Pivot%20Integer.py)|Easy|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/?envType=daily-question&envId=2024-03-14) | [Python](./leetcode/930/Binary%20Subarrays%20With%20Sum.py)|Medium|🛑|
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/description/?envType=daily-question&envId=2024-03-16) | [Python](./leetcode/525/Contiguous%20Array.py)|Medium|🛑|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/?envType=daily-question&envId=2024-03-17) | [Python](./leetcode/57/Insert%20Interval.py)|Medium|🛑|
 
 
 
