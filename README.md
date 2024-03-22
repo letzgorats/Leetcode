@@ -222,6 +222,8 @@ LeetCode
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/?envType=daily-question&envId=2024-03-19) | [Python](./leetcode/621/Task%20Scheduler.py)|Medium|🛑|
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/?envType=daily-question&envId=2024-03-20) | [Python](./leetcode/1669/Merge%20In%20Between%20Linked%20Lists.py)|Medium|🛑|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-question&envId=2024-03-21) | [Python](./leetcode/206/Reverse%20Linked%20List.py)|Easy|🛑|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/?envType=daily-question&envId=2024-03-22) | [Python](./leetcode/234/Palindrome%20Linked%20List.py)|Easy|🛑|
+
 
 
 
