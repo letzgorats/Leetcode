@@ -224,6 +224,8 @@ LeetCode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-question&envId=2024-03-21) | [Python](./leetcode/206/Reverse%20Linked%20List.py)|Easy|🛑|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/?envType=daily-question&envId=2024-03-22) | [Python](./leetcode/234/Palindrome%20Linked%20List.py)|Easy|🛑|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/?envType=daily-question&envId=2024-03-23) | [Python](./leetcode/143/Reorder%20List.py)|Medium|🛑|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=daily-question&envId=2024-03-24) | [Python](./leetcode/287/Find%20the%20Duplicate%20Number.py)|Medium|
+
 
 
 
