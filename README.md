@@ -226,7 +226,7 @@ LeetCode
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/?envType=daily-question&envId=2024-03-23) | [Python](./leetcode/143/Reorder%20List.py)|Medium|🛑|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=daily-question&envId=2024-03-24) | [Python](./leetcode/287/Find%20the%20Duplicate%20Number.py)|Medium|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/?envType=daily-question&envId=2024-03-25) | [Python](./leetcode/442/Find%20All%20Duplicates%20in%20an%20Array.py)|Medium|
-
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=daily-question&envId=2024-03-26) | [Python](./leetcode/41/First%20Missing%20Positive.py)|Hard|🛑|
 
 
 
