@@ -228,7 +228,7 @@ LeetCode
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/?envType=daily-question&envId=2024-03-25) | [Python](./leetcode/442/Find%20All%20Duplicates%20in%20an%20Array.py)|Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=daily-question&envId=2024-03-26) | [Python](./leetcode/41/First%20Missing%20Positive.py)|Hard|🛑|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/?envType=daily-question&envId=2024-03-27) | [Python](./leetcode/713/Subarray%20Product%20Less%20Than%20K.py)|Medium|🛑|
-
+|2958|[Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/?envType=daily-question&envId=2024-03-28) | [Python](./leetcode/2958/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.py)|Medium|🛑|
 
 HackerRank
 ========
