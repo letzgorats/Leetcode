@@ -2,6 +2,9 @@
 JeongYeob's AlgorithmStudy
 
 
+If I got it wrong, looked at hints, or solved it but it took too long, then -> 🛑
+Otherwise -> 🟢
+
 LeetCode
 ========
 
