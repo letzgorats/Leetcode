@@ -229,7 +229,11 @@ LeetCode
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=daily-question&envId=2024-03-26) | [Python](./leetcode/41/First%20Missing%20Positive.py)|Hard|🛑|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/?envType=daily-question&envId=2024-03-27) | [Python](./leetcode/713/Subarray%20Product%20Less%20Than%20K.py)|Medium|🛑|
 |2958|[Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/?envType=daily-question&envId=2024-03-28) | [Python](./leetcode/2958/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.py)|Medium|🛑|
-|2962|[Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/?envType=daily-question&envId=2024-03-29) | [Python](./leetcode/2958/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.py)|Medium|🛑|
+|2962|[Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/?envType=daily-question&envId=2024-03-29) | [Python](./leetcode/2962/Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times.py)|Medium|🛑|
+
+
+
+
 
 HackerRank
 ========
