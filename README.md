@@ -234,7 +234,7 @@ LeetCode
 |2958|[Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/?envType=daily-question&envId=2024-03-28) | [Python](./leetcode/2958/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.py)|Medium|🛑|
 |2962|[Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/?envType=daily-question&envId=2024-03-29) | [Python](./leetcode/2962/Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times.py)|Medium|🛑|
 |992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=daily-question&envId=2024-03-30) | [Python](./leetcode/992/Subarrays%20with%20K%20Different%20Integers.py)|Hard|🛑|
-
+|2444|[Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=daily-question&envId=2024-03-31) | [Python](./leetcode/2444/Count%20Subarrays%20With%20Fixed%20Bounds.py)|Hard|🛑|
 
 
 
