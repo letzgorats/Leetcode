@@ -40,7 +40,7 @@ LeetCode
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/) |[Python](./leetcode/486/Predict%20the%20Winner.py) | Medium |🛑|
 |1137|[Nth tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Python](./leetcode/1137/N-th%20Tribonacci%20Number.py)|Easy|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |[Python](./leetcode/210/Course%20Schedule%20II.py) | Medium |🛑|
-|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/58/Length%20of%20Last%20Word.py)|Easy|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/58/Length%20of%20Last%20Word.py)|Easy|🟢🟢|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=study-plan-v2&envId=top-interview-150) |[Python](./leetcode/17/Letter%20Combinations%20of%20a%20Phone%20Number.py) | Medium |🛑|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/?envType=daily-question&envId=2023-10-05) |[Python](./leetcode/229/Majority%20Element%20II.py) | Medium |
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/?envType=daily-question&envId=2023-10-01) | [Python](./leetcode/557/Reverse%20Words%20in%20a%20String%20III.py)|Easy|
