@@ -32,7 +32,7 @@ class Solution(object):
         return False
     
 
-# bfs solution
+# bfs solution - TLE
 from collections import deque
 
 class Solution:
@@ -63,4 +63,49 @@ class Solution:
                         return True
         
         return False
+
+# bfs solution - pass
+class Solution:
+    def exist(self, board, word):
+        
+        n, m = len(board), len(board[0])
+        adj = [(0,-1), (0,1), (1,0), (-1,0)]
+        
+        graph = defaultdict(list)
+        letters = set()
+        for i in range(n):
+            for j in range(m):
+                letters.add(board[i][j])
+                for l, k in adj:
+                    if 0 <= i + l < n and 0 <= j + k < m:
+                        graph[(i,j)].append((i+l,j+k))
+                        
+        for i in word: 
+            if i not in letters: return False
+            
+        def bfs(i,j):
+            w = board[i][j]
+            p = set()
+            p.add((i,j))
+            Q = deque([( w, i, j, 0, p)])
+            while Q:
+                current, r, c, level, path = Q.popleft()
+                if current == word: return True
+                for l, k in graph[(r,c)]:
+                    if board[l][k] == word[level+1]:
+                        if (l,k) in path: continue
+                        p = path.copy()
+                        p.add((l,k))
+                        Q.append( (current+board[l][k], l, k, level + 1, p) )
+            return False
+            
+        for i in range(n):
+            for j in range(m):
+                if word[0] == board[i][j]:
+                    if bfs(i,j):
+                        return True
+        return False
+
+
+
 
