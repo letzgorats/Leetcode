@@ -236,7 +236,7 @@ LeetCode
 |992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=daily-question&envId=2024-03-30) | [Python](./leetcode/992/Subarrays%20with%20K%20Different%20Integers.py)|Hard|🛑|
 |2444|[Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=daily-question&envId=2024-03-31) | [Python](./leetcode/2444/Count%20Subarrays%20With%20Fixed%20Bounds.py)|Hard|🛑|
 |79|[Word Search](https://leetcode.com/problems/word-search/description/?envType=daily-question&envId=2024-04-03) | [Python](./leetcode/79/Word%20Search.py)|Medium|🛑|
-
+|1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/solutions/?envType=daily-question&envId=2024-04-04) | [Python](./leetcode/1641/Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)|Easy|
 
 
 HackerRank
