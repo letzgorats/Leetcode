@@ -237,6 +237,9 @@ LeetCode
 |2444|[Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=daily-question&envId=2024-03-31) | [Python](./leetcode/2444/Count%20Subarrays%20With%20Fixed%20Bounds.py)|Hard|🛑|
 |79|[Word Search](https://leetcode.com/problems/word-search/description/?envType=daily-question&envId=2024-04-03) | [Python](./leetcode/79/Word%20Search.py)|Medium|🛑|
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/solutions/?envType=daily-question&envId=2024-04-04) | [Python](./leetcode/1641/Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)|Easy|
+|1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great/description/?envType=daily-question&envId=2024-04-05) | [Python](./leetcode/1544/Make%20The%20String%20Great.py)|Easy|
+
+
 
 
 HackerRank
