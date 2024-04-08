@@ -240,7 +240,7 @@ LeetCode
 |1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great/description/?envType=daily-question&envId=2024-04-05) | [Python](./leetcode/1544/Make%20The%20String%20Great.py)|Easy|
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/?envType=daily-question&envId=2024-04-06) | [Python](./leetcode/1249/Minimum%20Remove%20to%20Make%20Valid%20Parentheses.py)|Medium|🛑|
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/?envType=daily-question&envId=2024-04-07) | [Python](./leetcode/678/Valid%20Parenthesis%20String.py)|Medium|🛑|
-
+|1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/?envType=daily-question&envId=2024-04-08) | [Python](./leetcode/1700/Number%20of%20Students%20Unable%20to%20Eat%20Lunch.py)|Easy|
 
 
 
