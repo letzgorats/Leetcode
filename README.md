@@ -242,6 +242,12 @@ LeetCode
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/?envType=daily-question&envId=2024-04-07) | [Python](./leetcode/678/Valid%20Parenthesis%20String.py)|Medium|🛑|
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/?envType=daily-question&envId=2024-04-08) | [Python](./leetcode/1700/Number%20of%20Students%20Unable%20to%20Eat%20Lunch.py)|Easy|
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/?envType=daily-question&envId=2024-04-09) | [Python](./leetcode/2073/Time%20Needed%20to%20Buy%20Tickets.py)|Easy|
+|950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/?envType=daily-question&envId=2024-04-10) | [Python](./leetcode/950/Reveal%20Cards%20In%20Increasing%20Order.py)|Medium|🛑|
+
+
+
+
+
 
 
 
