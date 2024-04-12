@@ -244,7 +244,7 @@ LeetCode
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/?envType=daily-question&envId=2024-04-09) | [Python](./leetcode/2073/Time%20Needed%20to%20Buy%20Tickets.py)|Easy|
 |950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/?envType=daily-question&envId=2024-04-10) | [Python](./leetcode/950/Reveal%20Cards%20In%20Increasing%20Order.py)|Medium|🛑|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/?envType=daily-question&envId=2024-04-11) | [Python](./leetcode/402/Remove%20K%20Digits.py)|Medium|🛑|
-
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=daily-question&envId=2024-04-12) | [Python](./leetcode/42/Trapping%20Rain%20Water.py)|Hard|🛑|
 
 
 
