@@ -246,7 +246,7 @@ LeetCode
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/?envType=daily-question&envId=2024-04-11) | [Python](./leetcode/402/Remove%20K%20Digits.py)|Medium|🛑|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=daily-question&envId=2024-04-12) | [Python](./leetcode/42/Trapping%20Rain%20Water.py)|Hard|🛑|
 |85|[Trapping Rain Water](https://leetcode.com/problems/maximal-rectangle/description/?envType=daily-question&envId=2024-04-13) | [Python](./leetcode/85/Maximal%20Rectangle.py)|Hard|🛑|
-
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/?envType=daily-question&envId=2024-04-14) | [Python](./leetcode/404/Sum%20of%20Left%20Leaves.py)|Easy|🛑|
 
 
 HackerRank
