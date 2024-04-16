@@ -248,6 +248,7 @@ LeetCode
 |85|[Trapping Rain Water](https://leetcode.com/problems/maximal-rectangle/description/?envType=daily-question&envId=2024-04-13) | [Python](./leetcode/85/Maximal%20Rectangle.py)|Hard|🛑|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/?envType=daily-question&envId=2024-04-14) | [Python](./leetcode/404/Sum%20of%20Left%20Leaves.py)|Easy|🛑|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=daily-question&envId=2024-04-15) | [Python](./leetcode/129/Sum%20Root%20to%20Leaf%20Numbers.py)|Medium|🛑|
+|623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/?envType=daily-question&envId=2024-04-16) | [Python](./leetcode/623/Add%20One%20Row%20to%20Tree.py)|Medium|🛑|
 
 
 
