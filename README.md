@@ -251,8 +251,7 @@ LeetCode
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/?envType=daily-question&envId=2024-04-16) | [Python](./leetcode/623/Add%20One%20Row%20to%20Tree.py)|Medium|🛑|
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/?envType=daily-question&envId=2024-04-17) | [Python](./leetcode/988/Smallest%20String%20Starting%20From%20Leaf.py)|Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/?envType=daily-question&envId=2024-04-18) | [Python](./leetcode/463/Island%20Perimeter.py)|Easy|
-
-
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=daily-question&envId=2024-04-19) | [Python](./leetcode/200/Number%20of%20Islands.py)|Medium|
 
 
 
