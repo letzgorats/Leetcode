@@ -252,6 +252,8 @@ LeetCode
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/?envType=daily-question&envId=2024-04-17) | [Python](./leetcode/988/Smallest%20String%20Starting%20From%20Leaf.py)|Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/?envType=daily-question&envId=2024-04-18) | [Python](./leetcode/463/Island%20Perimeter.py)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=daily-question&envId=2024-04-19) | [Python](./leetcode/200/Number%20of%20Islands.py)|Medium|
+|1992|[Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/description/?envType=daily-question&envId=2024-04-20) | [Python](./leetcode/1992/Find%20All%20Groups%20of%20Farmlandp.py)|Medium|
+
 
 
 
