@@ -253,7 +253,7 @@ LeetCode
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/?envType=daily-question&envId=2024-04-18) | [Python](./leetcode/463/Island%20Perimeter.py)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=daily-question&envId=2024-04-19) | [Python](./leetcode/200/Number%20of%20Islands.py)|Medium|
 |1992|[Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/description/?envType=daily-question&envId=2024-04-20) | [Python](./leetcode/1992/Find%20All%20Groups%20of%20Farmlandp.py)|Medium|
-|1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/?envType=daily-question&envId=2024-04-21) | [Python](./leetcode/1971/Find%20if%20Path%20Exists%20in%20Graph.py)|Easy|
+|1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/?envType=daily-question&envId=2024-04-21) | [Python](./leetcode/1971/Find%20if%20Path%20Exists%20in%20Graph.py)|Easy|🛑|
 
 
 
