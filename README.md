@@ -255,6 +255,7 @@ LeetCode
 |1992|[Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/description/?envType=daily-question&envId=2024-04-20) | [Python](./leetcode/1992/Find%20All%20Groups%20of%20Farmlandp.py)|Medium|
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/?envType=daily-question&envId=2024-04-21) | [Python](./leetcode/1971/Find%20if%20Path%20Exists%20in%20Graph.py)|Easy|🛑|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/description/?envType=daily-question&envId=2024-04-22) | [Python](./leetcode/752/Open%20the%20Lock.py)|Medium|🛑|
+|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/?envType=daily-question&envId=2024-04-23) | [Python](./leetcode/310/Minimum%20Height%20Trees.py)|Medium|🛑|
 
 
 
