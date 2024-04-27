@@ -258,8 +258,7 @@ LeetCode
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/?envType=daily-question&envId=2024-04-23) | [Python](./leetcode/310/Minimum%20Height%20Trees.py)|Medium|🛑|
 |2370|[Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/description/?envType=daily-question&envId=2024-04-25) | [Python](./leetcode/2370/Longest%20Ideal%20Subsequence.py)|Medium|🛑|
 |1289|[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/?envType=daily-question&envId=2024-04-26) | [Python](./leetcode/1289/Minimum%20Falling%20Path%20Sum%20II.py)|Hard|🛑|
-
-
+|514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/description/?envType=daily-question&envId=2024-04-27) | [Python](./leetcode/514/Freedom%20Trail.py)|Hard|🛑|
 
 
 HackerRank
