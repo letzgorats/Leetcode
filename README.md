@@ -261,7 +261,7 @@ LeetCode
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/description/?envType=daily-question&envId=2024-04-27) | [Python](./leetcode/514/Freedom%20Trail.py)|Hard|🛑|
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/?envType=daily-question&envId=2024-04-28) | [Python](./leetcode/834/Sum%20of%20Distances%20in%20Tree.py)|Hard|🛑|
 |2997|[Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/?envType=daily-question&envId=2024-04-29) | [Python](./leetcode/2997/Minimum%20Number%20of%20Operations%20to%20Make%20Array%20XOR%20Equal%20to%20K.py)|Medium|🛑|
-
+|1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/?envType=daily-question&envId=2024-04-30) | [Python](./leetcode/1915/Number%20of%20Wonderful%20Substrings.py)|Medium|🛑|
 
 
 
