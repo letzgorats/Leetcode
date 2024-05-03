@@ -264,6 +264,7 @@ LeetCode
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/?envType=daily-question&envId=2024-04-30) | [Python](./leetcode/1915/Number%20of%20Wonderful%20Substrings.py)|Medium|🛑|
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/?envType=daily-question&envId=2024-05-01) | [Python](./leetcode/2000/Reverse%20Prefix%20of%20Word.py)|Easy|
 |2441|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/?envType=daily-question&envId=2024-05-02) | [Python](./leetcode/2441/Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.py)|Easy|
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/?envType=daily-question&envId=2024-05-03) | [Python](./leetcode/165/Compare%20Version%20Numbers.py)|Medium|
 
 
 
