@@ -267,6 +267,7 @@ LeetCode
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/?envType=daily-question&envId=2024-05-03) | [Python](./leetcode/165/Compare%20Version%20Numbers.py)|Medium|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/?envType=daily-question&envId=2024-05-04) | [Python](./leetcode/881/Boats%20to%20Save%20People.py)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=daily-question&envId=2024-05-05) | [Python](./leetcode/237/Delete%20Node%20in%20a%20Linked%20List.py)|Medium|🛑|
+|2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/description/?envType=daily-question&envId=2024-05-06) | [Python](./leetcode/2487/Remove%20Nodes%20From%20Linked%20List.py)|Medium|🛑|
 
 
 
