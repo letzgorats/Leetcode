@@ -269,7 +269,7 @@ LeetCode
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=daily-question&envId=2024-05-05) | [Python](./leetcode/237/Delete%20Node%20in%20a%20Linked%20List.py)|Medium|🛑|
 |2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/description/?envType=daily-question&envId=2024-05-06) | [Python](./leetcode/2487/Remove%20Nodes%20From%20Linked%20List.py)|Medium|🛑|
 |2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/?envType=daily-question&envId=2024-05-07) | [Python](./leetcode/2816/Double%20a%20Number%20Represented%20as%20a%20Linked%20List.py)|Medium|🛑|
-
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description/?envType=daily-question&envId=2024-05-08) | [Python](./leetcode/506/Relative%20Ranks.py)|Medium|🛑|
 
 
 
