@@ -271,6 +271,7 @@ LeetCode
 |2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/?envType=daily-question&envId=2024-05-07) | [Python](./leetcode/2816/Double%20a%20Number%20Represented%20as%20a%20Linked%20List.py)|Medium|🛑|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description/?envType=daily-question&envId=2024-05-08) | [Python](./leetcode/506/Relative%20Ranks.py)|Medium|🛑|
 |3075|[Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/description/?envType=daily-question&envId=2024-05-09) | [Python](./leetcode/3075/Maximize%20Happiness%20of%20Selected%20Children.py)|Medium|🛑|
+|786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/?envType=daily-question&envId=2024-05-10) | [Python](./leetcode/786/K-th%20Smallest%20Prime%20Fraction.py)|Medium|
 
 
 
