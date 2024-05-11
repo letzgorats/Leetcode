@@ -272,7 +272,7 @@ LeetCode
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description/?envType=daily-question&envId=2024-05-08) | [Python](./leetcode/506/Relative%20Ranks.py)|Medium|🛑|
 |3075|[Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/description/?envType=daily-question&envId=2024-05-09) | [Python](./leetcode/3075/Maximize%20Happiness%20of%20Selected%20Children.py)|Medium|🛑|
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/?envType=daily-question&envId=2024-05-10) | [Python](./leetcode/786/K-th%20Smallest%20Prime%20Fraction.py)|Medium|
-|857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/?envType=daily-question&envId=2024-05-11) | [Python](./leetcode/857/Minimum%20Cost%20to%20Hire%20K%20Workers.py)|Medium|
+|857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/?envType=daily-question&envId=2024-05-11) | [Python](./leetcode/857/Minimum%20Cost%20to%20Hire%20K%20Workers.py)|Hard|🛑|
 
 
 
