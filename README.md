@@ -274,6 +274,9 @@ LeetCode
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/?envType=daily-question&envId=2024-05-10) | [Python](./leetcode/786/K-th%20Smallest%20Prime%20Fraction.py)|Medium|
 |857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/?envType=daily-question&envId=2024-05-11) | [Python](./leetcode/857/Minimum%20Cost%20to%20Hire%20K%20Workers.py)|Hard|🛑|
 |2373|[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/description/?envType=daily-question&envId=2024-05-12) | [Python](./leetcode/2373/Largest%20Local%20Values%20in%20a%20Matrix.py)|Easy|
+|861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/?envType=daily-question&envId=2024-05-13) | [Python](./leetcode/861/Score%20After%20Flipping%20Matrix.py)|Medium|🛑|
+
+
 
 
 HackerRank
