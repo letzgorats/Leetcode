@@ -17,8 +17,8 @@ class Solution(object):
         if not root.left and not root.right:
             return root.val == 1
         if (root.val == 2):
-            return self.evaluateTree(root.left) or self.evaluateTree(roo.right)
+            return self.evaluateTree(root.left) or self.evaluateTree(root.right)
         elif (root.val == 3):
-            return self.evaluateTree(root.left) and self.evaluateTree(roo.right)
+            return self.evaluateTree(root.left) and self.evaluateTree(root.right)
         else:
             return False
