@@ -276,6 +276,8 @@ LeetCode
 |2373|[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/description/?envType=daily-question&envId=2024-05-12) | [Python](./leetcode/2373/Largest%20Local%20Values%20in%20a%20Matrix.py)|Easy|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/?envType=daily-question&envId=2024-05-13) | [Python](./leetcode/861/Score%20After%20Flipping%20Matrix.py)|Medium|🛑|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/description/?envType=daily-question&envId=2024-05-14) | [Python](./leetcode/1219/Path%20with%20Maximum%20Gold.py)|Medium|🛑|
+|2812|[Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/?envType=daily-question&envId=2024-05-15) | [Python](./leetcode/2812/Find%20the%20Safest%20Path%20in%20a%20Grid.py)|Medium|🛑|
+|2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/?envType=daily-question&envId=2024-05-16) | [Python](./leetcode/2331/Evaluate%20Boolean%20Binary%20Tree.py)|Easy|🛑|
 
 
 
