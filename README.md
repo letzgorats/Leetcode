@@ -281,7 +281,7 @@ LeetCode
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/?envType=daily-question&envId=2024-05-17) | [Python](./leetcode/1325/Delete%20Leaves%20With%20a%20Given%20Value.py)|Medium|🛑|
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/?envType=daily-question&envId=2024-05-18) | [Python](./leetcode/979/Distribute%20Coins%20in%20Binary%20Tree.py)|Medium|🛑|
 |3068|[Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2024-05-19) | [Python](./leetcode/3068/Find%20the%20Maximum%20Sum%20of%20Node%20Values.py)|Hard|🛑|
-
+|1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/?envType=daily-question&envId=2024-05-20) | [Python](./leetcode/1863/Sum%20of%20All%20Subset%20XOR%20Totals.py)|Easy|🛑|
 
 
 
