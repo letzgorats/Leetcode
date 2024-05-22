@@ -283,6 +283,8 @@ LeetCode
 |3068|[Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2024-05-19) | [Python](./leetcode/3068/Find%20the%20Maximum%20Sum%20of%20Node%20Values.py)|Hard|🛑|
 |1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/?envType=daily-question&envId=2024-05-20) | [Python](./leetcode/1863/Sum%20of%20All%20Subset%20XOR%20Totals.py)|Easy|🛑|
 |78|[Subsets](https://leetcode.com/problems/subsets/?envType=daily-question&envId=2024-05-21) | [Python](./leetcode/78/Subsets.py)|Medium|🛑|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/?envType=daily-question&envId=2024-05-22) | [Python](./leetcode/131/Palindrome%20Partitioning.py)|Medium|🛑|
+
 
 
 
