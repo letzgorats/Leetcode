@@ -285,6 +285,7 @@ LeetCode
 |78|[Subsets](https://leetcode.com/problems/subsets/?envType=daily-question&envId=2024-05-21) | [Python](./leetcode/78/Subsets.py)|Medium|🛑|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/?envType=daily-question&envId=2024-05-22) | [Python](./leetcode/131/Palindrome%20Partitioning.py)|Medium|🛑|
 |2597|[The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/?envType=daily-question&envId=2024-05-23) | [Python](./leetcode/2597/The%20Number%20of%20Beautiful%20Subsets.py)|Medium|🛑|
+|1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=daily-question&envId=2024-05-24) | [Python](./leetcode/1255/Maximum%20Score%20Words%20Formed%20by%20Letters.py)|Hard|🛑|
 
 
 
