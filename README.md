@@ -288,7 +288,7 @@ LeetCode
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=daily-question&envId=2024-05-24) | [Python](./leetcode/1255/Maximum%20Score%20Words%20Formed%20by%20Letters.py)|Hard|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/description/?envType=daily-question&envId=2024-05-25) | [Python](./leetcode/140/Word%20Break%20II.py)|Hard|🛑|
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/description/?envType=daily-question&envId=2024-05-26) | [Python](./leetcode/552/Student%20Attendance%20Record%20II.py)|Hard|🛑|
-|1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/?envType=daily-question&envId=2024-05-27) | [Python](./leetcode/1608/Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.py)|Hard|🛑|
+|1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/?envType=daily-question&envId=2024-05-27) | [Python](./leetcode/1608/Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.py)|Easy|
 
 
 
