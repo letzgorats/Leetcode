@@ -292,6 +292,7 @@ LeetCode
 |1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description/?envType=daily-question&envId=2024-05-28) | [Python](./leetcode/1208/Get%20Equal%20Substrings%20Within%20Budget.py)|Medium|
 |1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/?envType=daily-question&envId=2024-05-29) | [Python](./leetcode/1404/Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One.py)|Medium|
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/?envType=daily-question&envId=2024-05-30) | [Python](./leetcode/1442/Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR.py)|Medium|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/?envType=daily-question&envId=2024-05-31) | [Python](./leetcode/260/Single%20Number%20III.py)|Medium|
 
 
 
