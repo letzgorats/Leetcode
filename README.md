@@ -294,6 +294,7 @@ LeetCode
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/?envType=daily-question&envId=2024-05-30) | [Python](./leetcode/1442/Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR.py)|Medium|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/?envType=daily-question&envId=2024-05-31) | [Python](./leetcode/260/Single%20Number%20III.py)|Medium|
 |3110|[Score of a String](https://leetcode.com/problems/score-of-a-string/description/?envType=daily-question&envId=2024-06-01) | [Python](./leetcode/3110/Score%20of%20a%20String.py)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/?envType=daily-question&envId=2024-06-02) | [Python](./leetcode/344/Reverse%20String.py)|Easy|
 
 
 
