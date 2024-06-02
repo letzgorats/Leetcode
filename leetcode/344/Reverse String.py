@@ -4,7 +4,6 @@ class Solution(object):
         :type s: List[str]
         :rtype: None Do not return anything, modify s in-place instead.
         """
-        
         l, r =0, len(s)-1
 
         while l <= r:
