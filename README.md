@@ -295,6 +295,8 @@ LeetCode
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/?envType=daily-question&envId=2024-05-31) | [Python](./leetcode/260/Single%20Number%20III.py)|Medium|
 |3110|[Score of a String](https://leetcode.com/problems/score-of-a-string/description/?envType=daily-question&envId=2024-06-01) | [Python](./leetcode/3110/Score%20of%20a%20String.py)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/?envType=daily-question&envId=2024-06-02) | [Python](./leetcode/344/Reverse%20String.py)|Easy|
+|2486|[Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/?envType=daily-question&envId=2024-06-03) | [Python](./leetcode/2486/Append%20Characters%20to%20String%20to%20Make%20Subsequence.py)|Medium|
+
 
 
 
