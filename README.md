@@ -23,7 +23,7 @@ LeetCode
 |392|[IsSubsequence](https://leetcode.com/problems/is-subsequence/?envType=study-plan&id=level-1) | [Python](./leetcode/392/IsSubsequence.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?envType=study-plan&id=level-1) | [Python](./leetcode/21/MergeTwoSortedLists.py)|Easy|🛑🛑|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./leetcode/121/BestTimetoBuyandSellStock.py)|Easy|
-|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?envType=study-plan&id=level-1) | [Python](./leetcode/409/LongestPalindrome.py)|Easy|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?envType=study-plan&id=level-1) | [Python](./leetcode/409/LongestPalindrome.py)|Easy|🟢🟢|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/?envType=study-plan&id=level-1) | [Python](./leetcode/589/N_aryTreePreorderTraversal.py)|Easy|🛑|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/?envType=study-plan&id=level-1) | [Python](./leetcode/733/FloodFill.py)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./leetcode/1/TwoSum.py)|Easy|
