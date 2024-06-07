@@ -298,6 +298,7 @@ LeetCode
 |2486|[Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/?envType=daily-question&envId=2024-06-03) | [Python](./leetcode/2486/Append%20Characters%20to%20String%20to%20Make%20Subsequence.py)|Medium|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/description/?envType=daily-question&envId=2024-06-05) | [Python](./leetcode/1002/Find%20Common%20Characters.py)|Easy|🛑|
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/?envType=daily-question&envId=2024-06-06) | [Python](./leetcode/864/Hand%20of%20Straights.py)|Medium|🛑|
+|648|[Replace Words](https://leetcode.com/problems/replace-words/description/?envType=daily-question&envId=2024-06-07) | [Python](./leetcode/648/Replace%20Words.py)|Medium|
 
 
 
