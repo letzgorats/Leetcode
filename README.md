@@ -299,7 +299,7 @@ LeetCode
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/description/?envType=daily-question&envId=2024-06-05) | [Python](./leetcode/1002/Find%20Common%20Characters.py)|Easy|🛑|
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/?envType=daily-question&envId=2024-06-06) | [Python](./leetcode/864/Hand%20of%20Straights.py)|Medium|🛑|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/description/?envType=daily-question&envId=2024-06-07) | [Python](./leetcode/648/Replace%20Words.py)|Medium|
-
+|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/?envType=daily-question&envId=2024-06-08) | [Python](./leetcode/523/Continuous%20Subarray%20Sum.py)|Medium|🛑|
 
 
 
