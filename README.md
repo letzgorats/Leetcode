@@ -300,7 +300,7 @@ LeetCode
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/?envType=daily-question&envId=2024-06-06) | [Python](./leetcode/864/Hand%20of%20Straights.py)|Medium|🛑|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/description/?envType=daily-question&envId=2024-06-07) | [Python](./leetcode/648/Replace%20Words.py)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/?envType=daily-question&envId=2024-06-08) | [Python](./leetcode/523/Continuous%20Subarray%20Sum.py)|Medium|🛑|
-
+|974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/?envType=daily-question&envId=2024-06-09) | [Python](./leetcode/974/Subarray%20Sums%20Divisible%20by%20K.py)|Medium|🛑|
 
 
 HackerRank
