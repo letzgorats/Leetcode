@@ -303,9 +303,7 @@ LeetCode
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/?envType=daily-question&envId=2024-06-09) | [Python](./leetcode/974/Subarray%20Sums%20Divisible%20by%20K.py)|Medium|🛑|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/description/?envType=daily-question&envId=2024-06-10) | [Python](./leetcode/1051/Height%20Checker.py)|Easy|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/?envType=daily-question&envId=2024-06-11) | [Python](./leetcode/1122/Relative%20Sort%20Array.py)|Easy|
-
-
-
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python](./leetcode/75/Sort%20Colors.py)|Medium|🛑|
 
 
 HackerRank
