@@ -304,6 +304,9 @@ LeetCode
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/description/?envType=daily-question&envId=2024-06-10) | [Python](./leetcode/1051/Height%20Checker.py)|Easy|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/?envType=daily-question&envId=2024-06-11) | [Python](./leetcode/1122/Relative%20Sort%20Array.py)|Easy|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python](./leetcode/75/Sort%20Colors.py)|Medium|🛑|
+|2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/?envType=daily-question&envId=2024-06-13) | [Python](./leetcode/2037/Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.py)|Easy|
+
+
 
 
 HackerRank
