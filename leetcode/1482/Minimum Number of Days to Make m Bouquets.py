@@ -37,6 +37,8 @@ class Solution(object):
 
         return left
 
+
+
 # TLE solution - brute force
 class Solution(object):
     def minDays(self, bloomDay, m, k):
