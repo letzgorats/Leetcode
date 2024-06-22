@@ -313,6 +313,7 @@ LeetCode
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/?envType=daily-question&envId=2024-06-19)                                                 | [Python](./leetcode/1482/Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.py)| Medium|🛑|
 | 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/description/?envType=daily-question&envId=2024-06-20)                                                                   | [Python](./leetcode/1552/Magnetic%20Force%20Between%20Two%20Balls.py)| Medium|🛑|
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/?envType=daily-question&envId=2024-06-21) | [Python](./leetcode/1052/Grumpy%20Bookstore%20Owner.py)| Medium|🛑|
+| 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/?envType=daily-question&envId=2024-06-22) | [Python](./leetcode/1248/Count%20Number%20of%20Nice%20Subarrays.py)| Medium|🛑|
 
 
 
