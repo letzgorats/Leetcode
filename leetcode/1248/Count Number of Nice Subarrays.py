@@ -1,10 +1,5 @@
 class Solution(object):
     def numberOfSubarrays(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
 
         for i in range(len(nums)):
             if nums[i] % 2 == 0:
