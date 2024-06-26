@@ -317,6 +317,7 @@ LeetCode
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/?envType=daily-question&envId=2024-06-23) | [Python](./leetcode/1438/Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.py) | Medium  |🛑|
 | 995  | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/?envType=daily-question&envId=2024-06-24) | [Python](./leetcode/995/Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips.py)  | Hard    |🛑|
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/?envType=daily-question&envId=2024-06-25) | [Python](leetcode/1038/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.py)  | Medium  |🛑|
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=daily-question&envId=2024-06-26) | [Python](leetcode/1382/Balance%20a%20Binary%20Search%20Tree.py)  | Medium  |🛑|
 
 
 
