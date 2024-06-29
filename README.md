@@ -320,6 +320,7 @@ LeetCode
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=daily-question&envId=2024-06-26)                                                                                            | [Python](./leetcode/1382/Balance%20a%20Binary%20Search%20Tree.py)                                                             | Medium  |🛑|
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/?envType=daily-question&envId=2024-06-27)                                                                                                  | [Python](./leetcode/1791/Find%20Center%20of%20Star%20Graph.py)                                                                | Easy    |
 | 2285 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/?envType=daily-question&envId=2024-06-28)   | [Python](leetcode/2285/Maximum%20Total%20Importance%20of%20Roads.py)  | Medium  |
+| 2192 | [All Ancestors of a Node in a Directed Acyclic Graph.](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/?envType=daily-question&envId=2024-06-29)   | [Python](leetcode/2192/All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph.py)  | Medium  |🛑|
 
 
 
