@@ -1,5 +1,4 @@
 class Disjoint_Set_Union:
-
     def __init__(self, n):
         self.parent = list(range(n))
         self.rank = [1] * n
@@ -79,5 +78,6 @@ class Solution(object):
             return len(edges) - total_edges
         else:
             return -1
+
 
 
