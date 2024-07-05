@@ -325,7 +325,8 @@ LeetCode
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2024-07-01)  | [Python](./leetcode/1550/Three%20Consecutive%20Odds.py)                                                                       | Easy    |
 | 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=daily-question&envId=2024-07-02)  | [Python](./leetcode/350/Intersection%20of%20Two%20Arrays%20II.py)                                                             | Easy    |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/?envType=daily-question&envId=2024-07-03)  | [Python](./leetcode/1509/Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py)           | Medium  |🛑|
-| 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/?envType=daily-question&envId=2024-07-04)  | [Python](./leetcode/2181/Merge%20Nodes%20in%20Between%20Zeros.py)           | Medium  |🛑|
+| 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/?envType=daily-question&envId=2024-07-04)  | [Python](./leetcode/2181/Merge%20Nodes%20in%20Between%20Zeros.py)                                                             | Medium  |🛑|
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/?envType=daily-question&envId=2024-07-05)  | [Python](./leetcode/2058/Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points.py)         | Medium  |
 
 
 
