@@ -332,6 +332,7 @@ LeetCode
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08)  | [Python](./leetcode/1823/Find%20the%20Winner%20of%20the%20Circular%20Game.py)         | Medium     |
 | 1701 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/?envType=daily-question&envId=2024-07-09)  | [Python](./leetcode/1701/Average%20Waiting%20Time.py)         | Medium     |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10)  | [Python](./leetcode/1598/Crawler%20Log%20Folder.py)         | Easy       |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/?envType=daily-question&envId=2024-07-11)  | [Python](./leetcode/1598/Crawler%20Log%20Folder.py)         | Medium     |🛑|
 
 
 
