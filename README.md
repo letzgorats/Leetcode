@@ -334,6 +334,7 @@ LeetCode
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10)  | [Python](./leetcode/1598/Crawler%20Log%20Folder.py)         | Easy       |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/?envType=daily-question&envId=2024-07-11) | [Python](./leetcode/1190/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.py)         | Medium     |🛑|
 | 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/?envType=daily-question&envId=2024-07-12)  | [Python](./leetcode/1717/Maximum%20Score%20From%20Removing%20Substrings.py)    | Medium     |🛑|
+| 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/description/?envType=daily-question&envId=2024-07-13)  | [Python](./leetcode/2751/Robot%20Collisions.py)    | Hard       |🛑|
 
 
 
