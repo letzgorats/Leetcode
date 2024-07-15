@@ -336,6 +336,7 @@ LeetCode
 | 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/?envType=daily-question&envId=2024-07-12) | [Python](./leetcode/1717/Maximum%20Score%20From%20Removing%20Substrings.py)                                                   | Medium     |🛑|
 | 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/description/?envType=daily-question&envId=2024-07-13) | [Python](./leetcode/2751/Robot%20Collisions.py)                                                                               | Hard       |🛑|
 | 726  | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/?envType=daily-question&envId=2024-07-14)  | [Python](./leetcode/726/Number%20of%20Atoms.py)                                                                               | Hard       |🛑|
+| 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/?envType=daily-question&envId=2024-07-15)  | [Python](./leetcode/2196/Create%20Binary%20Tree%20From%20Descriptions.py)    | Medium     |🛑|
 
 
 
