@@ -337,6 +337,7 @@ LeetCode
 | 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/description/?envType=daily-question&envId=2024-07-13) | [Python](./leetcode/2751/Robot%20Collisions.py)                                                                               | Hard       |🛑|
 | 726  | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/?envType=daily-question&envId=2024-07-14)  | [Python](./leetcode/726/Number%20of%20Atoms.py)                                                                               | Hard       |🛑|
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/?envType=daily-question&envId=2024-07-15)  | [Python](./leetcode/2196/Create%20Binary%20Tree%20From%20Descriptions.py)    | Medium     |🛑|
+| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/?envType=daily-question&envId=2024-07-16)  | [Python](./leetcode/2096/Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another.py)    | Medium     |🛑|
 
 
 
