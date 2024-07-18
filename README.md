@@ -339,6 +339,7 @@ LeetCode
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/?envType=daily-question&envId=2024-07-15) | [Python](./leetcode/2196/Create%20Binary%20Tree%20From%20Descriptions.py)    | Medium     |🛑|
 | 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/?envType=daily-question&envId=2024-07-16) | [Python](./leetcode/2096/Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another.py)    | Medium     |🛑|
 | 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/?envType=daily-question&envId=2024-07-17)  | [Python](./leetcode/1110/Delete%20Nodes%20And%20Return%20Forest.py)    | Medium     |🛑|
+| 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/submissions/1324874860/?envType=daily-question&envId=2024-07-18)  | [Python](./leetcode/1530/Number%20of%20Good%20Leaf%20Nodes%20Pairs.py)    | Medium     |🛑|
 
 
 
