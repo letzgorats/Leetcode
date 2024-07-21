@@ -342,6 +342,8 @@ LeetCode
 | 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/submissions/1324874860/?envType=daily-question&envId=2024-07-18)                                                                            | [Python](./leetcode/1530/Number%20of%20Good%20Leaf%20Nodes%20Pairs.py)                                                        | Medium     |🛑|
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/?envType=daily-question&envId=2024-07-19)                                                                                                   | [Python](./leetcode/1380/Lucky%20Numbers%20in%20a%20Matrix.py)                                                                | Easy       |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/?envType=daily-question&envId=2024-07-20)  | [Python](./leetcode/1605/Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.py) | Medium     |🛑|
+| 2392 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/?envType=daily-question&envId=2024-07-21)  | [Python](./leetcode/2392/Build%20a%20Matrix%20With%20Conditions.py) | Hard       |🛑|
+
 
 HackerRank
 ========
