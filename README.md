@@ -346,6 +346,7 @@ LeetCode
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22)  | [Python](./leetcode/2418/Sort%20the%20People.py) | Easy       |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23)  | [Python](./leetcode/1636/Sort%20Array%20by%20Increasing%20Frequency.py) | Easy       |
 | 2191 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24)  | [Python](./leetcode/2191/Sort%20the%20Jumbled%20Numbers.py) | Medium     |
+| 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/?envType=daily-question&envId=2024-07-25)  | [Python](./leetcode/2191/Sort%20the%20Jumbled%20Numbers.py) | Medium     |🛑|
 
 
 HackerRank
