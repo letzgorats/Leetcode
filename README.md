@@ -347,7 +347,7 @@ LeetCode
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23)                                                                                 | [Python](./leetcode/1636/Sort%20Array%20by%20Increasing%20Frequency.py) | Easy       |
 | 2191 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24)                                                                                                     | [Python](./leetcode/2191/Sort%20the%20Jumbled%20Numbers.py) | Medium     |
 | 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/?envType=daily-question&envId=2024-07-25)                                                                                                                           | [Python](./leetcode/912/Sort%20an%20Array.py) | Medium     |🛑|
-| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/?envType=daily-question&envId=2024-07-26) | [Python](./leetcode/912/Sort%20an%20Array.py) | Medium     |🛑|
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/?envType=daily-question&envId=2024-07-26) | [Python](./leetcode/1334/Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.py) | Medium     |🛑|
 
 
 HackerRank
