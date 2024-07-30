@@ -350,7 +350,8 @@ LeetCode
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/?envType=daily-question&envId=2024-07-26) | [Python](./leetcode/1334/Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.py) | Medium     |🛑|
 | 2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/?envType=daily-question&envId=2024-07-27)   | [Python](./leetcode/2976/Minimum%20Cost%20to%20Convert%20String%20I.py)                                                          | Medium     |🛑|
 | 2045 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/?envType=daily-question&envId=2024-07-28)   | [Python](./leetcode/2045/Second%20Minimum%20Time%20to%20Reach%20Destination.py)                                                  | Hard       |🛑|
-| 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29)   | [Python](./leetcode/1395/Count%20Number%20of%20Teams.py)  | Medium   |🛑|
+| 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29)   | [Python](./leetcode/1395/Count%20Number%20of%20Teams.py)                                                                         | Medium   |🛑|
+| 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30)   | [Python](./leetcode/1653/Minimum%20Deletions%20to%20Make%20String%20Balanced.py)  | Medium   |🛑|
 
 
 HackerRank
