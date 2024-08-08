@@ -360,6 +360,7 @@ LeetCode
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/?envType=daily-question&envId=2024-08-05)                                                                                        | [Python](./leetcode/2053/Kth%20Distinct%20String%20in%20an%20Array.py)   | Easy       |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/?envType=daily-question&envId=2024-08-06)                                  | [Python](./leetcode/3016/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II.py)  | Medium     |
 | 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/?envType=daily-question&envId=2024-08-07)    | [Python](./leetcode/273/Integer%20to%20English%20Words.py)    | Hard       |🛑|
+| 885  | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/?envType=daily-question&envId=2024-08-08)    | [Python](./leetcode/273/Integer%20to%20English%20Words.py)    | Medium   |🛑|
 
 
 
