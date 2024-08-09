@@ -361,6 +361,7 @@ LeetCode
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/?envType=daily-question&envId=2024-08-06)                                  | [Python](./leetcode/3016/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II.py)                                              | Medium     |
 | 273  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/?envType=daily-question&envId=2024-08-07)    | [Python](./leetcode/273/Integer%20to%20English%20Words.py)                                                                       | Hard       |🛑|
 | 885  | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/?envType=daily-question&envId=2024-08-08)    | [Python](./leetcode/885/Spiral%20Matrix%20III.py)                                                                                | Medium   |🛑|
+| 840  | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2024-08-09)    | [Python](./leetcode/840/Magic%20Squares%20In%20Grid.py)      | Medium   |🛑|
 
 
 
