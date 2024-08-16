@@ -366,8 +366,11 @@ LeetCode
 | 1568 | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=daily-question&envId=2024-08-11)                                                                 | [Python](./leetcode/1568/Minimum%20Number%20of%20Days%20to%20Disconnect%20Island.py)                                             | Hard       |🛑|
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=daily-question&envId=2024-08-12)                                                                                         | [Python](./leetcode/703/Kth%20Largest%20Element%20in%20a%20Stream.py)                                                            | Easy    |🛑|
 | 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/?envType=daily-question&envId=2024-08-13)                                                                                                                   | [Python](./leetcode/40/Combination%20Sum%20II.py)                                                                                | Medium    |🛑|
-| 719  | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/?envType=daily-question&envId=2024-08-14)                                                                                       | [Python](./leetcode/719/Find%20K-th%20Smallest%20Pair%20Distance.py)      | Hard       |🛑|
-| 860  | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/?envType=daily-question&envId=2024-08-15)    | [Python](./leetcode/860/Lemonade%20Change.py)    | Easy    |
+| 719  | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/?envType=daily-question&envId=2024-08-14)                                                                                       | [Python](./leetcode/719/Find%20K-th%20Smallest%20Pair%20Distance.py)                                                             | Hard       |🛑|
+| 860  | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/?envType=daily-question&envId=2024-08-15)    | [Python](./leetcode/860/Lemonade%20Change.py)                                                                                    | Easy    |
+| 624  | [Maximum Distance in ArraysI](https://leetcode.com/problems/maximum-distance-in-arrays/description/?envType=daily-question&envId=2024-08-16)     | [Python](./leetcode/624/Maximum%20Distance%20in%20Arrays.py)    | Medium    |🛑|
+
+
 
 
 HackerRank
