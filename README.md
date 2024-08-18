@@ -370,6 +370,7 @@ LeetCode
 | 860  | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/?envType=daily-question&envId=2024-08-15)    | [Python](./leetcode/860/Lemonade%20Change.py)                                                                                    | Easy    |
 | 624  | [Maximum Distance in ArraysI](https://leetcode.com/problems/maximum-distance-in-arrays/description/?envType=daily-question&envId=2024-08-16)     | [Python](./leetcode/624/Maximum%20Distance%20in%20Arrays.py)    | Medium    |🛑|
 | 1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/?envType=daily-question&envId=2024-08-17)     | [Python](./leetcode/1937/Maximum%20Number%20of%20Points%20with%20Cost.py)    | Medium    |🛑|
+| 264  | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18)     | [Python](./leetcode/264/Ugly%20Number%20II.py)    | Medium    |🛑|
 
 
 
