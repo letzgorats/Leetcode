@@ -372,7 +372,8 @@ LeetCode
 | 1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/?envType=daily-question&envId=2024-08-17)     | [Python](./leetcode/1937/Maximum%20Number%20of%20Points%20with%20Cost.py)    | Medium    |🛑|
 | 264  | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18)     | [Python](./leetcode/264/Ugly%20Number%20II.py)    | Medium    |🛑|
 | 650  | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/?envType=daily-question&envId=2024-08-19)     | [Python](./leetcode/650/2%20Keys%20Keyboard.py)    | Medium    |🛑|
-
+| 264  | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18)     | [Python](./leetcode/264/Ugly%20Number%20II.py)    | Medium    |🛑|
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/?envType=daily-question&envId=2024-08-20)     | [Python](./leetcode/1140/Stone%20Game%20II.py)    | Medium    |🛑|
 
 
 
