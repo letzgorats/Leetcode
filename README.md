@@ -377,6 +377,7 @@ LeetCode
 | 664  | [Strange Printer](https://leetcode.com/problems/strange-printer/description/?envType=daily-question&envId=2024-08-21)     | [Python](./leetcode/664/Strange%20Printer.py)                                                                                    | Hard       |🛑|
 | 476  | [Number Complement](https://leetcode.com/problems/number-complement/description/?envType=daily-question&envId=2024-08-22)     | [Python](./leetcode/476/Number%20Complement.py)   | Easy       |
 | 592  | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/?envType=daily-question&envId=2024-08-23)     | [Python](./leetcode/592/Fraction%20Addition%20and%20Subtraction.py)   | Medium     |🛑|
+| 564  | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/?envType=daily-question&envId=2024-08-24)     | [Python](./leetcode/564/Find%20the%20Closest%20Palindrome.py)   | Hard       |🛑|
 
 
 
