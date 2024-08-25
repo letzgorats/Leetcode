@@ -375,9 +375,10 @@ LeetCode
 | 264  | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18)     | [Python](./leetcode/264/Ugly%20Number%20II.py)                                                                                   | Medium     |🛑|
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/?envType=daily-question&envId=2024-08-20)     | [Python](./leetcode/1140/Stone%20Game%20II.py)                                                                                   | Medium     |🛑|
 | 664  | [Strange Printer](https://leetcode.com/problems/strange-printer/description/?envType=daily-question&envId=2024-08-21)     | [Python](./leetcode/664/Strange%20Printer.py)                                                                                    | Hard       |🛑|
-| 476  | [Number Complement](https://leetcode.com/problems/number-complement/description/?envType=daily-question&envId=2024-08-22)     | [Python](./leetcode/476/Number%20Complement.py)   | Easy       |
-| 592  | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/?envType=daily-question&envId=2024-08-23)     | [Python](./leetcode/592/Fraction%20Addition%20and%20Subtraction.py)   | Medium     |🛑|
-| 564  | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/?envType=daily-question&envId=2024-08-24)     | [Python](./leetcode/564/Find%20the%20Closest%20Palindrome.py)   | Hard       |🛑|
+| 476  | [Number Complement](https://leetcode.com/problems/number-complement/description/?envType=daily-question&envId=2024-08-22)     | [Python](./leetcode/476/Number%20Complement.py)                                                                                  | Easy       |
+| 592  | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/?envType=daily-question&envId=2024-08-23)     | [Python](./leetcode/592/Fraction%20Addition%20and%20Subtraction.py)                                                              | Medium     |🛑|
+| 564  | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/?envType=daily-question&envId=2024-08-24)     | [Python](./leetcode/564/Find%20the%20Closest%20Palindrome.py)                                                                    | Hard       |🛑|
+| 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/?envType=daily-question&envId=2024-08-25)     | [Python](./leetcode/145/Binary%20Tree%20Postorder%20Traversal.py)  | Easy | 
 
 
 
