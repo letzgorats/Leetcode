@@ -379,8 +379,8 @@ LeetCode
 | 592  | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/?envType=daily-question&envId=2024-08-23)     | [Python](./leetcode/592/Fraction%20Addition%20and%20Subtraction.py)                                                              | Medium     |🛑|
 | 564  | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/?envType=daily-question&envId=2024-08-24)     | [Python](./leetcode/564/Find%20the%20Closest%20Palindrome.py)                                                                    | Hard       |🛑|
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/?envType=daily-question&envId=2024-08-25)     | [Python](./leetcode/145/Binary%20Tree%20Postorder%20Traversal.py)                                                                | Easy | 
-| 590  | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/?envType=daily-question&envId=2024-08-26)     | [Python](./leetcode/590/N-ary%20Tree%20Postorder%20Traversal.py)             | Easy | 
-
+| 590  | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/?envType=daily-question&envId=2024-08-26)     | [Python](./leetcode/590/N-ary%20Tree%20Postorder%20Traversal.py)       | Easy | 
+| 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/?envType=daily-question&envId=2024-08-27)     | [Python](./leetcode/1514/Path%20with%20Maximum%20Probability.py)   | Medium     |🛑|
 
 
 
