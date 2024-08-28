@@ -381,6 +381,7 @@ LeetCode
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/?envType=daily-question&envId=2024-08-25)     | [Python](./leetcode/145/Binary%20Tree%20Postorder%20Traversal.py)                                                                | Easy | 
 | 590  | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/?envType=daily-question&envId=2024-08-26)     | [Python](./leetcode/590/N-ary%20Tree%20Postorder%20Traversal.py)       | Easy | 
 | 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/?envType=daily-question&envId=2024-08-27)     | [Python](./leetcode/1514/Path%20with%20Maximum%20Probability.py)   | Medium     |🛑|
+| 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/?envType=daily-question&envId=2024-08-28)     | [Python](./leetcode/1905/Count%20Sub%20Islands.py)   | Medium     |
 
 
 
