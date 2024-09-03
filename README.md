@@ -386,7 +386,7 @@ LeetCode
 | 2699 | [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/?envType=daily-question&envId=2024-08-30)     | [Python](./leetcode/2699/Modify%20Graph%20Edge%20Weights.py)                                                                     | Hard       |🛑|
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/?envType=daily-question&envId=2024-09-01)     | [Python](./leetcode/2022/Convert%201D%20Array%20Into%202D%20Array.py)       | Easy       | 
 | 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/?envType=daily-question&envId=2024-09-02)     | [Python](./leetcode/1894/Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.py)       | Medium     | 
-
+| 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/?envType=daily-question&envId=2024-09-03)     | [Python](./leetcode/1945/Sum%20of%20Digits%20of%20String%20After%20Convert.py)       | Easy       | 
 
 
 
