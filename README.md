@@ -384,9 +384,11 @@ LeetCode
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/?envType=daily-question&envId=2024-08-28)     | [Python](./leetcode/1905/Count%20Sub%20Islands.py)                                                                               | Medium     |
 | 947  | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/?envType=daily-question&envId=2024-08-29)     | [Python](./leetcode/947/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.py)                                            | Medium     |🛑|
 | 2699 | [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/?envType=daily-question&envId=2024-08-30)     | [Python](./leetcode/2699/Modify%20Graph%20Edge%20Weights.py)                                                                     | Hard       |🛑|
-| 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/?envType=daily-question&envId=2024-09-01)     | [Python](./leetcode/2022/Convert%201D%20Array%20Into%202D%20Array.py)       | Easy       | 
-| 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/?envType=daily-question&envId=2024-09-02)     | [Python](./leetcode/1894/Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.py)       | Medium     | 
-| 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/?envType=daily-question&envId=2024-09-03)     | [Python](./leetcode/1945/Sum%20of%20Digits%20of%20String%20After%20Convert.py)       | Easy       | 
+| 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/?envType=daily-question&envId=2024-09-01)     | [Python](./leetcode/2022/Convert%201D%20Array%20Into%202D%20Array.py)                                                            | Easy       | 
+| 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/?envType=daily-question&envId=2024-09-02)     | [Python](./leetcode/1894/Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.py)                                          | Medium     | 
+| 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/?envType=daily-question&envId=2024-09-03)     | [Python](./leetcode/1945/Sum%20of%20Digits%20of%20String%20After%20Convert.py)                                                   | Easy       | 
+| 874  | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/?envType=daily-question&envId=2024-09-04)     | [Python](./leetcode/874/Walking%20Robot%20Simulation.py)     | Medium     | 
+
 
 
 
