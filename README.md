@@ -392,6 +392,11 @@ LeetCode
 | 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/?envType=daily-question&envId=2024-09-06) | [Python](./leetcode/3217/Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array.py)   | Medium    |🛑|
 | 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/?envType=daily-question&envId=2024-09-07) | [Python](./leetcode/1367/Linked%20List%20in%20Binary%20Tree.py)   | Medium    |🛑|
 | 725  | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/?envType=daily-question&envId=2024-09-08) | [Python](./leetcode/725/Split%20Linked%20List%20in%20Parts.py)   | Medium    |🛑|
+| 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Python](./leetcode/54/Spiral%20Matrix.py)   | Medium    |
+
+
+
+
 
 
 HackerRank
