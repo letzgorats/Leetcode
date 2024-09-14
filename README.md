@@ -398,6 +398,7 @@ LeetCode
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/?envType=daily-question&envId=2024-09-11) | [Python](./leetcode/2220/Minimum%20Bit%20Flips%20to%20Convert%20Number.py)                                                       | Easy       |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/?envType=daily-question&envId=2024-09-12) | [Python](./leetcode/1684/Count%20the%20Number%20of%20Consistent%20Strings.py)                                                    | Easy       |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/description/?envType=daily-question&envId=2024-09-13) | [Python](./leetcode/1310/XOR%20Queries%20of%20a%20Subarray.py)    | Medium     |🛑|
+| 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/description/?envType=daily-question&envId=2024-09-13) | [Python](./leetcode/1310/XOR%20Queries%20of%20a%20Subarray.py)    | Medium     |🛑|
 
 
 
