@@ -399,6 +399,10 @@ LeetCode
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/?envType=daily-question&envId=2024-09-12) | [Python](./leetcode/1684/Count%20the%20Number%20of%20Consistent%20Strings.py)                                                    | Easy       |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/description/?envType=daily-question&envId=2024-09-13) | [Python](./leetcode/1310/XOR%20Queries%20of%20a%20Subarray.py)    | Medium     |🛑|
 | 2419 | [XLongest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/?envType=daily-question&envId=2024-09-14) | [Python](./leetcode/2419/Longest%20Subarray%20With%20Maximum%20Bitwise%20AND.py)    | Medium     |
+| 1371 | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/?envType=daily-question&envId=2024-09-15) | [Python](./leetcode/1371/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.py)    | Medium     |🛑|
+
+
+
 
 
 
