@@ -402,6 +402,7 @@ LeetCode
 | 1371 | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/?envType=daily-question&envId=2024-09-15) | [Python](./leetcode/1371/Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.py)    | Medium     |🛑|
 | 539  | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/?envType=daily-question&envId=2024-09-16) | [Python](./leetcode/539/Minimum%20Time%20Difference.py)    | Medium     |
 | 884  | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/?envType=daily-question&envId=2024-09-17) | [Python](./leetcode/884/Uncommon%20Words%20from%20Two%20Sentences.py)    | Easy       |
+| 179  | [Largest Number](https://leetcode.com/problems/largest-number/description/?envType=daily-question&envId=2024-09-18) | [Python](./leetcode/179/Largest%20Number.py)    | Medium     |🛑|
 
 
 
