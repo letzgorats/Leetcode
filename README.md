@@ -404,8 +404,7 @@ LeetCode
 | 884  | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/?envType=daily-question&envId=2024-09-17) | [Python](./leetcode/884/Uncommon%20Words%20from%20Two%20Sentences.py)    | Easy       |
 | 179  | [Largest Number](https://leetcode.com/problems/largest-number/description/?envType=daily-question&envId=2024-09-18) | [Python](./leetcode/179/Largest%20Number.py)    | Medium     |🛑|
 | 241  | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/?envType=daily-question&envId=2024-09-19) | [Python](./leetcode/241/Different%20Ways%20to%20Add%20Parentheses.py)    | Medium     |🛑|
-
-
+| 214  | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/?envType=daily-question&envId=2024-09-20) | [Python](./leetcode/214/Shortest%20Palindrome.py)    | Hard       |🛑|
 
 
 
