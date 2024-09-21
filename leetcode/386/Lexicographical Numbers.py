@@ -1,4 +1,4 @@
-# solution 1 - O(n) , O(n)
+# solution 1 - recursive, O(n) , O(n)
 class Solution:
     def lexicalOrder(self, n: int) -> List[int]:
 
@@ -19,8 +19,26 @@ class Solution:
 
         return result
 
+# solution 2 - iterative, math, O(n), O(n)
+class Solution:
+    def lexicalOrder(self, n: int) -> List[int]:
 
-# solution 2 - O(nlogn), O(nlogn)
+        result = []
+        cur = 1
+        while len(result) < n:
+            result.append(cur)
+
+            if cur * 10 <= n:
+                cur *= 10
+            else:
+                while cur == n or cur % 10 == 9:
+                    cur = cur // 10
+                cur += 1
+
+        return result
+
+
+# solution 3 - O(nlogn), O(nlogn)
 class Solution:
     def lexicalOrder(self, n: int) -> List[int]:
         nums = [str(i) for i in range(1, n + 1)]
@@ -28,3 +46,4 @@ class Solution:
         nums = list(map(int, nums))
 
         return nums
+
