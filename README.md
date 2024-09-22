@@ -406,7 +406,7 @@ LeetCode
 | 241  | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/?envType=daily-question&envId=2024-09-19) | [Python](./leetcode/241/Different%20Ways%20to%20Add%20Parentheses.py)    | Medium     |🛑|
 | 214  | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/?envType=daily-question&envId=2024-09-20) | [Python](./leetcode/214/Shortest%20Palindrome.py)    | Hard       |🛑|
 | 386  | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/?envType=daily-question&envId=2024-09-21) | [Python](./leetcode/386/Lexicographical%20Numbers.py)    | Medium     |🛑|
-| 440  | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2024-09-22) | [Python](./leetcode/386/Lexicographical%20Numbers.py)    | Hard       |🛑|
+| 440  | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2024-09-22) | [Python](./leetcode/440/K-th%20Smallest%20in%20Lexicographical%20Order.py)    | Hard       |🛑|
 
 
 
