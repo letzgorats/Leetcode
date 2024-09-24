@@ -408,7 +408,7 @@ LeetCode
 | 386  | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/?envType=daily-question&envId=2024-09-21) | [Python](./leetcode/386/Lexicographical%20Numbers.py)    | Medium     |🛑|
 | 440  | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2024-09-22) | [Python](./leetcode/440/K-th%20Smallest%20in%20Lexicographical%20Order.py)    | Hard       |🛑|
 | 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/?envType=daily-question&envId=2024-09-23) | [Python](./leetcode/2707/Extra%20Characters%20in%20a%20String.py)    | Medium     |🛑|
-| 2707 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/?envType=daily-question&envId=2024-09-24) | [Python](./leetcode/2707/Extra%20Characters%20in%20a%20String.py)    | Medium     |🛑|
+| 3043 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/?envType=daily-question&envId=2024-09-24) | [Python](./leetcode/3043/Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.py)    | Medium     |🛑|
 
 
 
