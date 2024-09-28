@@ -412,6 +412,7 @@ LeetCode
 | 2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/?envType=daily-question&envId=2024-09-25) | [Python](./leetcode/2416/Sum%20of%20Prefix%20Scores%20of%20Strings.py)    | Hard      |🛑|
 | 729  | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/?envType=daily-question&envId=2024-09-26) | [Python](./leetcode/729/My%20Calendar%20I.py)    | Medium    |
 | 731  | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/?envType=daily-question&envId=2024-09-27) | [Python](./leetcode/731/My%20Calendar%20II.py)    | Medium    |🛑|
+| 641  | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/?envType=daily-question&envId=2024-09-28) | [Python](./leetcode/641/Design%20Circular%20Deque.py)    | Medium    |
 
 
 
