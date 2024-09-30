@@ -413,7 +413,12 @@ LeetCode
 | 729  | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/?envType=daily-question&envId=2024-09-26) | [Python](./leetcode/729/My%20Calendar%20I.py)    | Medium     |
 | 731  | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/?envType=daily-question&envId=2024-09-27) | [Python](./leetcode/731/My%20Calendar%20II.py)    | Medium     |🛑|
 | 641  | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/?envType=daily-question&envId=2024-09-28) | [Python](./leetcode/641/Design%20Circular%20Deque.py)    | Medium     |
-| 432  | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/?envType=daily-question&envId=2024-09-29) | [Python](./leetcode/432/All%20O%60one%20Data%20Structure.py)    | Hard |🛑|
+| 432  | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/?envType=daily-question&envId=2024-09-29) | [Python](./leetcode/432/All%20O%60one%20Data%20Structure.py)    | Hard       |🛑|
+| 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/?envType=daily-question&envId=2024-09-30) | [Python](./leetcode/1381/Design%20a%20Stack%20With%20Increment%20Operation.py)    | Medium |
+
+
+
+
 
 
 
