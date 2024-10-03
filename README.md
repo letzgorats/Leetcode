@@ -414,9 +414,10 @@ LeetCode
 | 731  | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/?envType=daily-question&envId=2024-09-27) | [Python](./leetcode/731/My%20Calendar%20II.py)    | Medium     |🛑|
 | 641  | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/?envType=daily-question&envId=2024-09-28) | [Python](./leetcode/641/Design%20Circular%20Deque.py)    | Medium     |
 | 432  | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/?envType=daily-question&envId=2024-09-29) | [Python](./leetcode/432/All%20O%60one%20Data%20Structure.py)    | Hard       |🛑|
-| 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/?envType=daily-question&envId=2024-09-30) | [Python](./leetcode/1381/Design%20a%20Stack%20With%20Increment%20Operation.py)    | Medium |
-| 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/?envType=daily-question&envId=2024-10-01) | [Python](./leetcode/1497/Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.py)    | Medium |🛑|
+| 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/?envType=daily-question&envId=2024-09-30) | [Python](./leetcode/1381/Design%20a%20Stack%20With%20Increment%20Operation.py)    | Medium     |
+| 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/?envType=daily-question&envId=2024-10-01) | [Python](./leetcode/1497/Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.py)    | Medium     |🛑|
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/description/?envType=daily-question&envId=2024-10-02) | [Python](./leetcode/1331/Rank%20Transform%20of%20an%20Array.py)    | Easy       |
+| 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/description/?envType=daily-question&envId=2024-10-03) | [Python](./leetcode/1590/Make%20Sum%20Divisible%20by%20P.py)    | Medium     |🛑|
 
 
 
