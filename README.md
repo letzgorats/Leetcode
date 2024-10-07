@@ -422,6 +422,7 @@ LeetCode
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/?envType=daily-question&envId=2024-10-05) | [Python](./leetcode/567/Permutation%20in%20String.py)    | Medium |🛑|
 | 1813 | [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/?envType=daily-question&envId=2024-10-06) | [Python](./leetcode/1813/Sentence%20Similarity%20III.py)    | Medium |🛑|
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/?envType=daily-question&envId=2024-10-07) | [Python](./leetcode/2696/Minimum%20String%20Length%20After%20Removing%20Substrings.py)    | Easy   |
+| 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/?envType=daily-question&envId=2024-10-08) | [Python](./leetcode/2696/Minimum%20String%20Length%20After%20Removing%20Substrings.py)    | Medium |🛑|
 
 
 
