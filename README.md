@@ -425,7 +425,7 @@ LeetCode
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/?envType=daily-question&envId=2024-10-08) | [Python](./leetcode/1963/Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.py)                                 | Medium |🛑|
 | 921  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/?envType=daily-question&envId=2024-10-09) | [Python](./leetcode/921/Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)                                                      | Medium |
 | 962  | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/?envType=daily-question&envId=2024-10-10) | [Python](./leetcode/962/Maximum%20Width%20Ramp.py)                                                                               | Medium |🛑|
-| 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/?envType=daily-question&envId=2024-10-11) | [Python](./leetcode/1942/The%20Number%20of%20the%20Smallest%20Unoccupied%20Chair.py)                                                                              | Medium |🛑|
+| 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/?envType=daily-question&envId=2024-10-11) | [Python](./leetcode/1942/The%20Number%20of%20the%20Smallest%20Unoccupied%20Chair.py)    | Medium |🛑|
 
 
 
