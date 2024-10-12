@@ -426,6 +426,7 @@ LeetCode
 | 921  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/?envType=daily-question&envId=2024-10-09) | [Python](./leetcode/921/Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)                                                      | Medium |
 | 962  | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/?envType=daily-question&envId=2024-10-10) | [Python](./leetcode/962/Maximum%20Width%20Ramp.py)                                                                               | Medium |🛑|
 | 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/?envType=daily-question&envId=2024-10-11) | [Python](./leetcode/1942/The%20Number%20of%20the%20Smallest%20Unoccupied%20Chair.py)    | Medium |🛑|
+| 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/?envType=daily-question&envId=2024-10-11) | [Python](./leetcode/2406/Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups.py)    | Medium |🛑|
 
 
 
