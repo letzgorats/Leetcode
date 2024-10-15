@@ -429,6 +429,7 @@ LeetCode
 | 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/?envType=daily-question&envId=2024-10-11) | [Python](./leetcode/2406/Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups.py)                                          | Medium     |🛑|
 | 632  | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/?envType=daily-question&envId=2024-10-13) | [Python](./leetcode/632/Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.py)   | Hard       |🛑|
 | 2530 | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/?envType=daily-question&envId=2024-10-14) | [Python](./leetcode/2530/Maximal%20Score%20After%20Applying%20K%20Operations.py)   | Medium     |
+| 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/) | [Python](./leetcode/2938/Separate%20Black%20and%20White%20Balls.py)   | Medium     |🛑|
 
 
 
