@@ -431,6 +431,8 @@ LeetCode
 | 2530 | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/?envType=daily-question&envId=2024-10-14) | [Python](./leetcode/2530/Maximal%20Score%20After%20Applying%20K%20Operations.py)   | Medium     |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/) | [Python](./leetcode/2938/Separate%20Black%20and%20White%20Balls.py)   | Medium     |🛑|
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/?envType=daily-question&envId=2024-10-16) | [Python](./leetcode/1405/Longest%20Happy%20String.py)   | Medium     |🛑|
+| 670  | [Maximum Swap](https://leetcode.com/problems/maximum-swap/description/?envType=daily-question&envId=2024-10-17) | [Python](./leetcode/670/Maximum%20Swap.py)   | Medium     |🛑|
+
 
 
 
