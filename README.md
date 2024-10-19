@@ -433,6 +433,7 @@ LeetCode
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/?envType=daily-question&envId=2024-10-16) | [Python](./leetcode/1405/Longest%20Happy%20String.py)   | Medium     |🛑|
 | 670  | [Maximum Swap](https://leetcode.com/problems/maximum-swap/description/?envType=daily-question&envId=2024-10-17) | [Python](./leetcode/670/Maximum%20Swap.py)   | Medium     |🛑|
 | 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/?envType=daily-question&envId=2024-10-18) | [Python](./leetcode/2044/Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets.py)   | Medium     |🛑|
+| 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/?envType=daily-question&envId=2024-10-19) | [Python](./leetcode/1544/Make%20The%20String%20Great.py)   | Medium     |🛑|
 
 
 
