@@ -438,6 +438,7 @@ LeetCode
 | 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/?envType=daily-question&envId=2024-10-21) | [Python](./leetcode/1593/Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings.py)   | Medium  |
 | 2583 | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/?envType=daily-question&envId=2024-10-22) | [Python](./leetcode/2583/Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.py)   | Medium  |
 | 2641 | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/?envType=daily-question&envId=2024-10-23) | [Python](./leetcode/2641/Cousins%20in%20Binary%20Tree%20II.py)   | Medium  |🛑|
+| 951  | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/?envType=daily-question&envId=2024-10-24) | [Python](./leetcode/951/Flip%20Equivalent%20Binary%20Trees.py)   | Medium  |🛑|
 
 
 
