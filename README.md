@@ -440,7 +440,8 @@ LeetCode
 | 2641 | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/?envType=daily-question&envId=2024-10-23) | [Python](./leetcode/2641/Cousins%20in%20Binary%20Tree%20II.py)   | Medium     |🛑|
 | 951  | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/?envType=daily-question&envId=2024-10-24) | [Python](./leetcode/951/Flip%20Equivalent%20Binary%20Trees.py)   | Medium     |🛑|
 | 1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/?envType=daily-question&envId=2024-10-25) | [Python](./leetcode/1233/Remove%20Sub-Folders%20from%20the%20Filesystem.py)   | Medium     |
-| 2458 | [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/?envType=daily-question&envId=2024-10-26) | [Python](./leetcode/2458/Height%20of%20Binary%20Tree%20After%20Subtree%20Removal%20Queries.py)   | Hard   |🛑|
+| 2458 | [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/?envType=daily-question&envId=2024-10-26) | [Python](./leetcode/2458/Height%20of%20Binary%20Tree%20After%20Subtree%20Removal%20Queries.py)   | Hard       |🛑|
+| 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/?envType=daily-question&envId=2024-10-27) | [Python](./leetcode/1277/Count%20Square%20Submatrices%20with%20All%20Ones.py)   | Medium     |🛑|
 
 
 
