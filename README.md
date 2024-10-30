@@ -444,7 +444,7 @@ LeetCode
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/?envType=daily-question&envId=2024-10-27) | [Python](./leetcode/1277/Count%20Square%20Submatrices%20with%20All%20Ones.py)                                                    | Medium     |🛑|
 | 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/?envType=daily-question&envId=2024-10-28) | [Python](./leetcode/2501/Longest%20Square%20Streak%20in%20an%20Array.py)   | Medium     |🛑|
 | 2684 | [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/?envType=daily-question&envId=2024-10-29) | [Python](./leetcode/2684/Maximum%20Number%20of%20Moves%20in%20a%20Grid.py)   | Medium     |🛑|
-
+| 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/?envType=daily-question&envId=2024-10-30) | [Python](./leetcode/1671/Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array.py)   | Hard       |🛑|
 
 
 
