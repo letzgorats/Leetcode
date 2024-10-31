@@ -445,6 +445,7 @@ LeetCode
 | 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/?envType=daily-question&envId=2024-10-28) | [Python](./leetcode/2501/Longest%20Square%20Streak%20in%20an%20Array.py)   | Medium     |🛑|
 | 2684 | [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/?envType=daily-question&envId=2024-10-29) | [Python](./leetcode/2684/Maximum%20Number%20of%20Moves%20in%20a%20Grid.py)   | Medium     |🛑|
 | 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/?envType=daily-question&envId=2024-10-30) | [Python](./leetcode/1671/Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array.py)   | Hard       |🛑|
+| 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/description/?envType=daily-question&envId=2024-10-31) | [Python](./leetcode/2463/Minimum%20Total%20Distance%20Traveled.py)   | Hard       |🛑|
 
 
 
