@@ -448,6 +448,7 @@ LeetCode
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/description/?envType=daily-question&envId=2024-10-31) | [Python](./leetcode/2463/Minimum%20Total%20Distance%20Traveled.py)   | Hard       |🛑|
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/?envType=daily-question&envId=2024-11-01) | [Python](./leetcode/1957/Delete%20Characters%20to%20Make%20Fancy%20String.py)     | Easy       |
 | 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/description/?envType=daily-question&envId=2024-11-02) | [Python](./leetcode/2490/Circular%20Sentence.py)     | Easy       |
+| 796  | [Rotate String](https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-11-03) | [Python](./leetcode/796/Rotate%20String.py)     | Easy       |
 
 
 
