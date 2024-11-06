@@ -451,6 +451,7 @@ LeetCode
 | 796  | [Rotate String](https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-11-03) | [Python](./leetcode/796/Rotate%20String.py)     | Easy       |
 | 3163 | [String Compression III](https://leetcode.com/problems/string-compression-iii/description/?envType=daily-question&envId=2024-11-04) | [Python](./leetcode/3163/tring%20Compression%20III.py)   | Medium     |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/?envType=daily-question&envId=2024-11-05) | [Python](./leetcode/2914/Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful.py)   | Medium     |
+| 3011 | [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/?envType=daily-question&envId=2024-11-06) | [Python](./leetcode/3011/Find%20if%20Array%20Can%20Be%20Sorted.py)   | Medium     |🛑|
 
 
 
