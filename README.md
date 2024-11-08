@@ -453,6 +453,7 @@ LeetCode
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/?envType=daily-question&envId=2024-11-05) | [Python](./leetcode/2914/Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful.py)   | Medium     |
 | 3011 | [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/?envType=daily-question&envId=2024-11-06) | [Python](./leetcode/3011/Find%20if%20Array%20Can%20Be%20Sorted.py)   | Medium     |🛑|
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/?envType=daily-question&envId=2024-11-07) | [Python](./leetcode/2275/Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero.py)   | Medium     |🛑|
+| 1829 | [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/description/?envType=daily-question&envId=2024-11-08) | [Python](./leetcode/2275/Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero.py)   | Medium     |🛑|
 
 
 
