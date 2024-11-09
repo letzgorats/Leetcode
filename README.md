@@ -454,6 +454,7 @@ LeetCode
 | 3011 | [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/?envType=daily-question&envId=2024-11-06) | [Python](./leetcode/3011/Find%20if%20Array%20Can%20Be%20Sorted.py)   | Medium     |🛑|
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/?envType=daily-question&envId=2024-11-07) | [Python](./leetcode/2275/Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero.py)   | Medium     |🛑|
 | 1829 | [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/description/?envType=daily-question&envId=2024-11-08) | [Python](./leetcode/1829/Maximum%20XOR%20for%20Each%20Query.py)   | Medium     |🛑|
+| 3133 | [Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/?envType=daily-question&envId=2024-11-09) | [Python](./leetcode/3133/Minimum%20Array%20End.py)   | Medium     |🛑|
 
 
 
