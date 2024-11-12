@@ -75,4 +75,22 @@ class Solution:
 
         return answer
 
+# solution 3 - heapq
+import heapq
+class Solution:
+    def maximumBeauty(self, items: List[List[int]], queries: List[int]) -> List[int]:
 
+        n = len(queries)
+        queries = [(queries[i], i) for i in range(n)]
+        heapq.heapify(items)
+
+        answer = [0] * n
+        max_beauty = 0
+
+        for q, i in sorted(queries):
+
+            while items and items[0][0] <= q:
+                max_beauty = max(max_beauty, heapq.heappop(items)[1])
+            answer[i] = max_beauty
+
+        return answer
