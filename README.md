@@ -458,6 +458,7 @@ LeetCode
 | 3097 | [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/?envType=daily-question&envId=2024-11-10) | [Python](./leetcode/3097/Shortest%20Subarray%20With%20OR%20at%20Least%20K%20II.py)   | Medium     |🛑|
 | 2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/?envType=daily-question&envId=2024-11-11) | [Python](./leetcode/2601/Prime%20Subtraction%20Operation.py)   | Medium     |🛑|
 | 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/description/?envType=daily-question&envId=2024-11-12) | [Python](./leetcode/2070/Most%20Beautiful%20Item%20for%20Each%20Query.py)   | Medium     |🛑|
+| 2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/?envType=daily-question&envId=2024-11-13) | [Python](./leetcode/2563/Count%20the%20Number%20of%20Fair%20Pairs.py)   | Medium     |🛑|
 
 
 
