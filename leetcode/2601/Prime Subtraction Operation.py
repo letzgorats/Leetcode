@@ -1,9 +1,10 @@
+import math
 # solution 1 - O (n * m * sqrt(m))
 class Solution:
     def primeSubOperation(self, nums: list[int]) -> bool:
 
         def is_prime(n):
-            for i in range(2, int(sqrt(n)) + 1):
+            for i in range(2, int(math.sqrt(n)) + 1):
                 if n % i == 0:
                     return False
             return True
@@ -33,7 +34,7 @@ class Solution:
     def primeSubOperation(self, nums: list[int]) -> bool:
 
         def is_prime(n):
-            for i in range(2, int(sqrt(n)) + 1):
+            for i in range(2, int(math.sqrt(n)) + 1):
                 if n % i == 0:
                     return False
 
