@@ -461,6 +461,7 @@ LeetCode
 | 2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/?envType=daily-question&envId=2024-11-13) | [Python](./leetcode/2563/Count%20the%20Number%20of%20Fair%20Pairs.py)   | Medium     |🛑|
 | 2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/?envType=daily-question&envId=2024-11-14) | [Python](./leetcode/2064/Minimized%20Maximum%20of%20Products%20Distributed%20to%20Any%20Store.py)   | Medium     |🛑|
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/) | [Python](./leetcode/1574/Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted.py)   | Medium     |🛑|
+| 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/?envType=daily-question&envId=2024-11-16) | [Python](./leetcode/3254/Find%20the%20Power%20of%20K-Size%20Subarrays%20I.py)   | Medium     |
 
 
 
