@@ -462,6 +462,7 @@ LeetCode
 | 2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/?envType=daily-question&envId=2024-11-14) | [Python](./leetcode/2064/Minimized%20Maximum%20of%20Products%20Distributed%20to%20Any%20Store.py)   | Medium     |🛑|
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/) | [Python](./leetcode/1574/Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted.py)   | Medium     |🛑|
 | 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/?envType=daily-question&envId=2024-11-16) | [Python](./leetcode/3254/Find%20the%20Power%20of%20K-Size%20Subarrays%20I.py)   | Medium     |
+| 862  | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/?envType=daily-question&envId=2024-11-17) | [Python](./leetcode/862/Shortest%20Subarray%20with%20Sum%20at%20Least%20K.py)   | Hard       |🛑|
 
 
 
