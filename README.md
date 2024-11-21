@@ -466,6 +466,7 @@ LeetCode
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/?envType=daily-question&envId=2024-11-18) | [Python](./leetcode/1652/Defuse%20the%20Bomb.py)                                                                                 | Easy       |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/?envType=daily-question&envId=2024-11-19) | [Python](./leetcode/2461/Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K.py)   |  Medium     |🛑|
 | 2561 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/?envType=daily-question&envId=2024-11-20) | [Python](./leetcode/2516/Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right.py)   |  Medium     |🛑|
+| 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/?envType=daily-question&envId=2024-11-21) | [Python](./leetcode/2516/Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right.py)   |  Medium     |
 
 
 
