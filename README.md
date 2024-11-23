@@ -468,6 +468,7 @@ LeetCode
 | 2561 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/?envType=daily-question&envId=2024-11-20) | [Python](./leetcode/2516/Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right.py)   |  Medium     |🛑|
 | 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/?envType=daily-question&envId=2024-11-21) | [Python](./leetcode/2257/Count%20Unguarded%20Cells%20in%20the%20Grid.py)   |  Medium     |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/?envType=daily-question&envId=2024-11-22) | [Python](./leetcode/1072/Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows.py)   |  Medium     |🛑|
+| 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/description/?envType=daily-question&envId=2024-11-23) | [Python](./leetcode/1861/Rotating%20the%20Box.py)   |  Medium     |🛑|
 
 
 
