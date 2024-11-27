@@ -472,6 +472,7 @@ LeetCode
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/?envType=daily-question&envId=2024-11-24) | [Python](./leetcode/1975/Maximum%20Matrix%20Sum.py)   | Medium     |🛑|
 | 773  | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/?envType=daily-question&envId=2024-11-25) | [Python](./leetcode/773/Sliding%20Puzzle.py)   | Hard       |🛑|
 | 2924 | [Find Champion II](https://leetcode.com/problems/find-champion-ii/?envType=daily-question&envId=2024-11-26) | [Python](./leetcode/2924/Find%20Champion%20II.py)   | Medium     |
+| 3243 | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/?envType=daily-question&envId=2024-11-27) | [Python](./leetcode/2924/Find%20Champion%20II.py)   | Medium     |
 
 
 
