@@ -473,7 +473,7 @@ LeetCode
 | 773  | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/?envType=daily-question&envId=2024-11-25) | [Python](./leetcode/773/Sliding%20Puzzle.py)  | Hard       |🛑|
 | 2924 | [Find Champion II](https://leetcode.com/problems/find-champion-ii/?envType=daily-question&envId=2024-11-26) | [Python](./leetcode/2924/Find%20Champion%20II.py)  | Medium     |
 | 3243 | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/?envType=daily-question&envId=2024-11-27) | [Python](./leetcode/3243/Shortest%20Distance%20After%20Road%20Addition%20Queries%20I.py)   | Medium     |🛑|
-| 2290 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/?envType=daily-question&envId=2024-11-27) | [Python](./leetcode/3243/Shortest%20Distance%20After%20Road%20Addition%20Queries%20I.py)   | Medium     |🛑|
+| 2290 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/?envType=daily-question&envId=2024-11-27) | [Python](./leetcode/2290/Minimum%20Obstacle%20Removal%20to%20Reach%20Corner.py)   | Hard       |
 
 
 
