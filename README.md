@@ -475,6 +475,7 @@ LeetCode
 | 3243 | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/?envType=daily-question&envId=2024-11-27) | [Python](./leetcode/3243/Shortest%20Distance%20After%20Road%20Addition%20Queries%20I.py)  | Medium     |🛑|
 | 2290 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/?envType=daily-question&envId=2024-11-27) | [Python](./leetcode/2290/Minimum%20Obstacle%20Removal%20to%20Reach%20Corner.py)  | Hard       |
 | 2577 | [Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=daily-question&envId=2024-11-29) | [Python](./leetcode/2577/Minimum%20Time%20to%20Visit%20a%20Cell%20In%20a%20Grid.py)   | Hard       |🛑|
+| 2097 | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/?envType=daily-question&envId=2024-11-30) | [Python](./leetcode/2097/Valid%20Arrangement%20of%20Pairs.py)   | Hard       |🛑|
 
 
 
