@@ -477,6 +477,7 @@ LeetCode
 | 2577 | [Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=daily-question&envId=2024-11-29) | [Python](./leetcode/2577/Minimum%20Time%20to%20Visit%20a%20Cell%20In%20a%20Grid.py)   | Hard       |🛑|
 | 2097 | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/?envType=daily-question&envId=2024-11-30) | [Python](./leetcode/2097/Valid%20Arrangement%20of%20Pairs.py)   | Hard       |🛑|
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/?envType=daily-question&envId=2024-12-01) | [Python](./leetcode/1346/Check%20If%20N%20and%20Its%20Double%20Exist.py)   | Easy       |
+| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/?envType=daily-question&envId=2024-12-02) | [Python](./leetcode/1455/Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.py)   | Easy       |
 
 
 
