@@ -479,6 +479,7 @@ LeetCode
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/?envType=daily-question&envId=2024-12-01) | [Python](./leetcode/1346/Check%20If%20N%20and%20Its%20Double%20Exist.py)   | Easy       |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/?envType=daily-question&envId=2024-12-02) | [Python](./leetcode/1455/Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.py)   | Easy       |
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/?envType=daily-question&envId=2024-12-03) | [Python](./leetcode/2109/Adding%20Spaces%20to%20a%20String.py)   | Medium       |
+| 2825 | [Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/?envType=daily-question&envId=2024-12-04) | [Python](./leetcode/2825/Make%20String%20a%20Subsequence%20Using%20Cyclic%20Increments.py)   | Medium       |🛑|
 
 
 
