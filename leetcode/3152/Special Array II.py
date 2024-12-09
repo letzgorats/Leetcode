@@ -29,6 +29,7 @@ class Solution:
     def isArraySpecial(self, nums: List[int], queries: List[List[int]]) -> List[bool]:
 
         prefix, cnt = [0], 0
+        # pairwise(nums)는 nums 리스트의 인접한 두 요소 (nums[i], nums[i+1])를 순서대로 반환
         for a, b in pairwise(nums):
 
             if (a + b) % 2 == 1:
