@@ -485,6 +485,7 @@ LeetCode
 | 1760 | [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/?envType=daily-question&envId=2024-12-07) | [Python](./leetcode/1760/Minimum%20Limit%20of%20Balls%20in%20a%20Bag.py)   | Medium       |🛑|
 | 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/description/?envType=daily-question&envId=2024-12-08) | [Python](./leetcode/2054/Two%20Best%20Non-Overlapping%20Events.py)   | Medium       |🛑|
 | 3152 | [Special Array II](https://leetcode.com/problems/special-array-ii/description/?envType=daily-question&envId=2024-12-09) | [Python](./leetcode/3152/Special%20Array%20II.py)   | Medium       |🛑|
+| 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/?envType=daily-question&envId=2024-12-10) | [Python](./leetcode/2981/Find%20Longest%20Special%20Substring%20That%20Occurs%20Thrice%20I.py)   | Medium       |🛑|
 
 
 
