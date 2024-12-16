@@ -491,7 +491,8 @@ LeetCode
 | 2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/?envType=daily-question&envId=2024-12-13) | [Python](./leetcode/2558/Take%20Gifts%20From%20the%20Richest%20Pile.py)   | Medium     |
 | 2762 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/description/?envType=daily-question&envId=2024-12-14) | [Python](./leetcode/2762/Continuous%20Subarrays.py)   | Medium     |🛑|
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2024-12-15) | [Python](./leetcode/1792/Maximum%20Average%20Pass%20Ratio.py)   | Medium     |🛑|
-| 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/?envType=daily-question&envId=2024-12-16) | [Python](./leetcode/3264/Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.py)   | Easy   |🛑|
+| 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/?envType=daily-question&envId=2024-12-16) | [Python](./leetcode/3264/Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.py)   | Easy   |
+
 
 
 
