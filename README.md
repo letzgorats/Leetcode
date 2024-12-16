@@ -487,10 +487,11 @@ LeetCode
 | 3152 | [Special Array II](https://leetcode.com/problems/special-array-ii/description/?envType=daily-question&envId=2024-12-09) | [Python](./leetcode/3152/Special%20Array%20II.py)   | Medium     |🛑|
 | 2981 | [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/?envType=daily-question&envId=2024-12-10) | [Python](./leetcode/2981/Find%20Longest%20Special%20Substring%20That%20Occurs%20Thrice%20I.py)   | Medium     |🛑|
 | 2779 | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/?envType=daily-question&envId=2024-12-11) | [Python](./leetcode/2779/Maximum%20Beauty%20of%20an%20Array%20After%20Applying%20Operation.py)   | Medium     |🛑|
-| 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/?envType=daily-question&envId=2024-12-12) | [Python](./leetcode/2558/Take%20Gifts%20From%20the%20Richest%20Pile.py)   | Easy         |
-| 2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/?envType=daily-question&envId=2024-12-13) | [Python](./leetcode/2558/Take%20Gifts%20From%20the%20Richest%20Pile.py)   | Medium  |
-| 2762 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/description/?envType=daily-question&envId=2024-12-14) | [Python](./leetcode/2762/Continuous%20Subarrays.py)   | Medium  |🛑|
-| 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2024-12-15) | [Python](./leetcode/1792/Maximum%20Average%20Pass%20Ratio.py)   | Medium  |🛑|
+| 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/?envType=daily-question&envId=2024-12-12) | [Python](./leetcode/2558/Take%20Gifts%20From%20the%20Richest%20Pile.py)   | Easy       |
+| 2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/?envType=daily-question&envId=2024-12-13) | [Python](./leetcode/2558/Take%20Gifts%20From%20the%20Richest%20Pile.py)   | Medium     |
+| 2762 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/description/?envType=daily-question&envId=2024-12-14) | [Python](./leetcode/2762/Continuous%20Subarrays.py)   | Medium     |🛑|
+| 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2024-12-15) | [Python](./leetcode/1792/Maximum%20Average%20Pass%20Ratio.py)   | Medium     |🛑|
+| 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/?envType=daily-question&envId=2024-12-16) | [Python](./leetcode/3264/Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.py)   | Easy   |🛑|
 
 
 
