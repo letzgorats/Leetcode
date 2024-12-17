@@ -492,7 +492,7 @@ LeetCode
 | 2762 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/description/?envType=daily-question&envId=2024-12-14) | [Python](./leetcode/2762/Continuous%20Subarrays.py)   | Medium     |🛑|
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2024-12-15) | [Python](./leetcode/1792/Maximum%20Average%20Pass%20Ratio.py)   | Medium     |🛑|
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/?envType=daily-question&envId=2024-12-16) | [Python](./leetcode/3264/Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.py)   | Easy   |
-
+| 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/description/?envType=daily-question&envId=2024-12-17) | [Python](./leetcode/2182/Construct%20String%20With%20Repeat%20Limit.py)   | Medium     |🛑|
 
 
 
