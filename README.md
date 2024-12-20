@@ -495,7 +495,7 @@ LeetCode
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/description/?envType=daily-question&envId=2024-12-17) | [Python](./leetcode/2182/Construct%20String%20With%20Repeat%20Limit.py)   | Medium     |🛑|
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/?envType=daily-question&envId=2024-12-18) | [Python](./leetcode/1475/Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.py)   | Easy   |
 | 769  | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/?envType=daily-question&envId=2024-12-19) | [Python](./leetcode/769/Max%20Chunks%20To%20Make%20Sorted.py)   | Medium     |🛑|
-| 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/max-chunks-to-make-sorted/description/?envType=daily-question&envId=2024-12-19) | [Python](./leetcode/769/Max%20Chunks%20To%20Make%20Sorted.py)   | Medium     |🛑|
+| 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/?envType=daily-question&envId=2024-12-20) | [Python](./leetcode/2415/Reverse%20Odd%20Levels%20of%20Binary%20Tree.py)   | Medium     |🛑|
 
 
 
