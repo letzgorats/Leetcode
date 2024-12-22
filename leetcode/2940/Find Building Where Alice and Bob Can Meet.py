@@ -24,6 +24,7 @@ class Solution:
         return res
 
 
+
 # solution 2 = heapq, monotonic stack
 import heapq
 from collections import defaultdict
