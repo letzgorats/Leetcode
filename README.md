@@ -498,6 +498,7 @@ LeetCode
 | 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/?envType=daily-question&envId=2024-12-20) | [Python](./leetcode/2415/Reverse%20Odd%20Levels%20of%20Binary%20Tree.py)   | Medium     |🛑|
 | 2872 | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/?envType=daily-question&envId=2024-12-21) | [Python](./leetcode/2872/Maximum%20Number%20of%20K-Divisible%20Components.py)   | Hard       |🛑|
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/?envType=daily-question&envId=2024-12-22) | [Python](./leetcode/2940/Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet.py)   | Hard       |🛑|
+| 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/description/?envType=daily-question&envId=2024-12-23) | [Python](./leetcode/2471/Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level.py)   | Medium     |🛑|
 
 
 
