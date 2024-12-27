@@ -501,7 +501,7 @@ LeetCode
 | 2471   | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/description/?envType=daily-question&envId=2024-12-23) | [Python](./leetcode/2471/Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level.py)   | Medium     |🛑|
 | 2940   | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/?envType=daily-question&envId=2024-12-24) | [Python](./leetcode/2940/Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet.py)   | Hard       |🛑|
 | 494    | [Target Sum](https://leetcode.com/problems/target-sum/description/?envType=daily-question&envId=2024-12-26) | [Python](./leetcode/494/Target%20Sum.py)   | Medium     |🛑|
-| 1014   | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/?envType=daily-question&envId=2024-12-27) | [Python](./leetcode/494/Target%20Sum.py)   | Medium     |🛑|
+| 1014   | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/?envType=daily-question&envId=2024-12-27) | [Python](./leetcode/1014/Best%20Sightseeing%20Pair.py)   | Medium     |🛑|
 
 
 
