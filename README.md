@@ -505,6 +505,7 @@ LeetCode
 | 689  | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/?envType=daily-question&envId=2024-12-28) | [Python](./leetcode/689/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays.py)   | Hard       |🛑|
 | 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/?envType=daily-question&envId=2024-12-29) | [Python](./leetcode/1639/Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary.py)   | Hard       |🛑|
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/?envType=daily-question&envId=2024-12-30) | [Python](./leetcode/2466/Count%20Ways%20To%20Build%20Good%20Strings.py)   | Medium     |🛑|
+| 2466 | [Minimum Cost For Tickets](https://leetcode.com/problems/count-ways-to-build-good-strings/description/?envType=daily-question&envId=2024-12-30) | [Python](./leetcode/2466/Count%20Ways%20To%20Build%20Good%20Strings.py)   | Medium     |🛑|
 
 
 
