@@ -507,6 +507,7 @@ LeetCode
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/?envType=daily-question&envId=2024-12-30) | [Python](./leetcode/2466/Count%20Ways%20To%20Build%20Good%20Strings.py)   | Medium     |🛑|
 | 983  | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/?envType=daily-question&envId=2024-12-31) | [Python](./leetcode/983/Minimum%20Cost%20For%20Tickets.py)   | Medium     |🛑|
 | 2559 | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/?envType=daily-question&envId=2025-01-02)   | [Python](./leetcode/2559/Count%20Vowel%20Strings%20in%20Ranges.py)   | Medium     |
+| 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03)   | [Python](./leetcode/2270/Number%20of%20Ways%20to%20Split%20Array.py)   | Medium     |
 
 
 
