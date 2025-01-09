@@ -512,6 +512,7 @@ LeetCode
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?envType=daily-question&envId=2025-01-06) | [Python](./leetcode/1769/Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.py)   | Medium     |🛑|
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/?envType=daily-question&envId=2025-01-07) | [Python](./leetcode/1408/String%20Matching%20in%20an%20Array.py)   | Easy       |
 | 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08) | [Python](./leetcode/3042/Count%20Prefix%20and%20Suffix%20Pairs%20I.py)   | Easy       |
+| 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/?envType=daily-question&envId=2025-01-09) | [Python](./leetcode/2185/Counting%20Words%20With%20a%20Given%20Prefix.py)   | Easy       |
 
 
 
