@@ -515,6 +515,7 @@ LeetCode
 | 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/?envType=daily-question&envId=2025-01-09) | [Python](./leetcode/2185/Counting%20Words%20With%20a%20Given%20Prefix.py)   | Easy       |
 | 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/description/?envType=daily-question&envId=2025-01-10) | [Python](./leetcode/916/Word%20Subsets.py)   | Medium     |🛑|
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/?envType=daily-question&envId=2025-01-11) | [Python](./leetcode/1400/Construct%20K%20Palindrome%20Strings.py)   | Medium     |🛑|
+| 2116 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/?envType=daily-question&envId=2025-01-12) | [Python](./leetcode/2116/Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.py)   | Medium     |🛑|
 
 
 
