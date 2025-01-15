@@ -518,6 +518,7 @@ LeetCode
 | 2116 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/?envType=daily-question&envId=2025-01-12) | [Python](./leetcode/2116/Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.py)   | Medium     |🛑|
 | 3223 | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/?envType=daily-question&envId=2025-01-13) | [Python](./leetcode/3223/Minimum%20Length%20of%20String%20After%20Operations.py)   | Medium     |🛑|
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2025-01-14) | [Python](./leetcode/2657/Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.py)   | Medium     |
+| 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/?envType=daily-question&envId=2025-01-15) | [Python](./leetcode/2657/Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.py)   | Medium     |🛑|
 
 
 
