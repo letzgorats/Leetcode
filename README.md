@@ -519,6 +519,7 @@ LeetCode
 | 3223 | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/?envType=daily-question&envId=2025-01-13) | [Python](./leetcode/3223/Minimum%20Length%20of%20String%20After%20Operations.py)   | Medium     |🛑|
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2025-01-14) | [Python](./leetcode/2657/Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.py)   | Medium     |
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/?envType=daily-question&envId=2025-01-15) | [Python](./leetcode/2429/Minimize%20XOR.py)   | Medium     |🛑|
+| 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/?envType=daily-question&envId=2025-01-16) | [Python](./leetcode/2425/Bitwise%20XOR%20of%20All%20Pairings.py)   | Medium     |🛑|
 
 
 
