@@ -520,6 +520,7 @@ LeetCode
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2025-01-14) | [Python](./leetcode/2657/Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.py)   | Medium     |
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/?envType=daily-question&envId=2025-01-15) | [Python](./leetcode/2429/Minimize%20XOR.py)   | Medium     |🛑|
 | 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/?envType=daily-question&envId=2025-01-16) | [Python](./leetcode/2425/Bitwise%20XOR%20of%20All%20Pairings.py)   | Medium     |🛑|
+| 2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/?envType=daily-question&envId=2025-01-17) | [Python](./leetcode/2683/Neighboring%20Bitwise%20XOR.py)   | Medium     |
 
 
 
