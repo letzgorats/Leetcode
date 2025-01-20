@@ -28,6 +28,11 @@ class Solution:
 
         return -1
 
+'''
++= 와 같은 합을 이용해서 총합이 m인지 n인지를 판단함으로써
+1차원 배열에서도 2차원 배열의 visited 여부를 확인할 수 있게 된다.
+'''
+
 # TLE
 class Solution:
     def firstCompleteIndex(self, arr: List[int], mat: List[List[int]]) -> int:
