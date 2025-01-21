@@ -524,7 +524,8 @@ LeetCode
 | 2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/?envType=daily-question&envId=2025-01-17) | [Python](./leetcode/2683/Neighboring%20Bitwise%20XOR.py)   | Medium     |
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/?envType=daily-question&envId=2025-01-18) | [Python](./leetcode/1368/Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.py)   | Hard       |🛑|
 | 407  | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/?envType=daily-question&envId=2025-01-19) | [Python](./leetcode/407/Trapping%20Rain%20Water%20II.py)   | Hard       |🛑|
-| 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/?envType=daily-question&envId=2025-01-20) | [Python](./2661/First%20Completely%20Painted%20Row%20or%20Column.py)   | Medium     |🛑|
+| 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/?envType=daily-question&envId=2025-01-20) | [Python](./leetcode/2661/First%20Completely%20Painted%20Row%20or%20Column.py)   | Medium     |🛑|
+| 2017 | [Grid Game](https://leetcode.com/problems/grid-game/description/?envType=daily-question&envId=2025-01-21) | [Python](./leetcode/2017/Grid%20Game.py)   | Medium     |🛑|
 
 
 
