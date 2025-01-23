@@ -527,7 +527,7 @@ LeetCode
 | 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/?envType=daily-question&envId=2025-01-20) | [Python](./leetcode/2661/First%20Completely%20Painted%20Row%20or%20Column.py)   | Medium     |🛑|
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game/description/?envType=daily-question&envId=2025-01-21) | [Python](./leetcode/2017/Grid%20Game.py)   | Medium     |🛑|
 | 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/?envType=daily-question&envId=2025-01-22) | [Python](./leetcode/1765/Map%20of%20Highest%20Peak.py)   | Medium     |🛑|
-| 1267 | [Count Servers that Communicate](https://leetcode.com/problems/map-of-highest-peak/description/?envType=daily-question&envId=2025-01-22) | [Python](./leetcode/1765/Map%20of%20Highest%20Peak.py)   | Medium     |🛑|
+| 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/?envType=daily-question&envId=2025-01-23) | [Python](./leetcode/1267/Count%20Servers%20that%20Communicate.py)   | Medium     |🛑|
 
 
 
