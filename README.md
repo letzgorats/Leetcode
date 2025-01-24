@@ -528,6 +528,7 @@ LeetCode
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game/description/?envType=daily-question&envId=2025-01-21) | [Python](./leetcode/2017/Grid%20Game.py)   | Medium     |🛑|
 | 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/?envType=daily-question&envId=2025-01-22) | [Python](./leetcode/1765/Map%20of%20Highest%20Peak.py)   | Medium     |🛑|
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/?envType=daily-question&envId=2025-01-23) | [Python](./leetcode/1267/Count%20Servers%20that%20Communicate.py)   | Medium     |🛑|
+| 802  | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/?envType=daily-question&envId=2025-01-24) | [Python](./leetcode/1267/Count%20Servers%20that%20Communicate.py)   | Medium     |🛑|
 
 
 
