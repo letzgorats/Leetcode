@@ -530,7 +530,7 @@ LeetCode
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/?envType=daily-question&envId=2025-01-23) | [Python](./leetcode/1267/Count%20Servers%20that%20Communicate.py)                                                                | Medium     |🛑|
 | 802  | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/?envType=daily-question&envId=2025-01-24) | [Python](./leetcode/802/Find%20Eventual%20Safe%20States.py)                                                                      | Medium     |🛑|
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/?envType=daily-question&envId=2025-01-25) | [Python](./leetcode/2948/Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements.py)   | Medium     |🛑|
-| 2127 | [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/?envType=daily-question&envId=2025-01-26) | [Python](./leetcode/2948/Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements.py)   | Hard       |🛑|
+| 2127 | [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/?envType=daily-question&envId=2025-01-26) | [Python](./leetcode/2127/Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting.py)   | Hard       |🛑|
 
 
 
