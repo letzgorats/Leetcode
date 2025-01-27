@@ -9,7 +9,6 @@ class Solution:
             graph[a].append(b)
             indegree[b] += 1
 
-        INF = float('inf')
         isReachable = [[False] * numCourses for _ in range(numCourses)]
 
         q = deque()
