@@ -534,6 +534,7 @@ LeetCode
 | 1452 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/?envType=daily-question&envId=2025-01-27)                                                                                                                   | [Python](./leetcode/1462/Course%20Schedule%20IV.py)   | Medium     |🛑|
 | 2658 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/?envType=daily-question&envId=2025-01-28)                                                                                       | [Python](./leetcode/2658/Maximum%20Number%20of%20Fish%20in%20a%20Grid.py)   | Medium     |
 | 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/?envType=daily-question&envId=2025-01-29)   | [Python](./leetcode/684/Redundant%20Connection.py)   | Medium     |🛑|
+| 2493 | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/?envType=daily-question&envId=2025-01-30)   | [Python](./leetcode/2493/Divide%20Nodes%20Into%20the%20Maximum%20Number%20of%20Groups.py)   | Hard     |🛑|
 
 
 
