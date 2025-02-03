@@ -1076,6 +1076,7 @@ LeetCode
 | 827  | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/?envType=daily-question&envId=2025-01-31)   | [Python](./leetcode/827/Making%20A%20Large%20Island.py)   | Hard       |🛑|
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/description/?envType=daily-question&envId=2025-02-01)   | [Python](./leetcode/3151/Special%20Array%20I.py)   | Easy       |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-02-02)   | [Python](./leetcode/1752/Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py)   | Easy       |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/?envType=daily-question&envId=2025-02-03)   | [Python](./leetcode/3105/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray.py)   | Easy       |
 
 
 
