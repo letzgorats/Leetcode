@@ -59,8 +59,8 @@ class Solution:
         # 다른 위치 저장
         diff = [(i, s1[i], s2[i]) for i in range(len(s1)) if s1[i] != s2[i]]
 
-        # 다른 자리 2 초과라면 False
-        if len(diff) > 2:
+        # 다른 자리가 2개여야만 한다. 그 외는 False
+        if len(diff) == 2:
             return False
 
         # 스왑이 가능한지 체크
