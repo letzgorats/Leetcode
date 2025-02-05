@@ -1078,6 +1078,7 @@ LeetCode
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-02-02)   | [Python](./leetcode/1752/Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py)   | Easy       |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/?envType=daily-question&envId=2025-02-03)   | [Python](./leetcode/3105/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray.py)   | Easy       |
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/?envType=daily-question&envId=2025-02-04)   | [Python](./leetcode/1800/Maximum%20Ascending%20Subarray%20Sum.py)   | Easy       |
+| 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/?envType=daily-question&envId=2025-02-05)   | [Python](./leetcode/1790/Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.py)   | Easy       |
 
 
 
