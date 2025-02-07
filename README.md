@@ -1080,6 +1080,7 @@ LeetCode
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/?envType=daily-question&envId=2025-02-04)  | [Python](./leetcode/1800/Maximum%20Ascending%20Subarray%20Sum.py)   | Easy       |
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/?envType=daily-question&envId=2025-02-05)  | [Python](./leetcode/1790/Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.py)   | Easy       |
 | 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/?envType=daily-question&envId=2025-02-06)   | [Python](./leetcode/1726/Tuple%20with%20Same%20Product.py)   | Medium     |🛑|
+| 3160 | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/?envType=daily-question&envId=2025-02-07)   | [Python](./leetcode/3160/Find%20the%20Number%20of%20Distinct%20Colors%20Among%20the%20Balls.py)   | Medium     |🛑|
 
 
 
