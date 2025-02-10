@@ -1083,6 +1083,7 @@ LeetCode
 | 3160 | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/?envType=daily-question&envId=2025-02-07)   | [Python](./leetcode/3160/Find%20the%20Number%20of%20Distinct%20Colors%20Among%20the%20Balls.py)   | Medium     |🛑|
 | 2349 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/?envType=daily-question&envId=2025-02-08)   | [Python](./leetcode/2349/Design%20a%20Number%20Container%20System.py)   | Medium     |🛑|
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/?envType=daily-question&envId=2025-02-09)   | [Python](./leetcode/2364/Count%20Number%20of%20Bad%20Pairs.py)   | Medium     |🛑|
+| 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10)   | [Python](./leetcode/3174/Clear%20Digits.py)   | Easy       |
 
 
 
