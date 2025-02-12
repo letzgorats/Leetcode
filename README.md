@@ -1085,7 +1085,7 @@ LeetCode
 | 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/?envType=daily-question&envId=2025-02-09)   | [Python](./leetcode/2364/Count%20Number%20of%20Bad%20Pairs.py)   | Medium     |🛑|
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10)   | [Python](./leetcode/3174/Clear%20Digits.py)   | Easy       |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/?envType=daily-question&envId=2025-02-11)   | [Python](./leetcode/1910/Remove%20All%20Occurrences%20of%20a%20Substring.py)   | Medium       |
-
+| 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/?envType=daily-question&envId=2025-02-12)   | [Python](./leetcode/2342/Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits.py)   | Medium       |
 
 
 
