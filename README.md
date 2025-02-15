@@ -1088,6 +1088,7 @@ LeetCode
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/?envType=daily-question&envId=2025-02-12)   | [Python](./leetcode/2342/Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits.py)                                        | Medium       |
 | 3066 | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/?envType=daily-question&envId=2025-02-13)   | [Python](./leetcode/3066/Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II.py)                                         | Medium     |🛑|                                                   | Medium       |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2025-02-14)   | [Python](./leetcode/1352/Product%20of%20the%20Last%20K%20Numbers.py)   | Medium     |🛑|                                                   | Medium       |
+| 2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/?envType=daily-question&envId=2025-02-15)   | [Python](./leetcode/2698/Find%20the%20Punishment%20Number%20of%20an%20Integer.py)   | Medium     |🛑|     | Medium       |
 
 
 
