@@ -1090,7 +1090,7 @@ LeetCode
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2025-02-14)   | [Python](./leetcode/1352/Product%20of%20the%20Last%20K%20Numbers.py)                                                             | Medium     |🛑|    
 | 2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/?envType=daily-question&envId=2025-02-15)   | [Python](./leetcode/2698/Find%20the%20Punishment%20Number%20of%20an%20Integer.py)                                                | Medium     |🛑|  
 | 1718 | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/?envType=daily-question&envId=2025-02-16)   | [Python](./leetcode/1718/Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence.py)                                    | Medium     |🛑|   
-| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/?envType=daily-question&envId=2025-02-17)   | [Python](./leetcode/1079/Letter%20Tile Possibilities.py)                                                                         | Medium     |🛑|   
+| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/?envType=daily-question&envId=2025-02-17)   | [Python](./leetcode/1079/Letter%20Tile%20Possibilities.py)        | Medium     |🛑|   
 
 
 
