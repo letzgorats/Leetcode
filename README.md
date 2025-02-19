@@ -2,7 +2,7 @@
 JeongYeob's AlgorithmStudy
 
 
-If I got it wrong, looked at hints, or solved it, but it took too long, then -> 🛑
+If I got it wrong, looked at the hint, or solved it but in an inefficient way or took too long, then-> 🛑
 Otherwise -> 🟢
 
 LeetCode
@@ -1093,6 +1093,7 @@ LeetCode
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/?envType=daily-question&envId=2025-02-17)   | [Python](./leetcode/1079/Letter%20Tile%20Possibilities.py)                                                                       | Medium     |🛑|   
 | 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/?envType=daily-question&envId=2025-02-18)   | [Python](./leetcode/2375/Construct%20Smallest%20Number%20From%20DI%20String.py)                                                  | Medium     |🛑|   
 | 942  | [DI String Match](https://leetcode.com/problems/di-string-match/)   | [Python](./leetcode/942/DI%20String%20Match.py)             | Easy     |🛑|   
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/?envType=daily-question&envId=2025-02-19)   | [Python](./leetcode/1415/The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n.py)     | Medium     |🛑|   
 
 
 
