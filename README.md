@@ -1096,6 +1096,7 @@ LeetCode
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/?envType=daily-question&envId=2025-02-19)   | [Python](./leetcode/1415/The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n.py)     | Medium     |🛑|   
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/?envType=daily-question&envId=2025-02-21)   | [Python](./leetcode/1261/Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.py)     | Medium     | 
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/?envType=daily-question&envId=2025-02-22)  | [Python](./leetcode/1028/Recover%20a%20Tree%20From%20Preorder%20Traversal.py)    | Hard       |🛑|
+| 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/?envType=daily-question&envId=2025-02-23)  | [Python](./leetcode/1028/Recover%20a%20Tree%20From%20Preorder%20Traversal.py)    | Medium     |🛑| 
 
 
 
