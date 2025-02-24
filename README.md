@@ -1097,6 +1097,7 @@ LeetCode
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/?envType=daily-question&envId=2025-02-21)   | [Python](./leetcode/1261/Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.py)     | Medium     | 
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/?envType=daily-question&envId=2025-02-22)  | [Python](./leetcode/1028/Recover%20a%20Tree%20From%20Preorder%20Traversal.py)    | Hard       |🛑|
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/?envType=daily-question&envId=2025-02-23)  | [Python](./leetcode/889/Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.py)    | Medium     |🛑| 
+| 2467 | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/?envType=daily-question&envId=2025-02-24)  | [Python](./leetcode/2467/Most%20Profitable%20Path%20in%20a%20Tree.py)    | Medium     |🛑| 
 
 
 
