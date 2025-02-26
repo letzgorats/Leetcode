@@ -63,3 +63,13 @@ class Solution:
 
         # print(max_sum,min_sum)
         return max(max_sum, abs(min_sum))
+
+# solutino 3 - 1D prefix_dp - (17ms) - (2025.02.26)
+class Solution:
+    def maxAbsoluteSum(self, nums: List[int]) -> int:
+        prefix = [0] * (len(nums) + 1)
+        for i in range(len(nums)):
+            prefix[i + 1] = prefix[i] + nums[i]
+
+        # 가장 큰 누적합 구간에서 가장 작은 누적합 구간을 빼주면 최대 구간합이 나옴.
+        return max(prefix) - min(prefix)
