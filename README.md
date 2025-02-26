@@ -1099,6 +1099,7 @@ LeetCode
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/?envType=daily-question&envId=2025-02-23)  | [Python](./leetcode/889/Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.py)    | Medium     |🛑| 
 | 2467 | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/?envType=daily-question&envId=2025-02-24)  | [Python](./leetcode/2467/Most%20Profitable%20Path%20in%20a%20Tree.py)    | Medium     |🛑| 
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/?envType=daily-question&envId=2025-02-25)  | [Python](./leetcode/1524/Number%20of%20Sub-arrays%20With%20Odd%20Sum.py)    | Medium     |🛑| 
+| 1749 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/?envType=daily-question&envId=2025-02-26)  | [Python](./leetcode/1524/Number%20of%20Sub-arrays%20With%20Odd%20Sum.py)    | Medium     |🛑| 
 
 
 
