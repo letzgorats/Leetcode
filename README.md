@@ -1104,6 +1104,7 @@ LeetCode
 | 873  | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/?envType=daily-question&envId=2025-02-27)  | [Python](./leetcode/873/Length%20of%20Longest%20Fibonacci%20Subsequence.py)                   | Medium     |🛑| 
 | 1092 | [Shortest Common Supersequence ](https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=daily-question&envId=2025-03-01)  | [Python](./leetcode/1092/Shortest%20Common%20Supersequence.py)                    | Hard       |🛑| 
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=daily-question&envId=2025-03-01)  | [Python](./leetcode/2460/Apply%20Operations%20to%20an%20Array.py)    | Easy      |
+| 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/?envType=daily-question&envId=2025-03-02)  | [Python](./leetcode/2570/Merge%20Two%202D%20Arrays%20by%20Summing%20Values.py)    | Easy      |
 
 
 
