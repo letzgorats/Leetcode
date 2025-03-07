@@ -571,7 +571,7 @@ LeetCode
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/?envType=daily-question&envId=2025-03-04)  | [Python](./leetcode/1780/Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three.py)                                       | Medium      |🛑|
 | 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/?envType=daily-question&envId=2025-03-05)  | [Python](./leetcode/2579/Count%20Total%20Number%20of%20Colored%20Cells.py)                                                       | Medium      |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/?envType=daily-question&envId=2025-03-06)  | [Python](./leetcode/2965/Find%20Missing%20and%20Repeated%20Values.py)                                                       | Easy      |
-
+| 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/?envType=daily-question&envId=2025-03-07)  | [Python](./leetcode/2579/Count%20Total%20Number%20of%20Colored%20Cells.py)                                                       | Medium      |🛑|
 
 
 
