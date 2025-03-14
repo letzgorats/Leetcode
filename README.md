@@ -577,7 +577,14 @@ LeetCode
 | 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/?envType=daily-question&envId=2025-03-10)  | [Python](./leetcode/3306/Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20II.py)                    | Medium      |🛑|
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/?envType=daily-question&envId=2025-03-11)  | [Python](./leetcode/1358/Number%20of%20Substrings%20Containing%20All%20Three%%20Characters.py)                                   | Medium      |🛑|
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/?envType=daily-question&envId=2025-03-12)  | [Python](./leetcode/2529/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer.py)                                | Easy      |
-| 3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/?envType=daily-question&envId=2025-03-13)  | [Python](./leetcode/3356/Zero%20Array%20Transformation%20II.py)   | Medium      |🛑|
+| 3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/?envType=daily-question&envId=2025-03-13)  | [Python](./leetcode/3356/Zero%20Array%20Transformation%20II.py)                                                                  | Medium      |🛑|
+| 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/?envType=daily-question&envId=2025-03-14)  | [Python](./leetcode/2226/Maximum%20Candies%20Allocated%20to%20K%20Children.py)     | Medium      |
+
+
+
+
+
+
 
 HackerRank
 ========
