@@ -579,8 +579,8 @@ LeetCode
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/?envType=daily-question&envId=2025-03-12)  | [Python](./leetcode/2529/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer.py)                                | Easy      |
 | 3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/?envType=daily-question&envId=2025-03-13)  | [Python](./leetcode/3356/Zero%20Array%20Transformation%20II.py)                                                                  | Medium      |🛑|
 | 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/?envType=daily-question&envId=2025-03-14)  | [Python](./leetcode/2226/Maximum%20Candies%20Allocated%20to%20K%20Children.py)                                                   | Medium      |
-| 2560 | [House Robber IV](https://leetcode.com/problems/house-robber-iv/description/?envType=daily-question&envId=2025-03-15)  | [Python](./leetcode/2560/House%20Robber%20IV.py)          | Medium      |🛑|
-
+| 2560 | [House Robber IV](https://leetcode.com/problems/house-robber-iv/description/?envType=daily-question&envId=2025-03-15)  | [Python](./leetcode/2560/House%20Robber%20IV.py)                                                                                 | Medium      |🛑|
+| 2594 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/description/?envType=daily-question&envId=2025-03-16)  | [Python](./leetcode/2594/Minimum%20Time%20to%20Repair%20Cars.py)     | Medium      |
 
 
 
