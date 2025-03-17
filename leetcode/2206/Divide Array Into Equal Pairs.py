@@ -1,3 +1,4 @@
+# solution 1 - hash table - (2ms) - (2025.03.17)
 from collections import Counter
 class Solution:
     def divideArray(self, nums: List[int]) -> bool:
