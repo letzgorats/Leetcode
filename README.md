@@ -581,7 +581,8 @@ LeetCode
 | 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/?envType=daily-question&envId=2025-03-14)  | [Python](./leetcode/2226/Maximum%20Candies%20Allocated%20to%20K%20Children.py)                                                   | Medium     |
 | 2560 | [House Robber IV](https://leetcode.com/problems/house-robber-iv/description/?envType=daily-question&envId=2025-03-15)  | [Python](./leetcode/2560/House%20Robber%20IV.py)                                                                                 | Medium     |🛑|
 | 2594 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/description/?envType=daily-question&envId=2025-03-16)  | [Python](./leetcode/2594/Minimum%20Time%20to%20Repair%20Cars.py)                                                                 | Medium     |
-| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17)  | [Python](./leetcode/2206/Divide%20Array%20Into%20Equal%20Pairs.py)      | Easy  |
+| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17)  | [Python](./leetcode/2206/Divide%20Array%20Into%20Equal%20Pairs.py)                                                               | Easy  |
+| 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description/?envType=daily-question&envId=2025-03-18)  | [Python](./leetcode/2401/Longest%20Nice%20Subarray.py)   | Medium     |🛑|
 
 
 
