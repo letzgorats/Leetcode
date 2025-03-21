@@ -584,7 +584,8 @@ LeetCode
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17)  | [Python](./leetcode/2206/Divide%20Array%20Into%20Equal%20Pairs.py)                                                               | Easy  |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description/?envType=daily-question&envId=2025-03-18)  | [Python](./leetcode/2401/Longest%20Nice%20Subarray.py)                                                                           | Medium     |🛑|
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19)  | [Python](./leetcode/3191/Minimum%20Operations%20to%20Make%20Binary%20Array%20Elements%20Equal%20to%20One%20I.py)                 | Medium     |🛑|
-| 3191 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/?envType=daily-question&envId=2025-03-20)  | [Python](./leetcode/3108/Minimum%20Cost%20Walk%20in%20Weighted%20Graph.py)       | Hard     |🛑|
+| 3108 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/?envType=daily-question&envId=2025-03-20)  | [Python](./leetcode/3108/Minimum%20Cost%20Walk%20in%20Weighted%20Graph.py)                                                       | Hard     |🛑|
+| 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/?envType=daily-question&envId=2025-03-21)  | [Python](./leetcode/2115/Find%20All%20Possible%20Recipes%20from%20Given%20Supplies.py)| Medium    |🛑|
 
 
 
