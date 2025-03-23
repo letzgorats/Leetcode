@@ -589,8 +589,8 @@ LeetCode
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/)  | [Python](./leetcode/1458/Max%20Dot%20Product%20of%20Two%20Subsequences.py)                                                       |  Hard       |🛑|
 | 115  | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)  | [Python](./leetcode/115/Distinct%20Subsequences.py)                                                                              |  Hard       |🛑|
 | 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=daily-question&envId=2025-03-22)  | [Python](./leetcode/2685/Count%20the%20Number%20of%20Complete%20Components.py)                                                   |  Medium       |🛑|
-| 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/?envType=daily-question&envId=2025-03-23)  | [Python](./leetcode/1976/Number%20of%20Ways%20to%20Arrive%20at%20Destination.py)  |  Medium       |🛑|
-
+| 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/?envType=daily-question&envId=2025-03-23)  | [Python](./leetcode/1976/Number%20of%20Ways%20to%20Arrive%20at%20Destination.py)                                                 |  Medium       |🛑|
+| 743  | [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)  | [Python](./leetcode/743/Network%20Delay%20Time.py)                                                                                   |  Medium       |🛑|
 
 
 
