@@ -591,7 +591,8 @@ LeetCode
 | 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=daily-question&envId=2025-03-22)  | [Python](./leetcode/2685/Count%20the%20Number%20of%20Complete%20Components.py)                                                   |  Medium       |🛑|
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/?envType=daily-question&envId=2025-03-23)  | [Python](./leetcode/1976/Number%20of%20Ways%20to%20Arrive%20at%20Destination.py)                                                 |  Medium       |🛑|
 | 743  | [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)  | [Python](./leetcode/743/Network%20Delay%20Time.py)                                                                               |  Medium       |🛑|
-| 3169 | [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/?envType=daily-question&envId=2025-03-24)  | [Python](./leetcode/3169Count%20Days%20Without%20Meetings.py)   |  Medium       |🛑|
+| 3169 | [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/?envType=daily-question&envId=2025-03-24)  | [Python](./leetcode/3169/Count%20Days%20Without%20Meetings.py)                                                                   |  Medium       |🛑|
+| 3394 | [Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/?envType=daily-question&envId=2025-03-25)  | [Python](./leetcode/3394/Check%20if%20Grid%20can%20be%20Cut%20into%20Sections.py)      |  Medium       |🛑|
 
 
 
