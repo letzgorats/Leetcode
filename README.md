@@ -594,7 +594,8 @@ LeetCode
 | 3169 | [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/?envType=daily-question&envId=2025-03-24)  | [Python](./leetcode/3169/Count%20Days%20Without%20Meetings.py)                                                                   |  Medium       |🛑|
 | 3394 | [Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/?envType=daily-question&envId=2025-03-25) | [Python](./leetcode/3394/Check%20if%20Grid%20can%20be%20Cut%20into%20Sections.py)                                                |  Medium       |🛑|
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/?envType=daily-question&envId=2025-03-26) | [Python](./leetcode/2033/Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid.py)                                             |  Medium       |🛑|
-| 2780 | [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/?envType=daily-question&envId=2025-03-27)  | [Python](./leetcode/2780/Minimum%20Index%20of%20a%20Valid%20Split.py)    |  Medium       |🛑|
+| 2780 | [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/?envType=daily-question&envId=2025-03-27)  | [Python](./leetcode/2780/Minimum%20Index%20of%20a%20Valid%20Split.py)                                                            |  Medium       |🛑|
+| 2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/?envType=daily-question&envId=2025-03-28)  | [Python](./leetcode/2503/Maximum%20Number%20of%20Points%20From%20Grid%20Queries.py)   |  Hard       |🛑|
 
 
 

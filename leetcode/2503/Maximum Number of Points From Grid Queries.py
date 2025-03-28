@@ -99,4 +99,31 @@ class Solution:
             # 현재 쿼리 결과 저장
             answer[idx] = count
 
-        return answer
+        return
+
+'''
+처리흐름
+(ex)
+grid = [
+  [1, 3],
+  [2, 4]
+]
+queries = [2, 5]
+
+1. queries를 정렬 → [(2, 0), (5, 1)]
+
+2. heap = [(1, 0, 0)]
+
+3. query= 2: 1 < 2 → pop(1,0,0), count = 1
+    
+   - 인접한 (1행,0열)=2, (0행,1열)=3 → 둘 다 heap에 push (일단 방문안했으니 push)
+   
+4. query= 5: heap에 (2,1,0), (3,0,1) 있는 상태
+
+   - 2 < 5 → pop → count = 2
+   - 인접한 (1,1)=4 push (일단 방문 안했으니 push)
+   - 3 < 5 → pop → count = 3
+   - 4 < 5 → pop → count = 4
+
+5. 최종 결과 → [1, 4]
+'''
