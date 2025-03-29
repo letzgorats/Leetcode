@@ -227,6 +227,29 @@ class Solution:
 - 이후 stack이 비지 않았다면 left_bound[i] 도 바로 설정
 - O(n)으로 모든 범위 정보 계산 완료. 메모리에도 이득
 
+=> left_bound와 right_bound는 탐색은 반대 방향이지만,
+   결과적으로는 해당 인덱스를 중심값으로 하는 서브어레이의 확장 가능한 범위를 계산하는 데 사용되는 "경계값"이다.
+
+(ex) nums : [6,4,5,10,30]
+     prime_score : [2,1,1,2,3]
+
+⟡ left_bound 설명
+- 각 인덱스 `i`에 대해, `left[i]`는 prime_score가 "strictly greater"한 값이 왼쪽에 처음 등장한 위치.
+- 따라서 `i - left[i]` 만큼 왼쪽으로 확장 가능하다.
+- 예: left[2] = 1 → index 2는 index 1까지 확장 가능하다는 의미 (즉, [1,2]).
+
+(주의: prime_score가 같은 경우는 확장 범위에 포함되지 않는다.  
+같은 값은 중심값이 될 수 있기 때문에 ‘경쟁자’가 되므로 제외됨.)
+
+⟡ right_bound 설명
+- `right[i]`는 오른쪽에서 prime_score가 **strictly greater**한 값이 처음 나오는 위치.
+- 따라서 `right[i] - i` 만큼 오른쪽으로 확장 가능하다.
+- 예: right[0] = 4 → index 0은 index 3까지 확장 가능하다는 의미 (즉, [0,1,2,3]).
+
+최종 확장 가능한 서브어레이 개수는:  
+    `(i - left[i]) * (right[i] - i)`
+
+
 3. heapq 사용
 - nums 를 최댓값 기준으로 정렬하려면 일반 정렬은 O(nlogn), 하지만, heapq는 첫번째 원소만 꺼내니까 꺼낼때마다 O(logn) 이다.
 - (메모리 캐시에도 더 유리)
