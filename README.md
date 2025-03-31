@@ -598,7 +598,8 @@ LeetCode
 | 2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/?envType=daily-question&envId=2025-03-28)                                                                   | [Python](./leetcode/2503/Maximum%20Number%20of%20Points%20From%20Grid%20Queries.py)                                              |  Hard       |🛑|
 | 2818 | [Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score/description/?envType=daily-question&envId=2025-03-29)          | [Python](./leetcode/2818/Apply%20Operations%20to%20Maximize%20Score.py)                                                          |  Hard       |🛑|
 | 763  | [Partition Labels](https://leetcode.com/problems/partition-labels/?envType=daily-question&envId=2025-03-30)          | [Python](./leetcode/763/Partition%20Labels.py)                                                                                   |  Medium       |🛑|
-| 986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)          | [Python](./leetcode/763/Interval%20List%20Intersections.py)   |  Medium       |
+| 986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)          | [Python](./leetcode/763/Interval%20List%20Intersections.py)                                                                      |  Medium       |
+| 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/?envType=daily-question&envId=2025-03-31)          | [Python](./leetcode/2551/Put%20Marbles%20in%20Bags.py)      |  Hard       |🛑|
 
 
 
