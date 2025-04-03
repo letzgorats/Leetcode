@@ -601,7 +601,8 @@ LeetCode
 | 986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)          | [Python](./leetcode/763/Interval%20List%20Intersections.py)                                                                      | Medium     |
 | 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/?envType=daily-question&envId=2025-03-31)          | [Python](./leetcode/2551/Put%20Marbles%20in%20Bags.py)                                                                           | Hard       |🛑|
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/?envType=daily-question&envId=2025-04-01)          | [Python](./leetcode/2140/Solving%20Questions%20With%20Brainpower.py)                                                             | Medium     |🛑|
-| 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/solving-questions-with-brainpower/description/?envType=daily-question&envId=2025-04-01)          | [Python](./leetcode/2873/Maximum%20Value%20of%20an%20Ordered%20Triplet%20I.py)  | Easy       |🛑|
+| 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/solving-questions-with-brainpower/description/?envType=daily-question&envId=2025-04-01)          | [Python](./leetcode/2873/Maximum%20Value%20of%20an%20Ordered%20Triplet%20I.py)                                                   | Easy       |🛑|
+| 2874 | [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/?envType=daily-question&envId=2025-04-03https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/?envType=daily-question&envId=2025-04-03)          | [Python](./leetcode/2874/Maximum%20Value%20of%20an%20Ordered%20Triplet%20II.py)                                                   | Medium     |
 
 
 
