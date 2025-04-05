@@ -61,7 +61,7 @@ class Solution:
 
         return backtracking(0, 0)
 
-# solution 4 - (bitmask,accumulative) - (15ms) - (2025.04.05)
+# solution 4 - (bitmask,accumulative) - (55ms) - (2025.04.05)
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:
 
