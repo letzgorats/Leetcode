@@ -604,8 +604,8 @@ LeetCode
 | 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/solving-questions-with-brainpower/description/?envType=daily-question&envId=2025-04-01)          | [Python](./leetcode/2873/Maximum%20Value%20of%20an%20Ordered%20Triplet%20I.py)                                                   | Easy       | 🛑    |
 | 2874 | [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/?envType=daily-question&envId=2025-04-03https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/?envType=daily-question&envId=2025-04-03)          | [Python](./leetcode/2874/Maximum%20Value%20of%20an%20Ordered%20Triplet%20II.py)                                                  | Medium     |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/?envType=daily-question&envId=2025-04-04)          | [Python](./leetcode/1123/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py)                                                  | Medium     | 🛑    |
-| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/?envType=daily-question&envId=2025-04-07)          | [Python](./leetcode/416/Partition%20Equal%20Subset%20Sum.py)        | Medium     | 🛑    |
-
+| 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/?envType=daily-question&envId=2025-04-07)          | [Python](./leetcode/416/Partition%20Equal%20Subset%20Sum.py)                                                                     | Medium     | 🛑    |
+| 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=daily-question&envId=2025-04-08)          | [Python](./leetcode/3396/Minimum%20Number%20of%20Operations%20to%20Make%20Elements%20in%20Array%20Distinct.py) | Easy      | 🛑    |
 
 
 
