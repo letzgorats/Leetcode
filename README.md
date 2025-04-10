@@ -607,6 +607,7 @@ LeetCode
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/?envType=daily-question&envId=2025-04-07)          | [Python](./leetcode/416/Partition%20Equal%20Subset%20Sum.py)                                                                    | Medium     | 🛑    |
 | 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=daily-question&envId=2025-04-08)          | [Python](./leetcode/3396/Minimum%20Number%20of%20Operations%20to%20Make%20Elements%20in%20Array%20Distinct.py)                  | Easy      | 🛑    |
 | 3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-09)          | [Python](./leetcode/3375/Minimum%20Operations%20to%20Make%20Array%20Values%20Equal%20to%20K.py)  | Easy      | 🛑    |
+| 2999 | [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/?envType=daily-question&envId=2025-04-10)          | [Python](./leetcode/2999/Count%20the%20Number%20of%20Powerful%20Integers.py)  | Hard      | 🛑    |
 
 
 
