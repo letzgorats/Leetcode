@@ -610,7 +610,7 @@ LeetCode
 | 2999 | [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/?envType=daily-question&envId=2025-04-10)         | [Python](./leetcode/2999/Count%20the%20Number%20of%20Powerful%20Integers.py)                                                     | Hard      | 🛑    |
 | 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/?envType=daily-question&envId=2025-04-11)          | [Python](./leetcode/2843/Count%20Symmetric%20Integers.py)                                                                        | Easy          |
 | 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/description/?envType=daily-question&envId=2025-04-12)          | [Python](./leetcode/3272/Find%20the%20Count%20of%20Good%20Integers.py)                                                                        | Hard      | 🛑    |
-
+| 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/?envType=daily-question&envId=2025-04-13)          | [Python](./leetcode/1922/Count%20Good%20Numbers.py)                     | Medium      | 🛑    |
 
 
 HackerRank
