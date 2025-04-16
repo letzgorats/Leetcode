@@ -613,6 +613,12 @@ LeetCode
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/?envType=daily-question&envId=2025-04-13)          | [Python](./leetcode/1922/Count%20Good%20Numbers.py)                    | Medium      | 🛑    |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/?envType=daily-question&envId=2025-04-14)          | [Python](./leetcode/1534/Count%20Good%20Triplets.py)                     | Easy    |
 | 2179 | [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/description/?envType=daily-question&envId=2025-04-15)          | [Python](./leetcode/2179/Count%20Good%20Triplets%20in%20an%20Array.py) | Hard      | 🛑    |
+| 2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/description/?envType=daily-question&envId=2025-04-16)          | [Python](./leetcode/2537/Count%20the%20Number%20of%20Good%20Subarrays.py) | Medium      | 🛑    |
+
+
+
+
+
 
 
 HackerRank
