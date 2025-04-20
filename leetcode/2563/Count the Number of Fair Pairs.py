@@ -1,4 +1,4 @@
-# solutiuon 1 - def binary search
+# solutiuon 1 - def binary search - (111ms) - (2024.11.13)
 class Solution:
     def countFairPairs(self, nums: List[int], lower: int, upper: int) -> int:
 
@@ -23,7 +23,7 @@ class Solution:
 
         return count_pairs_lower_bound(upper)- count_pairs_lower_bound(lower-1)
 
-# solution 2 - bisect
+# solution 2 - bisect - (184ms) - (2024.11.13)
 from bisect import bisect_right,bisect_left
 class Solution:
     def countFairPairs(self, nums: List[int], lower: int, upper: int) -> int:
