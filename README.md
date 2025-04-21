@@ -616,7 +616,8 @@ LeetCode
 | 2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/description/?envType=daily-question&envId=2025-04-16)        | [Python](./leetcode/2537/Count%20the%20Number%20of%20Good%20Subarrays.py)                                                        | Medium      | 🛑    |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/?envType=daily-question&envId=2025-04-17)         | [Python](./leetcode/2176/Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array.py)                                           | Easy    |
 | 38   | [Count and Say](https://leetcode.com/problems/count-and-say/description/?envType=daily-question&envId=2025-04-18)         | [Python](./leetcode/38/Count%20and%20Say.py)                                                                                     | Medium      | 🛑    |
-| 781  | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/?envType=daily-question&envId=2025-04-20)         | [Python](./leetcode/781/Rabbits%20in%20Forest.py)      | Medium      | 🛑    |
+| 781  | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/?envType=daily-question&envId=2025-04-20)         | [Python](./leetcode/781/Rabbits%20in%20Forest.py)                                                                                | Medium      | 🛑    |
+| 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/description/?envType=daily-question&envId=2025-04-21)         | [Python](./leetcode/2145/Count%20the%20Hidden%20Sequences.py)        | Medium      | 🛑    |
 
 
 
