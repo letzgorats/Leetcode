@@ -619,6 +619,7 @@ LeetCode
 | 781  | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/?envType=daily-question&envId=2025-04-20)         | [Python](./leetcode/781/Rabbits%20in%20Forest.py)                                                                                | Medium      | 🛑    |
 | 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/description/?envType=daily-question&envId=2025-04-21)         | [Python](./leetcode/2145/Count%20the%20Hidden%20Sequences.py)        | Medium      | 🛑    |
 | 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/?envType=daily-question&envId=2025-04-22)         | [Python](./leetcode/2338/Count%20the%20Number%20of%20Ideal%20Arrays.py)    | Hard      | 🛑    |
+| 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/description/?envType=daily-question&envId=2025-04-23)         | [Python](./leetcode/1399/Count%20Largest%20Group.py)    | Easy    |
 
 
 
