@@ -621,6 +621,7 @@ LeetCode
 | 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/?envType=daily-question&envId=2025-04-22)         | [Python](./leetcode/2338/Count%20the%20Number%20of%20Ideal%20Arrays.py)    | Hard      | 🛑    |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/description/?envType=daily-question&envId=2025-04-23)         | [Python](./leetcode/1399/Count%20Largest%20Group.py)    | Easy    |
 | 2799 | [Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/?envType=daily-question&envId=2025-04-24)         | [Python](./leetcode/2799/Count%20Complete%20Subarrays%20in%20an%20Array.py)    | Medium      | 🛑    |
+| 2845 | [Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/description/?envType=daily-question&envId=2025-04-25)         | [Python](./leetcode/2845/Count%20of%20Interesting%20Subarrays.py)    | Medium      | 🛑    |
 
 
 
