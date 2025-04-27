@@ -622,7 +622,7 @@ LeetCode
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/description/?envType=daily-question&envId=2025-04-23)         | [Python](./leetcode/1399/Count%20Largest%20Group.py)    | Easy    |
 | 2799 | [Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/?envType=daily-question&envId=2025-04-24)         | [Python](./leetcode/2799/Count%20Complete%20Subarrays%20in%20an%20Array.py)    | Medium      | 🛑    |
 | 2845 | [Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/description/?envType=daily-question&envId=2025-04-25)         | [Python](./leetcode/2845/Count%20of%20Interesting%20Subarrays.py)    | Medium      | 🛑    |
-| 2845 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/?envType=daily-question&envId=2025-04-27)         | [Python](./leetcode/2845/Count%20of%20Interesting%20Subarrays.py)    | Easy    |
+| 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/?envType=daily-question&envId=2025-04-27)         | [Python](./leetcode/3392/Count%20Subarrays%20of%20Length%20Three%20With%20a%20Condition.py)    | Easy    |
 
 
 
