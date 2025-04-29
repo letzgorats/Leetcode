@@ -88,5 +88,28 @@ class Solution(object):
             answer += i
 
         return answer
-        
+
+
+# solution 3 - (subarray,monotonic,sliding window,left,right) - (234ms) - (2025.04.29)
+class Solution:
+    def countSubarrays(self, nums: List[int], k: int) -> int:
+
+        max_num = max(nums)
+        print(max_num)
+
+        freq = defaultdict(int)
+        left = 0
+        answer = 0
+
+        for right, num in enumerate(nums):
+            freq[num] += 1
+            while freq[max_num] >= k:
+                answer += len(nums) - right
+                freq[nums[left]] -= 1
+                if freq[nums[left]] == 0:
+                    del freq[nums[left]]
+                left += 1
+
+        return answer
+
 
