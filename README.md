@@ -624,6 +624,7 @@ LeetCode
 | 2845 | [Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/description/?envType=daily-question&envId=2025-04-25)         | [Python](./leetcode/2845/Count%20of%20Interesting%20Subarrays.py)    | Medium      | 🛑   |
 | 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/?envType=daily-question&envId=2025-04-27)         | [Python](./leetcode/3392/Count%20Subarrays%20of%20Length%20Three%20With%20a%20Condition.py)   | Easy    |
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/?envType=daily-question&envId=2025-04-28)         | [Python](./leetcode/2302/Count%20Subarrays%20With%20Score%20Less%20Than%20K.py)    | Hard      | 🛑   |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/?envType=daily-question&envId=2025-04-30)         | [Python](./leetcode/1295/Find%20Numbers%20with%20Even%20Number%20of%20Digits.py)    | Easy    |
 
 
 
