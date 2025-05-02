@@ -1,3 +1,4 @@
+# solution 1 - (two pointers,accumulative) - (263ms) - (2025.05.02)
 class Solution:
     def pushDominoes(self, dominoes: str) -> str:
 
