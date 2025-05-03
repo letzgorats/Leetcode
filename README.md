@@ -627,6 +627,7 @@ LeetCode
 | 1295  | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/?envType=daily-question&envId=2025-04-30)        | [Python](./leetcode/1295/Find%20Numbers%20with%20Even%20Number%20of%20Digits.py)    | Easy    |
 | 2071  | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/?envType=daily-question&envId=2025-05-01)        | [Python](./leetcode/2071/Maximum%20Number%20of%20Tasks%20You%20Can%20Assign.py) | Hard      | 🛑   |
 | 838   | [Push Dominoes](https://leetcode.com/problems/push-dominoes/description/?envType=daily-question&envId=2025-05-02)         | [Python](./leetcode/838/Push%20Dominoes.py) | Medium     | 🛑   |
+| 1007  | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/?envType=daily-question&envId=2025-05-03)         | [Python](./leetcode/1007/Domino%20Rotations%20For%20Equal%20Row.py) | Medium     | 
 
 
 
