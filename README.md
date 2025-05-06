@@ -630,6 +630,7 @@ LeetCode
 | 1007  | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/?envType=daily-question&envId=2025-05-03)         | [Python](./leetcode/1007/Domino%20Rotations%20For%20Equal%20Row.py) | Medium     | 
 | 1128  | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/?envType=daily-question&envId=2025-05-04)         | [Python](./leetcode/1128/Number%20of%20Equivalent%20Domino%20Pairs.py) | Easy    |
 | 790  | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/)         | [Python](./leetcode/790/Domino%20and%20Tromino%20Tiling.py) | Medium     | 🛑   |
+| 1920  | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/?envType=daily-question&envId=2025-05-06)         | [Python](./leetcode/1920/Build%20Array%20from%20Permutation.py) | Easy   |
 
 
 
