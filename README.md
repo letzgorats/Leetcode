@@ -635,6 +635,7 @@ LeetCode
 | 3342  | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/description/?envType=daily-question&envId=2025-05-08)         | [Python](./leetcode/3342/Find%20Minimum%20Time%20to%20Reach%20Last%20Room%20II.py)                                               | Medium      | 🛑   |
 | 3343 | [Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/?envType=daily-question&envId=2025-05-09)         | [Python](./leetcode/3343/Count%20Number%20of%20Balanced%20Permutations.py)                                               | Hard      | 🛑   |
 | 2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/?envType=daily-question&envId=2025-05-10)         | [Python](./leetcode/2918/Minimum%20Equal%20Sum%20of%20Two%20Arrays%20After%20Replacing%20Zeros.py)       | Medium       | 🛑   |
+| 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/?envType=daily-question&envId=2025-05-12)         | [Python](./leetcode/2094/Finding%203-Digit%20Even%20Numbers.py)  | Easy       | 🛑   |
 
 
 
