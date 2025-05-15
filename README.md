@@ -638,6 +638,7 @@ LeetCode
 | 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/?envType=daily-question&envId=2025-05-12)         | [Python](./leetcode/2094/Finding%203-Digit%20Even%20Numbers.py)  | Easy       | 🛑   |
 | 3335 | [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/description/?envType=daily-question&envId=2025-05-13)         | [Python](./leetcode/3335/Total%20Characters%20in%20String%20After%20Transformations%20I.py)  | Medium      | 🛑   |
 | 3337 | [Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/?envType=daily-question&envId=2025-05-14)         | [Python](./leetcode/3337/Total%20Characters%20in%20String%20After%20Transformations%20II.py)  | Hard     | 🛑   |
+| 2900 | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/description/?envType=daily-question&envId=2025-05-15)         | [Python](./leetcode/2900/Longest%20Unequal%20Adjacent%20Groups%20Subsequence%20I.py)  | Easy       |
 
 
 
