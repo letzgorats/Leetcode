@@ -642,6 +642,7 @@ LeetCode
 | 2901 | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/?envType=daily-question&envId=2025-05-16)         | [Python](./leetcode/2900/Longest%20Unequal%20Adjacent%20Groups%20Subsequence%20II.py)  | Medium      | 🛑   |
 | 1931 | [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18)         | [Python](./leetcode/1931/Painting%20a%20Grid%20With%20Three%20Different%20Colors.py)  | Hard      | 🛑   |
 | 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/?envType=daily-question&envId=2025-05-19)         | [Python](./leetcode/3024/Type%20of%20Triangle.py)  | Easy       |
+| 3355 | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)         | [Python](./leetcode/3355/Zero%20Array%20Transformation%20I.py)  | Medium        |🛑   |
 
 
 
