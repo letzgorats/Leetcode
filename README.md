@@ -643,7 +643,7 @@ LeetCode
 | 1931 | [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18)         | [Python](./leetcode/1931/Painting%20a%20Grid%20With%20Three%20Different%20Colors.py)  | Hard      | 🛑   |
 | 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/?envType=daily-question&envId=2025-05-19)         | [Python](./leetcode/3024/Type%20of%20Triangle.py)  | Easy       |
 | 3355 | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)         | [Python](./leetcode/3355/Zero%20Array%20Transformation%20I.py)  | Medium        |🛑   |
-
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=daily-question&envId=2025-05-21)         | [Python](./leetcode/73/Set%20Matrix%20Zeroes.py)  | Medium        |
 
 
 
