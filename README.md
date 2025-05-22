@@ -644,6 +644,7 @@ LeetCode
 | 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/?envType=daily-question&envId=2025-05-19)         | [Python](./leetcode/3024/Type%20of%20Triangle.py)  | Easy       |
 | 3355 | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)         | [Python](./leetcode/3355/Zero%20Array%20Transformation%20I.py)  | Medium        |🛑   |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=daily-question&envId=2025-05-21)         | [Python](./leetcode/73/Set%20Matrix%20Zeroes.py)  | Medium        |
+| 3362 | [Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/?envType=daily-question&envId=2025-05-22)         | [Python](./leetcode/3362/Zero%20Array%20Transformation%20III.py)  | Medium        |🛑   |
 
 
 
