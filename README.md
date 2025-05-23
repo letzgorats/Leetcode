@@ -645,6 +645,7 @@ LeetCode
 | 3355 | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)         | [Python](./leetcode/3355/Zero%20Array%20Transformation%20I.py)  | Medium        |🛑   |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=daily-question&envId=2025-05-21)         | [Python](./leetcode/73/Set%20Matrix%20Zeroes.py)  | Medium        |
 | 3362 | [Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/?envType=daily-question&envId=2025-05-22)         | [Python](./leetcode/3362/Zero%20Array%20Transformation%20III.py)  | Medium        |🛑   |
+| 3068 | [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2025-05-23)         | [Python](./leetcode/3068/Find%20the%20Maximum%20Sum%20of%20Node%20Values.py)  | Hard     | 🛑   |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24)         | [Python](./leetcode/2942/Find%20Words%20Containing%20Character.py)  |Easy       |
 
 
