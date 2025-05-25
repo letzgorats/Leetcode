@@ -647,6 +647,7 @@ LeetCode
 | 3362 | [Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/?envType=daily-question&envId=2025-05-22)         | [Python](./leetcode/3362/Zero%20Array%20Transformation%20III.py)  | Medium        |🛑   |
 | 3068 | [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2025-05-23)         | [Python](./leetcode/3068/Find%20the%20Maximum%20Sum%20of%20Node%20Values.py)  | Hard     | 🛑   |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24)         | [Python](./leetcode/2942/Find%20Words%20Containing%20Character.py)  |Easy       |
+| 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/?envType=daily-question&envId=2025-05-25)         | [Python](./leetcode/2131/Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.py)  |  Medium  |
 
 
 
