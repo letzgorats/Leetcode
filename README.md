@@ -649,6 +649,7 @@ LeetCode
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24)         | [Python](./leetcode/2942/Find%20Words%20Containing%20Character.py)  |Easy       |
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/?envType=daily-question&envId=2025-05-25)         | [Python](./leetcode/2131/Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.py)  |  Medium  |
 | 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/?envType=daily-question&envId=2025-05-26)         | [Python](./leetcode/1857/Largest%20Color%20Value%20in%20a%20Directed%20Graph.py)  | Hard     | 🛑   |
+| 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/?envType=daily-question&envId=2025-05-27)         | [Python](./leetcode/2894/Divisible%20and%20Non-divisible%20Sums%20Difference.py)  | Easy    |
 
 
 
