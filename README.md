@@ -650,6 +650,7 @@ LeetCode
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/?envType=daily-question&envId=2025-05-25)         | [Python](./leetcode/2131/Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.py)  |  Medium  |
 | 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/?envType=daily-question&envId=2025-05-26)         | [Python](./leetcode/1857/Largest%20Color%20Value%20in%20a%20Directed%20Graph.py)  | Hard     | 🛑   |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/?envType=daily-question&envId=2025-05-27)         | [Python](./leetcode/2894/Divisible%20and%20Non-divisible%20Sums%20Difference.py)  | Easy    |
+| 3372 | [Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/description/?envType=daily-question&envId=2025-05-28)         | [Python](./leetcode/3372/Maximize%20the%20Number%20of%20Target%20Nodes%20After%20Connecting%20Trees%20I.py)  | Medium        |🛑   |
 
 
 
