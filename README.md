@@ -652,6 +652,7 @@ LeetCode
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/?envType=daily-question&envId=2025-05-27)         | [Python](./leetcode/2894/Divisible%20and%20Non-divisible%20Sums%20Difference.py)  | Easy    |
 | 3372 | [Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/description/?envType=daily-question&envId=2025-05-28)         | [Python](./leetcode/3372/Maximize%20the%20Number%20of%20Target%20Nodes%20After%20Connecting%20Trees%20I.py)  | Medium        |🛑   |
 | 3373 | [Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/?envType=daily-question&envId=2025-05-29)         | [Python](./leetcode/3373/Maximize%20the%20Number%20of%20Target%20Nodes%20After%20Connecting%20Trees%20II.py)  | Hard       |🛑   |
+| 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/?envType=daily-question&envId=2025-05-30)         | [Python](./leetcode/2359/Find%20Closest%20Node%20to%20Given%20Two%20Nodes.py)  | Medium        |🛑   |
 
 
 
