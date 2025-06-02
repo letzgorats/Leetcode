@@ -655,6 +655,7 @@ LeetCode
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/?envType=daily-question&envId=2025-05-30)         | [Python](./leetcode/2359/Find%20Closest%20Node%20to%20Given%20Two%20Nodes.py)  | Medium        |🛑   |
 | 2929 | [Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/description/?envType=daily-question&envId=2025-06-01)         | [Python](./leetcode/2929/Distribute%20Candies%20Among%20Children%20II.py)  | Medium        |🛑   |
 | 135 | [Candy](https://leetcode.com/problems/candy/description/?envType=daily-question&envId=2025-06-02)         | [Python](./leetcode/135/Candy.py)  | Hard       |🛑   |
+| 1298 | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/?envType=daily-question&envId=2025-06-03)         | [Python](./leetcode/1298/Maximum%20Candies%20You%20Can%20Get%20from%20Boxes.py)  | Hard       |🛑   |
 
 
 
