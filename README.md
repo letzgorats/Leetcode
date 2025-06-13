@@ -663,6 +663,7 @@ LeetCode
 | 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/?envType=daily-question&envId=2025-06-10)         | [Python](./leetcode/3442/Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20I.py)                                   | Easy          |
 | 3445 | [Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/?envType=daily-question&envId=2025-06-11)         | [Python](./leetcode/3445/Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20II.py)                                   | Hard       |🛑   |
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/?envType=daily-question&envId=2025-06-12)         | [Python](./leetcode/3423/Maximum%20Difference%20Between%20Adjacent%20Elements%20in%20a%20Circular%20Array.py)                                   | Easy          |
+| 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/?envType=daily-question&envId=2025-06-13)         | [Python](./leetcode/2616/Minimize%20the%20Maximum%20Difference%20of%20Pairs.py)                                   | Medium     |🛑   |
 
 
 
