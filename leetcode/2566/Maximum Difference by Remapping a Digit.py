@@ -1,3 +1,4 @@
+# solution 1 - (min,max,replace,string) - (6ms) - (2025.06.14)
 class Solution:
     def minMaxDifference(self, num: int) -> int:
 
