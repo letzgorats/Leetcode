@@ -667,6 +667,7 @@ LeetCode
 | 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/?envType=daily-question&envId=2025-06-14)         | [Python](./leetcode/2566/Maximum%20Difference%20by%20Remapping%20a%20Digit.py)                                                   | Easy          |
 | 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/?envType=daily-question&envId=2025-06-15)         | [Python](./leetcode/1432/Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer.py)     | Medium     |🛑   |
 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/?envType=daily-question&envId=2025-06-16)         | [Python](./leetcode/2016/Maximum%20Difference%20Between%20Increasing%20Elements.py)     | Easy     |🛑   |
+| 3405 | [Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/?envType=daily-question&envId=2025-06-17)         | [Python](./leetcode/3405/Count%20the%20Number%20of%20Arrays%20with%20K%20Matching%20Adjacent%20Elements.py)     | Hard     |🛑   |
 
 
 
