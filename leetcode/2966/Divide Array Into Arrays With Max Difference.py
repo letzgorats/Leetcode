@@ -1,3 +1,4 @@
+# solution 1 - (greedy) - (762ms) - (2024.02.01)
 class Solution(object):
     def divideArray(self, nums, k):
         """
@@ -26,4 +27,22 @@ class Solution(object):
         return answer
 
         
-        
+
+# solution 2 - (sort) - (74ms) - (2025.06.18)
+from typing import List
+class Solution:
+    def divideArray(self, nums: List[int], k: int) -> List[List[int]]:
+
+        answer = []
+        nums.sort()
+
+        for i in range(0, len(nums), 3):
+
+            if nums[i + 2] - nums[i] <= k:
+                answer.append([nums[i], nums[i + 1], nums[i + 2]])
+            else:
+                answer = []
+                break
+
+        return answer
+
