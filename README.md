@@ -669,6 +669,7 @@ LeetCode
 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/?envType=daily-question&envId=2025-06-16)         | [Python](./leetcode/2016/Maximum%20Difference%20Between%20Increasing%20Elements.py)     | Easy     |🛑   |
 | 3405 | [Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/?envType=daily-question&envId=2025-06-17)         | [Python](./leetcode/3405/Count%20the%20Number%20of%20Arrays%20with%20K%20Matching%20Adjacent%20Elements.py)     | Hard     |🛑   |
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/?envType=daily-question&envId=2025-06-19)         | [Python](./leetcode/2294/Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K.py)     | Medium    |🟢    |
+| 3443 | [Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/description/?envType=daily-question&envId=2025-06-20)         | [Python](./leetcode/3443/Maximum%20Manhattan%20Distance%20After%20K%20Changes.py)     | Medium    |🛑   |
 
 
 
