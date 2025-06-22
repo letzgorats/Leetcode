@@ -671,7 +671,7 @@ LeetCode
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/?envType=daily-question&envId=2025-06-19)        | [Python](./leetcode/2294/Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K.py)     | Medium    |🟢    |
 | 3443 | [Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/description/?envType=daily-question&envId=2025-06-20)         | [Python](./leetcode/3443/Maximum%20Manhattan%20Distance%20After%20K%20Changes.py)     | Medium    |🛑   |
 | 3085 | [Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/?envType=daily-question&envId=2025-06-21)         | [Python](./leetcode/3085/Minimum%20Deletions%20to%20Make%20String%20K-Special.py)     | Medium    |🛑   |
-| 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/description/?envType=daily-question&envId=2025-06-22)         | [Python](./leetcode/2138/Divide%20a%20String%20Into%20Groups%20of%20Size%20k.py)     | Easy    |🛑   |
+| 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/description/?envType=daily-question&envId=2025-06-22)         | [Python](./leetcode/2138/Divide%20a%20String%20Into%20Groups%20of%20Size%20k.py)     | Easy    |
 
 
 
