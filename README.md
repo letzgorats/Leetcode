@@ -673,6 +673,7 @@ LeetCode
 | 3085 | [Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/?envType=daily-question&envId=2025-06-21)         | [Python](./leetcode/3085/Minimum%20Deletions%20to%20Make%20String%20K-Special.py)                                                | Medium    |🛑   |
 | 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/description/?envType=daily-question&envId=2025-06-22)         | [Python](./leetcode/2138/Divide%20a%20String%20Into%20Groups%20of%20Size%20k.py)                                                 | Easy    |
 | 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/?envType=daily-question&envId=2025-06-23)         | [Python](./leetcode/2081/Sum%20of%20k-Mirror%20Numbers.py)      | Hard     |🛑   |
+| 2200 | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/?envType=daily-question&envId=2025-06-24)         | [Python](./leetcode/2200/Find%20All%20K-Distant%20Indices%20in%20an%20Array.py)      | Easy    |
 
 
 
