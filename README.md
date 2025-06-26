@@ -675,6 +675,8 @@ LeetCode
 | 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/?envType=daily-question&envId=2025-06-23)         | [Python](./leetcode/2081/Sum%20of%20k-Mirror%20Numbers.py)                                                                       | Hard     |🛑   |
 | 2200 | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/?envType=daily-question&envId=2025-06-24)         | [Python](./leetcode/2200/Find%20All%20K-Distant%20Indices%20in%20an%20Array.py)                                                  | Easy    |
 | 2040 | [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/?envType=daily-question&envId=2025-06-25)         | [Python](./leetcode/2040/Kth%20Smallest%20Product%20of%20Two%20Sorted%20Arrays.py)                                                    | Hard     |🛑   |
+| 2311 | [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/?envType=daily-question&envId=2025-06-26)         | [Python](./leetcode/2311/Longest%20Binary%20Subsequence%20Less%20Than%20or%20Equal%20to%20K.py)  |  Medium    |🛑   |
+| 2014 | [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/?envType=daily-question&envId=2025-06-27)         | [Python](./leetcode/2014/Longest%20Subsequence%20Repeated%20k%20Times.py)  |  Hard     |🛑   |
 
 
 
