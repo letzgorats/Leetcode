@@ -677,6 +677,7 @@ LeetCode
 | 2040 | [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/?envType=daily-question&envId=2025-06-25)         | [Python](./leetcode/2040/Kth%20Smallest%20Product%20of%20Two%20Sorted%20Arrays.py)                                                    | Hard     |🛑   |
 | 2311 | [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/?envType=daily-question&envId=2025-06-26)         | [Python](./leetcode/2311/Longest%20Binary%20Subsequence%20Less%20Than%20or%20Equal%20to%20K.py)  |  Medium    |🛑   |
 | 2014 | [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/?envType=daily-question&envId=2025-06-27)         | [Python](./leetcode/2014/Longest%20Subsequence%20Repeated%20k%20Times.py)  |  Hard     |🛑   |
+| 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/?envType=daily-question&envId=2025-06-28)         | [Python](./leetcode/2099/Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum.py)  | Easy    |🛑   |
 
 
 
