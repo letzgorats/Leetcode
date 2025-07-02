@@ -681,6 +681,7 @@ LeetCode
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/?envType=daily-question&envId=2025-06-29)        | [Python](./leetcode/1498/Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.py)  | Medium    |🛑   |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=daily-question&envId=2025-06-30)         | [Python](./leetcode/594/Longest%20Harmonious%20Subsequence.py)  | Easy    |🛑   |
 | 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/?envType=daily-question&envId=2025-07-01)         | [Python](./leetcode/3330/Find%20the%20Original%20Typed%20String%20I.py)  | Easy    |🛑   |
+| 3333 | [Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/description/?envType=daily-question&envId=2025-07-02)         | [Python](./leetcode/3333/Find%20the%20Original%20Typed%20String%20II.py)  | Hard     |🛑   |
 
 
 
