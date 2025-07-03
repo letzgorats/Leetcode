@@ -682,7 +682,7 @@ LeetCode
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=daily-question&envId=2025-06-30)         | [Python](./leetcode/594/Longest%20Harmonious%20Subsequence.py)  | Easy    |🛑   |
 | 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/?envType=daily-question&envId=2025-07-01)         | [Python](./leetcode/3330/Find%20the%20Original%20Typed%20String%20I.py)  | Easy    |🛑   |
 | 3333 | [Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/description/?envType=daily-question&envId=2025-07-02)         | [Python](./leetcode/3333/Find%20the%20Original%20Typed%20String%20II.py)  | Hard     |🛑   |
-
+| 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/?envType=daily-question&envId=2025-07-03)         | [Python](./leetcode/3304/Find%20the%20K-th%20Character%20in%20String%20Game%20I.py)  | Easy    |
 
 
 
