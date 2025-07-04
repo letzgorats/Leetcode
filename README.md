@@ -679,10 +679,11 @@ LeetCode
 | 2014 | [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/?envType=daily-question&envId=2025-06-27)         | [Python](./leetcode/2014/Longest%20Subsequence%20Repeated%20k%20Times.py)  |  Hard     |🛑   |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/?envType=daily-question&envId=2025-06-28)        | [Python](./leetcode/2099/Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum.py)  | Easy    |🛑   |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/?envType=daily-question&envId=2025-06-29)        | [Python](./leetcode/1498/Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.py)  | Medium    |🛑   |
-| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=daily-question&envId=2025-06-30)         | [Python](./leetcode/594/Longest%20Harmonious%20Subsequence.py)  | Easy    |🛑   |
+| 594  | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=daily-question&envId=2025-06-30)         | [Python](./leetcode/594/Longest%20Harmonious%20Subsequence.py)  | Easy    |🛑   |
 | 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/?envType=daily-question&envId=2025-07-01)         | [Python](./leetcode/3330/Find%20the%20Original%20Typed%20String%20I.py)  | Easy    |🛑   |
 | 3333 | [Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/description/?envType=daily-question&envId=2025-07-02)         | [Python](./leetcode/3333/Find%20the%20Original%20Typed%20String%20II.py)  | Hard     |🛑   |
 | 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/?envType=daily-question&envId=2025-07-03)         | [Python](./leetcode/3304/Find%20the%20K-th%20Character%20in%20String%20Game%20I.py)  | Easy    |
+| 3307 | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/?envType=daily-question&envId=2025-07-04)         | [Python](./leetcode/3307/Find%20the%20K-th%20Character%20in%20String%20Game%20II.py)  | Hard     |🛑   |
 
 
 
