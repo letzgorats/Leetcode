@@ -684,6 +684,7 @@ LeetCode
 | 3333 | [Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/description/?envType=daily-question&envId=2025-07-02)         | [Python](./leetcode/3333/Find%20the%20Original%20Typed%20String%20II.py)  | Hard     |🛑   |
 | 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/?envType=daily-question&envId=2025-07-03)         | [Python](./leetcode/3304/Find%20the%20K-th%20Character%20in%20String%20Game%20I.py)  | Easy    |
 | 3307 | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/?envType=daily-question&envId=2025-07-04)         | [Python](./leetcode/3307/Find%20the%20K-th%20Character%20in%20String%20Game%20II.py)  | Hard     |🛑   |
+| 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/?envType=daily-question&envId=2025-07-05)         | [Python](./leetcode/1394/Find%20Lucky%20Integer%20in%20an%20Array.py)  | Easy    |
 
 
 
