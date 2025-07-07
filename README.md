@@ -686,7 +686,7 @@ LeetCode
 | 3307 | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/?envType=daily-question&envId=2025-07-04)         | [Python](./leetcode/3307/Find%20the%20K-th%20Character%20in%20String%20Game%20II.py) | Hard     |🛑   |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/?envType=daily-question&envId=2025-07-05)         | [Python](./leetcode/1394/Find%20Lucky%20Integer%20in%20an%20Array.py) | Easy    |
 | 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/?envType=daily-question&envId=2025-07-06)         | [Python](./leetcode/1865/Finding%20Pairs%20With%20a%20Certain%20Sum.py)  | Medium    |🛑   |
-
+| 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/?envType=daily-question&envId=2025-07-07)         | [Python](./leetcode/1353/Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended.py)  | Medium    |🛑   |
 
 
 HackerRank
