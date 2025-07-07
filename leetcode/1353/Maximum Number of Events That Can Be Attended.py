@@ -27,7 +27,7 @@ class Solution:
             # 오늘 하나 참석 가능하면 참석
             if q:
                 heapq.heappop(q)
-                res += 1
+                res += 1    # 하루에 한개만 참여
             # print(res)
 
             day += 1
