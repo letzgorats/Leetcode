@@ -689,7 +689,7 @@ LeetCode
 | 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/?envType=daily-question&envId=2025-07-07)         | [Python](./leetcode/1353/Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended.py)                                        | Medium    |🛑   |
 | 1751 | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/?envType=daily-question&envId=2025-07-08)         | [Python](./leetcode/1751/Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II.py)                                   | Hard     |🛑   |
 | 3439 | [Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/?envType=daily-question&envId=2025-07-09)         | [Python](./leetcode/3439/Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20I.py)                                            | Medium    |🛑   |
-
+| 3440 | [Reschedule Meetings for Maximum Free Time II](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/description/?envType=daily-question&envId=2025-07-10)         | [Python](./leetcode/3439/Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20II.py)                                            | Medium    |🛑   |
 
 
 HackerRank
