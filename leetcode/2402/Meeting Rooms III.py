@@ -1,3 +1,4 @@
+# solution 1 - (heapq) - (1184ms) - (2024.02.18)
 import heapq
 class Solution(object):
     def mostBooked(self, n, meetings):
@@ -41,6 +42,40 @@ class Solution(object):
         return rooms_usage.index(max(rooms_usage))
 
             
+
+# solution 2 - (heapq) - (235ms) - (2025.07.11)
+import heapq
+
+
+class Solution:
+    def mostBooked(self, n: int, meetings: List[List[int]]) -> int:
+
+        meetings.sort()
+        print(meetings)
+
+        # q1 : 방 번호 minHeap
+        q1 = [i for i in range(n)]
+
+        # q2 : 방 번호와 끝나는 시간 체킹 minHeap
+        q2 = []
+        meeting_count = [0] * n
+
+        for idx, (start, ends) in enumerate(meetings):
+
+            while q2 and q2[0][0] <= start:
+                _, room_number = heapq.heappop(q2)
+                heapq.heappush(q1, room_number)
+
+            if q1:
+                room_number = heapq.heappop(q1)
+                heapq.heappush(q2, [ends, room_number])
+            else:
+                room_available_time, room_number = heapq.heappop(q2)
+                heapq.heappush(q2, [room_available_time + ends - start, room_number])
+
+            meeting_count[room_number] += 1
+
+        return meeting_count.index(max(meeting_count))
 
 
 
