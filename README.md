@@ -691,6 +691,7 @@ LeetCode
 | 3439 | [Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/?envType=daily-question&envId=2025-07-09)         | [Python](./leetcode/3439/Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20I.py)                                            | Medium    |🛑   |
 | 3440 | [Reschedule Meetings for Maximum Free Time II](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/description/?envType=daily-question&envId=2025-07-10)         | [Python](./leetcode/3439/Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20II.py)                                            | Medium    |🛑   |
 | 1900 | [The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/description/?envType=daily-question&envId=2025-07-12)         | [Python](./leetcode/3439/The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete.py) | Hard     |🛑   |
+| 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/?envType=daily-question&envId=2025-07-13)         | [Python](./leetcode/2410/Maximum%20Matching%20of%20Players%20With%20Trainers.py) | Medium    |
 
 
 
