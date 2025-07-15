@@ -1,4 +1,4 @@
-# solution 1 - (array,dynamic programming,heapq) - (399ms) - (2025.07.19)
+# solution 1 - (array,dynamic programming,heapq) - (399ms) - (2025.07.18)
 from typing import List
 import heapq
 class Solution:
