@@ -695,6 +695,8 @@ LeetCode
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/?envType=daily-question&envId=2025-07-14)        | [Python](./leetcode/1290/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py)                                   | Easy    |
 | 3136 | [Valid Word](https://leetcode.com/problems/valid-word/?envType=daily-question&envId=2025-07-15)         | [Python](./leetcode/3136/Valid%20Word.py)              | Easy    |🛑   |
 | 3201 | [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/?envType=daily-question&envId=2025-07-16)         | [Python](./leetcode/3201/Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20I.py)  | Medium    |🛑   |
+| 3202 | [Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/?envType=daily-question&envId=2025-07-17)         | [Python](./leetcode/3202/Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20I.py)  | Medium    |🛑   |
+| 2163 | [Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/?envType=daily-question&envId=2025-07-18)         | [Python](./leetcode/3202/Minimum%20Difference%20in%20Sums%20After%20Removal%20of%20Elements.py)  | Hard    |🛑   |
 
 
 
