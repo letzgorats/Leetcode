@@ -27,7 +27,7 @@ class Solution:
 
         return list(answer)
 
-# solution 2 - more simple
+# solution 2 - more simple - (22ms,43ms) - (2024.10.25, 2025.07.19)
 class Solution:
     def removeSubfolders(self, folder: List[str]) -> List[str]:
         folder.sort()
