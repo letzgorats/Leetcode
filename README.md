@@ -697,6 +697,7 @@ LeetCode
 | 3201 | [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/?envType=daily-question&envId=2025-07-16)                                                                                  | [Python](./leetcode/3201/Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20I.py)  | Medium    |🛑   |
 | 3202 | [Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/?envType=daily-question&envId=2025-07-17)                                                                                | [Python](./leetcode/3202/Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20I.py)  | Medium    |🛑   |
 | 2163 | [Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/?envType=daily-question&envId=2025-07-18)                                                                      | [Python](./leetcode/3202/Minimum%20Difference%20in%20Sums%20After%20Removal%20of%20Elements.py)  | Hard    |🛑   |
+| 1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/?envType=daily-question&envId=2025-07-20)                              | [Python](./leetcode/1948/Delete%20Duplicate%20Folders%20in%20System.py)  | Hard    |🛑   |
 
 
 
