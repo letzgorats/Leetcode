@@ -1,4 +1,4 @@
-# greedy solution - O(n^2)
+# greedy solution - O(n^2) - (2024.07.12)
 class Solution:
     def maximumGain(self, s: str, x: int, y: int) -> int:
 
@@ -29,7 +29,7 @@ class Solution:
 
         return answer
 
-# O(n) - stack solution
+# O(n) - stack solution - (2024.07.12)
 class Solution:
     def maximumGain(self, s: str, x: int, y: int) -> int:
 
@@ -57,3 +57,32 @@ class Solution:
         s, point2 = remove_pairs(s, second, first, low)
 
         return point1 + point2
+
+# solution 2 - (greedy,stack) - (184ms) - (2025.07.23)
+class Solution:
+    def maximumGain(self, s: str, x: int, y: int) -> int:
+
+        def remove_patterns(s, a, b, point):
+
+            stack = []
+            score = 0
+            for ch in s:
+                if stack and stack[-1] == a and ch == b:
+                    stack.pop()
+                    score += point
+                else:
+                    stack.append(ch)
+
+            return ''.join(stack), score
+
+        if x > y:  # remove 'ab'
+
+            remaining, sc1 = remove_patterns(s, 'a', 'b', x)
+            _, sc2 = remove_patterns(remaining, 'b', 'a', y)
+
+        else:  # remove 'ba'
+
+            remaining, sc1 = remove_patterns(s, 'b', 'a', y)
+            _, sc2 = remove_patterns(remaining, 'a', 'b', x)
+
+        return sc1 + sc2
