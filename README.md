@@ -700,6 +700,7 @@ LeetCode
 | 1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/?envType=daily-question&envId=2025-07-20)                              | [Python](./leetcode/1948/Delete%20Duplicate%20Folders%20in%20System.py) | Hard    |🛑   |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/?envType=daily-question&envId=2025-07-22)                              | [Python](./leetcode/1695/Maximum%20Erasure%20Value.py)  | Medium    |🛑   |
 | 2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/?envType=daily-question&envId=2025-07-24)                              | [Python](./leetcode/2322/Minimum%20Score%20After%20Removals%20on%20a%20Tree.py)  | Hard    |🛑   |
+| 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/?envType=daily-question&envId=2025-07-25)                              | [Python](./leetcode/3487/Maximum%20Unique%20Subarray%20Sum%20After%20Deletion.py)  | Easy    |
 
 
 
