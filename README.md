@@ -702,7 +702,7 @@ LeetCode
 | 2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/?envType=daily-question&envId=2025-07-24)                              | [Python](./leetcode/2322/Minimum%20Score%20After%20Removals%20on%20a%20Tree.py)  | Hard    |🛑   |
 | 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/?envType=daily-question&envId=2025-07-25)                              | [Python](./leetcode/3487/Maximum%20Unique%20Subarray%20Sum%20After%20Deletion.py)  | Easy    |
 | 3480 | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/description/?envType=daily-question&envId=2025-07-26)                              | [Python](./leetcode/3480/Maximize%20Subarrays%20After%20Removing%20One%20Conflicting%20Pair.py)  | Hard     |🛑   |
-
+| 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/description/?envType=daily-question&envId=2025-07-27)                              | [Python](./leetcode/2210/Count%20Hills%20and%20Valleys%20in%20an%20Array.py)  | Easy    |
 
 
 
