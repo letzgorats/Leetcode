@@ -1,4 +1,5 @@
-# solution 1 - brute force, recursive, dfs
+# solution 1 - (brute force, recursive, dfs) - (241ms,246ms) - (2024.10.18),(2025.07.28)
+from typing import List
 class Solution:
     def countMaxOrSubsets(self, nums: List[int]) -> int:
 
@@ -14,7 +15,7 @@ class Solution:
                 res += 1 if cur_or == max_or else 0
                 return
 
-                # skip i
+            # skip i
             dfs(i + 1, cur_or)
             # include i
             dfs(i + 1, cur_or | nums[i])
@@ -40,7 +41,7 @@ class Solution:
 
         return dfs(0, 0)
 
-# solution 2 - memoization
+# solution 2 - memoization - (214ms,307ms) - (2024.10.18),(2025.07.28)
 class Solution:
     def countMaxOrSubsets(self, nums: List[int]) -> int:
 
@@ -66,7 +67,9 @@ class Solution:
 
         return dfs(0, 0)
 
-# solution 3 - bottom up solution - dp
+# solution 3 - bottom up solution,dp - (19ms) - (2024.10.18)
+from collections import defaultdict
+from copy import deepcopy
 class Solution:
     def countMaxOrSubsets(self, nums: List[int]) -> int:
 
@@ -85,7 +88,7 @@ class Solution:
 
         return dp[max_or]
 
-# solution 3 - bitmask
+# solution 3 - bitmask - (1260ms,1483ms) - (2024.10.18), (2025.07.28)
 class Solution:
     def countMaxOrSubsets(self, nums: List[int]) -> int:
 
