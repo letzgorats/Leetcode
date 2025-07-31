@@ -704,6 +704,7 @@ LeetCode
 | 3480 | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/description/?envType=daily-question&envId=2025-07-26)                              | [Python](./leetcode/3480/Maximize%20Subarrays%20After%20Removing%20One%20Conflicting%20Pair.py)  | Hard     |🛑   |
 | 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/description/?envType=daily-question&envId=2025-07-27)                              | [Python](./leetcode/2210/Count%20Hills%20and%20Valleys%20in%20an%20Array.py)  | Easy    |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/?envType=daily-question&envId=2025-07-29)                              | [Python](./leetcode/2411/Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR.py)  |  Medium    |🛑   |
+| 898  | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/?envType=daily-question&envId=2025-07-31)                              | [Python](./leetcode/898/Bitwise%20ORs%20of%20Subarrays.py)  |  Medium    |🛑   |
 
 
 
