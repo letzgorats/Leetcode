@@ -1,3 +1,7 @@
+'''
+The secrets of Pascal's' triangle(TED) -> https://www.youtube.com/watch?v=XMriWTvPXHI
+'''
+
 # Wrong answer - (math) - (2025.08.01)
 from typing import List
 class Solution:
@@ -61,3 +65,5 @@ class Solution:
             ...
             ...
 '''
+
+
