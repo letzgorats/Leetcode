@@ -706,7 +706,7 @@ LeetCode
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/?envType=daily-question&envId=2025-07-29)                              | [Python](./leetcode/2411/Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR.py)  |  Medium    |🛑   |
 | 898  | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/?envType=daily-question&envId=2025-07-31)                              | [Python](./leetcode/898/Bitwise%20ORs%20of%20Subarrays.py)  |  Medium    |🛑   |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/?envType=daily-question&envId=2025-08-01)                              | [Python](./leetcode/118/Pascal's%20Triangle.py)  |  Easy    |🛑   |
-
+| 2561 | [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/?envType=daily-question&envId=2025-08-02)                              | [Python](./leetcode/2561/Rearranging%20Fruits.py)  | Hard     |🛑   |
 
 
 
