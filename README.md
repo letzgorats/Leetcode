@@ -707,6 +707,7 @@ LeetCode
 | 898  | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/?envType=daily-question&envId=2025-07-31)                              | [Python](./leetcode/898/Bitwise%20ORs%20of%20Subarrays.py)  |  Medium    |🛑   |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/?envType=daily-question&envId=2025-08-01)                              | [Python](./leetcode/118/Pascal's%20Triangle.py)  |  Easy    |🛑   |
 | 2561 | [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/?envType=daily-question&envId=2025-08-02)                              | [Python](./leetcode/2561/Rearranging%20Fruits.py)  | Hard     |🛑   |
+| 2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/?envType=daily-question&envId=2025-08-03)                              | [Python](./leetcode/2106/Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps.py)  | Hard     |🛑   |
 
 
 
