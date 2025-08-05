@@ -709,7 +709,7 @@ LeetCode
 | 2561 | [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/?envType=daily-question&envId=2025-08-02)                              | [Python](./leetcode/2561/Rearranging%20Fruits.py)  | Hard     |🛑   |
 | 2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/?envType=daily-question&envId=2025-08-03)                              | [Python](./leetcode/2106/Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps.py)  | Hard     |🛑   |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/?envType=daily-question&envId=2025-08-04)                              | [Python](./leetcode/904/Fruit%20Into%20Baskets.py)  | Medium     |🛑   |
-
+| 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/?envType=daily-question&envId=2025-08-05)                              | [Python](./leetcode/3477/Fruits%20Into%20Baskets%20II.py)  | Easy     |🛑   |
 
 
 
