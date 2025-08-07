@@ -711,7 +711,7 @@ LeetCode
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/?envType=daily-question&envId=2025-08-04)                              | [Python](./leetcode/904/Fruit%20Into%20Baskets.py)  | Medium     |🛑   |
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/?envType=daily-question&envId=2025-08-05)                              | [Python](./leetcode/3477/Fruits%20Into%20Baskets%20II.py)  | Easy     |🛑   |
 | 3479 | [Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-ii/?envType=daily-question&envId=2025-08-05)                              | [Python](./leetcode/3479/Fruits%20Into%20Baskets%20III.py)  | Medium     |🛑   |
-
+| 3363 | [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/?envType=daily-question&envId=2025-08-07)                              | [Python](./leetcode/3363/Find%20the%20Maximum%20Number%20of%20Fruits%20Collected.py)  | Hard     |🛑   |
 
 
 HackerRank
