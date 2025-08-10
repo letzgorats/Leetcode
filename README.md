@@ -713,6 +713,7 @@ LeetCode
 | 3479 | [Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-ii/?envType=daily-question&envId=2025-08-05)                              | [Python](./leetcode/3479/Fruits%20Into%20Baskets%20III.py)  | Medium     |🛑   |
 | 3363 | [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/?envType=daily-question&envId=2025-08-07)                              | [Python](./leetcode/3363/Find%20the%20Maximum%20Number%20of%20Fruits%20Collected.py)  | Hard     |🛑   |
 | 808 | [Soup Servings](https://leetcode.com/problems/soup-servings/description/?envType=daily-question&envId=2025-08-08)                              | [Python](./leetcode/808/Soup%20Servings.py)  | Medium     |🛑   |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/)                              | [Python](./leetcode/47/Permutations%20II.py)  | Medium     |🛑   |
 
 
 HackerRank
