@@ -715,6 +715,13 @@ LeetCode
 | 808 | [Soup Servings](https://leetcode.com/problems/soup-servings/description/?envType=daily-question&envId=2025-08-08)                             | [Python](./leetcode/808/Soup%20Servings.py)  | Medium     |🛑   |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/)                              | [Python](./leetcode/47/Permutations%20II.py)  | Medium     |🛑   |
 | 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/?envType=daily-question&envId=2025-08-10)                              | [Python](./leetcode/869/Reordered%20Power%20of%202.py)  | Medium     |🛑   |
+| 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/?envType=daily-question&envId=2025-08-11)                              | [Python](./leetcode/2438/Range%20Product%20Queries%20of%20Powers.py)  | Medium     |🛑   |
+
+
+
+
+
+
 
 
 HackerRank
