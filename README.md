@@ -718,6 +718,7 @@ LeetCode
 | 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/?envType=daily-question&envId=2025-08-11)                              | [Python](./leetcode/2438/Range%20Product%20Queries%20of%20Powers.py) | Medium     |🛑   |
 | 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/?envType=daily-question&envId=2025-08-12)                              | [Python](./leetcode/2787/Ways%20to%20Express%20an%20Integer%20as%20Sum%20of%20Powers.py) | Medium     |🛑   |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/?envType=daily-question&envId=2025-08-16)                              | [Python](./leetcode/1323/Maximum%2069%20Number.py)  | Easy    |
+| 837  | [New 21 Game](https://leetcode.com/problems/new-21-game/description/?envType=daily-question&envId=2025-08-17)                              | [Python](./leetcode/837/New%2021%20Game.py)  |  Medium     |🛑   |
 
 
 
