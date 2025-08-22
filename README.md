@@ -722,6 +722,7 @@ LeetCode
 | 679  | [24 Game](https://leetcode.com/problems/24-game/description/?envType=daily-question&envId=2025-08-18)                              | [Python](./leetcode/679/24%20Game.py)  |  Hard     |🛑   |
 | 2348  | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/?envType=daily-question&envId=2025-08-19)                              | [Python](./leetcode/2348/Number%20of%20Zero-Filled%20Subarrays.py)  |  Medium     |
 | 1504  | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-21)                              | [Python](./leetcode/1504/Count%20Submatrices%20With%20All%20Ones.py)  |  Medium     |🛑   |
+| 3195  | [Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/description/?envType=daily-question&envId=2025-08-22)                              | [Python](./leetcode/3195/Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20I.py)  |  Medium     |🛑   |
 
 
 
