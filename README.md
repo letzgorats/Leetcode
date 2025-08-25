@@ -725,6 +725,7 @@ LeetCode
 | 3195  | [Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/description/?envType=daily-question&envId=2025-08-22)                              | [Python](./leetcode/3195/Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20I.py)  |  Medium     |
 | 3197  | [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/?envType=daily-question&envId=2025-08-23)                              | [Python](./leetcode/3197/Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20II.py)  |  Hard     |🛑   |
 | 1493  | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=daily-question&envId=2025-08-24)                              | [Python](./leetcode/1493/Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.py)  |  Medium     |🛑   |
+| 498  | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/?envType=daily-question&envId=2025-08-25)                              | [Python](./leetcode/498/Diagonal%20Traverse)  |  Medium     |🛑   |
 
 
 
