@@ -727,6 +727,7 @@ LeetCode
 | 1493  | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=daily-question&envId=2025-08-24)                              | [Python](./leetcode/1493/Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.py)  |  Medium     |🛑   |
 | 498  | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/?envType=daily-question&envId=2025-08-25)                              | [Python](./leetcode/498/Diagonal%20Traverse)  |  Medium     |🛑   |
 | 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/?envType=daily-question&envId=2025-08-26)                              | [Python](./leetcode/3000/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.py)  | Easy    |
+| 3459 | [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description/?envType=daily-question&envId=2025-08-27)                              | [Python](./leetcode/3459/Length%20of%20Longest%20V-Shaped%20Diagonal%20Segment.py)  |  Hard     |🛑   |
 
 
 
