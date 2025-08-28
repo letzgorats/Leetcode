@@ -1,7 +1,6 @@
-# solution 1 - (heaoq,matrix) - (54ms) - (2025.08.28)
+# solution 1 - (heapq,matrix) - (54ms) - (2025.08.28)
 import heapq
 from typing import List
-
 class Solution:
     def sortMatrix(self, grid: List[List[int]]) -> List[List[int]]:
 
@@ -61,8 +60,6 @@ class Solution:
 
 # solution 2 - (sort,matrix) - (11ms) - (2025.08.28)
 import heapq
-
-
 class Solution:
     def sortMatrix(self, grid: List[List[int]]) -> List[List[int]]:
 
