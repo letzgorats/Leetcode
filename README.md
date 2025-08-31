@@ -731,6 +731,7 @@ LeetCode
 | 3446 | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/?envType=daily-question&envId=2025-08-28)                              | [Python](./leetcode/3446/Sort%20Matrix%20by%20Diagonals.py)  | Medium    |🛑   |
 | 3021 | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/?envType=daily-question&envId=2025-08-29)                              | [Python](./leetcode/3021/Alice%20and%20Bob%20Playing%20Flower%20Game.py)  | Medium    |🛑   |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/?envType=daily-question&envId=2025-08-30)                              | [Python](./leetcode/36/Valid%20Sudoku.py)  | Medium    |🛑   |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/?envType=daily-question&envId=2025-08-31)                              | [Python](./leetcode/37/Sudoku%20Solver.py)  | Hard   |🛑   |
 
 
 
