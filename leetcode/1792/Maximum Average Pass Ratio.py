@@ -1,4 +1,6 @@
+# solution 1 - (heapq) - (1309ms) - (2024.12.15)
 import heapq
+from typing import List
 class Solution:
     def maxAverageRatio(self, classes: List[List[int]], extraStudents: int) -> float:
 
@@ -23,3 +25,45 @@ class Solution:
             answer += a / b
 
         return answer / len(classes)
+
+
+# solution 2 - (heapq) - (1258ms) - (2025.09.01)
+import heapq
+
+
+class Solution:
+    def maxAverageRatio(self, classes: List[List[int]], extraStudents: int) -> float:
+
+        """
+        # extraStudents를 각 그룹에 투입했을 때, 비율이 가장 높아지는 그룹을 선택
+        # -> 증가율이 높아지는 순으로 힙큐에 저장
+        # 초기 설정
+        """
+
+        q = []  # max heap
+        for p, t in classes:
+            current_ratio = p / t
+            increment = (p + 1) / (t + 1) - current_ratio
+            heapq.heappush(q, (-increment, p, t))
+
+        # print(q)
+
+        while extraStudents:
+            _, p, t = heapq.heappop(q)
+            # assign student
+            p += 1
+            t += 1
+            # 새로운 증가율
+            new_inc = (p + 1) / (t + 1) - p / t
+            heapq.heappush(q, (-new_inc, p, t))
+            extraStudents -= 1
+
+        # print(q)
+
+        ans = 0.0
+        while q:
+            ratio, p, t = heapq.heappop(q)
+            ans += (p / t)
+
+        return ans / len(classes)
+
