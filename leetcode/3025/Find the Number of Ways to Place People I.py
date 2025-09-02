@@ -17,31 +17,21 @@ class Solution:
 
         return ans
 
-# solution 1 - () - () - (2025.09.02)
+# solution 1 - (math,coordinates) - (11ms) - (2025.09.02)
 class Solution:
     def numberOfPairs(self, points: List[List[int]]) -> int:
 
         points = sorted(points, key=lambda x: (x[0], -x[1]))
-
-        floor = float('inf')
         ans = 0
-        for i in range(0, len(points)):
+        for i in range(0, len(points) - 1):
             (x1, y1) = points[i]
-            floor = min(y1, floor)  # 지금까지 만난 가장 낮은 y
-
-            # 3. j를 오른쪽 아래 후보로 훑음
+            lower = -1
             for j in range(i + 1, len(points)):
                 (x2, y2) = points[j]
-
-                # 위치 조건: 오른쪽에 있어야 하고 더 아래에 있어야 함
-                if x2 > x1 and y2 <= y1:
-
-                    # 새로운 "더 낮은 y"가 나오면 유효한 쌍
-                    if y2 < floor:
-                        ans += 1
-                        floor = y2
-
-                    # y2 == floor 이면 이미 같은 y의 점이 있어서 경계에 걸리므로 skip
-                    # y2 > floor 인 경우는 사각형 안에 들어와 버림 → skip
+                if lower < y2 <= y1:  # y2 는 lower 보다는 "커야" 하고(중복 방지), y1 와는 작거나 같아도 된다.
+                    ans += 1
+                    lower = y2
+                # if lower == y1: # lowe 가 y1 이면, 나머지는 볼 필요도 x
+                #     break
 
         return ans
