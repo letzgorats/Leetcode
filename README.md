@@ -732,6 +732,7 @@ LeetCode
 | 3021 | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/?envType=daily-question&envId=2025-08-29)                              | [Python](./leetcode/3021/Alice%20and%20Bob%20Playing%20Flower%20Game.py)  | Medium    |🛑   |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/?envType=daily-question&envId=2025-08-30)                              | [Python](./leetcode/36/Valid%20Sudoku.py)  | Medium    |🛑   |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/?envType=daily-question&envId=2025-08-31)                              | [Python](./leetcode/37/Sudoku%20Solver.py)  | Hard   |🛑   |
+| 3025 | [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02)                              | [Python](./leetcode/3025/Find%20the%20Number%20of%20Ways%20to%20Place%20People%20I.py)  | Medium   |🛑   |
 
 
 
