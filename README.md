@@ -735,6 +735,7 @@ LeetCode
 | 3025 | [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02)                             | [Python](./leetcode/3025/Find%20the%20Number%20of%20Ways%20to%20Place%20People%20I.py)  | Medium   |🛑   |
 | 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/?envType=daily-question&envId=2025-09-03)                             | [Python](./leetcode/3027/Find%20the%20Number%20of%20Ways%20to%20Place%20People%20II.py)  | Hard   |🛑   |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/description/?envType=daily-question&envId=2025-09-04)                              | [Python](./leetcode/3516/Find%20Closest%20Person.py)  | Easy   |
+| 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/?envType=daily-question&envId=2025-09-05)                              | [Python](./leetcode/2749/Minimum%20Operations%20to%20Make%20the%20Integer%20Zero.py)  | Medium   |🛑   |
 
 
 
