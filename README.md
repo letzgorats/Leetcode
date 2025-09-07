@@ -737,6 +737,7 @@ LeetCode
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/description/?envType=daily-question&envId=2025-09-04)                              | [Python](./leetcode/3516/Find%20Closest%20Person.py)  | Easy   |
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/?envType=daily-question&envId=2025-09-05)                              | [Python](./leetcode/2749/Minimum%20Operations%20to%20Make%20the%20Integer%20Zero.py)  | Medium   |🛑   |
 | 3495 | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description/?envType=daily-question&envId=2025-09-06)                              | [Python](./leetcode/3495/Minimum%20Operations%20to%20Make%20Array%20Elements%20Zero.py)  | Hard   |🛑   |
+| 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/?envType=daily-question&envId=2025-09-07)                              | [Python](./leetcode/1304/Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.py)  | Easy    |
 
 
 
