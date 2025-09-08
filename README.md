@@ -739,6 +739,7 @@ LeetCode
 | 3495 | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description/?envType=daily-question&envId=2025-09-06)                              | [Python](./leetcode/3495/Minimum%20Operations%20to%20Make%20Array%20Elements%20Zero.py)  | Hard   |🛑   |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/?envType=daily-question&envId=2025-09-07)                              | [Python](./leetcode/1304/Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.py)  | Easy    |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/?envType=daily-question&envId=2025-09-08)                              | [Python](./leetcode/1317/Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.py)  | Easy    |
+| 2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/?envType=daily-question&envId=2025-09-09)                              | [Python](./leetcode/2327/Number%20of%20People%20Aware%20of%20a%20Secret.py)  |Medium   |🛑   |
 
 
 
