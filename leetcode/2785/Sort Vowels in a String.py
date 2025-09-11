@@ -1,3 +1,4 @@
+# solution 1 - (greedy,string) - (183ms) - (2023.11.13)
 class Solution(object):
     def sortVowels(self, s):
         """
@@ -34,3 +35,32 @@ class Solution(object):
     
 
         return "".join(s)
+
+
+# solution 2 - (string,greedy,sort) - (75ms) - (2025.09.11)
+from collections import defaultdict
+class Solution:
+    def sortVowels(self, s: str) -> str:
+
+        vowels = {'A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u'}
+        temp = []
+        idx = []
+        ans = ['-'] * len(s)
+
+        for i, alpha in enumerate(s):
+
+            if alpha not in vowels:
+                ans[i] = alpha
+            else:
+                temp.append(alpha)
+                idx.append(i)
+
+        temp.sort()
+        idx.sort()
+
+        j = 0
+        for i in idx:
+            ans[i] = temp[j]
+            j += 1
+
+        return "".join(ans)
