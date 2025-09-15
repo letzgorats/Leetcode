@@ -742,9 +742,9 @@ LeetCode
 | 2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/?envType=daily-question&envId=2025-09-09)                              | [Python](./leetcode/2327/Number%20of%20People%20Aware%20of%20a%20Secret.py)                                                      |Medium   |🛑   |
 | 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/?envType=daily-question&envId=2025-09-10)                              | [Python](./leetcode/1733/Minimum%20Number%20of%20People%20to%20Teach.py)                                                         |Medium   |🛑   |
 | 3227 | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/?envType=daily-question&envId=2025-09-12)                              | [Python](./leetcode/3227/Vowels%20Game%20in%20a%20String.py)                                                                     |Medium   |  
-| 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/?envType=daily-question&envId=2025-09-13)                              | [Python](./leetcode/3541/Find%20Most%20Frequent%20Vowel%20and%20Consonant.py)    |  Easy    |  
-| 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/?envType=daily-question&envId=2025-09-14)                              | [Python](./leetcode/966/Vowel%20Spellchecker.py)    | Medium   |🛑   |
-
+| 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/?envType=daily-question&envId=2025-09-13)                              | [Python](./leetcode/3541/Find%20Most%20Frequent%20Vowel%20and%20Consonant.py)                                                    |  Easy    |  
+| 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/?envType=daily-question&envId=2025-09-14)                              | [Python](./leetcode/966/Vowel%20Spellchecker.py)                                                                                 | Medium   |🛑   |
+| 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15)    | [Python](./leetcode/3541/Maximum%20Number%20of%20Words%20You%20Can%20Type.py)                                                           |  Easy    |  
 
 
 
