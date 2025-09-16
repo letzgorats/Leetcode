@@ -745,7 +745,7 @@ LeetCode
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/?envType=daily-question&envId=2025-09-13)                              | [Python](./leetcode/3541/Find%20Most%20Frequent%20Vowel%20and%20Consonant.py)                                                    |  Easy    |  
 | 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/?envType=daily-question&envId=2025-09-14)                              | [Python](./leetcode/966/Vowel%20Spellchecker.py)                                                                                 | Medium   |🛑   |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15)    | [Python](./leetcode/3541/Maximum%20Number%20of%20Words%20You%20Can%20Type.py)                                                           |  Easy    |  
-
+| 2197 | [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/?envType=daily-question&envId=2025-09-16)    | [Python](./leetcode/2197/Replace%20Non-Coprime%20Numbers%20in%20Array.py)       | Hard   |🛑   |
 
 
 
