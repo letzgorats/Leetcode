@@ -747,6 +747,7 @@ LeetCode
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15)    | [Python](./leetcode/3541/Maximum%20Number%20of%20Words%20You%20Can%20Type.py)                                                           |  Easy    |  
 | 2197 | [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/?envType=daily-question&envId=2025-09-16)    | [Python](./leetcode/2197/Replace%20Non-Coprime%20Numbers%20in%20Array.py)       | Hard   |🛑   |
 | 3408 | [Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18)    | [Python](./leetcode/3408/Design%20Task%20Manager.py)       | Medium   |🛑   |
+| 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/?envType=daily-question&envId=2025-09-19)    | [Python](./leetcode/3484/Design%20Spreadsheet.py)       | Medium   |🛑   |
 
 
 
