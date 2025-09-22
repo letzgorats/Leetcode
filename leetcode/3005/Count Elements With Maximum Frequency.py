@@ -1,5 +1,4 @@
 # defaultdict solution
-
 class Solution(object):
     def maxFrequencyElements(self, nums):
         """
@@ -48,3 +47,27 @@ class Solution(object):
                 answer += c
 
         return answer
+
+
+# solution 3 - (max,greedy) - (3ms) - (2025.09.22)
+from typing import List
+class Solution:
+    def maxFrequencyElements(self, nums: List[int]) -> int:
+
+        counts = Counter(nums)
+
+        # print(counts)
+
+        max_v = 0
+        ans = 0
+        for k, v in counts.items():
+            ans += v
+            if max_v > v:
+                ans -= v
+            elif max_v == v:
+                continue
+            elif max_v < v:
+                max_v = v
+                ans = v
+
+        return ans
