@@ -1,3 +1,4 @@
+# solution 1 - (map,split,string) - (16ms, 0ms) - (2024.03.23), (2025.09.23)
 class Solution(object):
     def compareVersion(self, version1, version2):
 
