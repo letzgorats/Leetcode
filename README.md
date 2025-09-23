@@ -749,7 +749,7 @@ LeetCode
 | 3408 | [Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18)    | [Python](./leetcode/3408/Design%20Task%20Manager.py)       | Medium   |🛑   |
 | 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/?envType=daily-question&envId=2025-09-19)    | [Python](./leetcode/3484/Design%20Spreadsheet.py)       | Medium   |🛑   |
 | 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/description/?envType=daily-question&envId=2025-09-21)    | [Python](./leetcode/1912/Design%20Movie%20Rental%20System.py)       | Hard   |🛑   |
-
+| 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/?envType=daily-question&envId=2025-09-24)    | [Python](./leetcode/166/Fraction%20to%20Recurring%20Decimal.py)       | Medium   |🛑   |
 
 
 
