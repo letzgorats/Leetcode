@@ -751,6 +751,7 @@ LeetCode
 | 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/description/?envType=daily-question&envId=2025-09-21)    | [Python](./leetcode/1912/Design%20Movie%20Rental%20System.py)       | Hard   |🛑   |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/?envType=daily-question&envId=2025-09-24)    | [Python](./leetcode/166/Fraction%20to%20Recurring%20Decimal.py)       | Medium   |🛑   |
 | 120 | [Triangle](https://leetcode.com/problems/triangle/description/?envType=daily-question&envId=2025-09-25)    | [Python](./leetcode/120/Triangle.py)       | Medium   |🛑   |
+| 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/?envType=daily-question&envId=2025-09-26)    | [Python](./leetcode/611/Valid%20Triangle%20Number.py)       | Medium   |🛑   |
 
 
 
