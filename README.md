@@ -753,6 +753,7 @@ LeetCode
 | 120 | [Triangle](https://leetcode.com/problems/triangle/description/?envType=daily-question&envId=2025-09-25)    | [Python](./leetcode/120/Triangle.py)       | Medium   |🛑   |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/?envType=daily-question&envId=2025-09-26)    | [Python](./leetcode/611/Valid%20Triangle%20Number.py)       | Medium   |🛑   |
 | 812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/?envType=daily-question&envId=2025-09-27)    | [Python](./leetcode/812/Largest%20Triangle%20Area.py)       | Easy  |🛑   |
+| 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/?envType=daily-question&envId=2025-09-28)    | [Python](./leetcode/976/Largest%20Perimeter%20Triangle.py)       | Easy  |🛑   |
 
 
 
