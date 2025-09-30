@@ -754,6 +754,7 @@ LeetCode
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/?envType=daily-question&envId=2025-09-26)    | [Python](./leetcode/611/Valid%20Triangle%20Number.py)       | Medium   |🛑   |
 | 812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/?envType=daily-question&envId=2025-09-27)    | [Python](./leetcode/812/Largest%20Triangle%20Area.py)       | Easy  |🛑   |
 | 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/?envType=daily-question&envId=2025-09-28)    | [Python](./leetcode/976/Largest%20Perimeter%20Triangle.py)       | Easy  |🛑   |
+| 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/?envType=daily-question&envId=2025-09-30)    | [Python](./leetcode/2221/Find%20Triangular%20Sum%20of%20an%20Array.py)       |  Medium   |
 
 
 
