@@ -1,3 +1,4 @@
+# solution 1 - (math,greedy) - (15ms,2ms) - (2024.07.07) , (2025.10.01)
 class Solution(object):
     def numWaterBottles(self, numBottles, numExchange):
         """
@@ -8,7 +9,9 @@ class Solution(object):
 
         answer = numBottles
         while numBottles >= numExchange:
-            answer += (numBottles // numExchange)
+            answer += (numBottles // numExchange)   # drink
             numBottles = (numBottles // numExchange + numBottles % numExchange)
 
         return answer
+
+
