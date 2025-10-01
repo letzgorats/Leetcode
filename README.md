@@ -756,7 +756,7 @@ LeetCode
 | 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/?envType=daily-question&envId=2025-09-28)    | [Python](./leetcode/976/Largest%20Perimeter%20Triangle.py)       | Easy  |🛑   |
 | 1039 | [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/?envType=daily-question&envId=2025-09-29)    | [Python](./leetcode/1039/Minimum%20Score%20Triangulation%20of%20Polygon.py)  | Medium   |🛑   |
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/?envType=daily-question&envId=2025-09-30)    | [Python](./leetcode/2221/Find%20Triangular%20Sum%20of%20an%20Array.py)       |  Medium   |
-
+| 3100 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/?envType=daily-question&envId=2025-10-02)    | [Python](./leetcode/3100/Water%20Bottles%20II.py)       |  Medium   |
 
 
 HackerRank
