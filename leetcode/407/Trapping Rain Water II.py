@@ -1,6 +1,6 @@
+# solution 1 - (heapq) - (170ms,163ms) - (2025.07.19), (2025.10.05)
 import heapq
-
-
+from typing import List
 class Solution:
     def trapRainWater(self, heightMap: List[List[int]]) -> int:
 
