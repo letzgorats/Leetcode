@@ -760,6 +760,7 @@ LeetCode
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/?envType=daily-question&envId=2025-10-05)   | [Python](./leetcode/417/Pacific%20Atlantic%20Water%20Flow.py)                                                                     |  Medium   |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/?envType=daily-question&envId=2025-10-06)    | [Python](./leetcode/778/Swim%20in%20Rising%20Water.py)       | Hard    |🛑   |
 | 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/description/?envType=daily-question&envId=2025-10-07)   | [Python](./leetcode/1488/Avoid%20Flood%20in%20The%20City.py)    |  Medium   |🛑   |
+| 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/?envType=daily-question&envId=2025-10-08)   | [Python](./leetcode/2300/Successful%20Pairs%20of%20Spells%20and%20Potions.py)    |  Medium   |🛑   |
 
 
 
