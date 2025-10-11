@@ -764,7 +764,7 @@ LeetCode
 | 3494 | [Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/description/?envType=daily-question&envId=2025-10-09)   | [Python](./leetcode/3494/Find%20the%20Minimum%20Amount%20of%20Time%20to%20Brew%20Potions.py)   |  Medium   |🛑   |
 | 3147 | [Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/description/?envType=daily-question&envId=2025-10-10)   | [Python](./leetcode/3147/Taking%20Maximum%20Energy%20From%20the%20Mystic%20Dungeon.py)   |  Medium   |
 | 3186 | [Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/?envType=daily-question&envId=2025-10-11)   | [Python](./leetcode/3186/Maximum%20Total%20Damage%20With%20Spell%20Casting.py)    |  Medium   |🛑   |
-
+| 3539 | [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/?envType=daily-question&envId=2025-10-12)    | [Python](./leetcode/3539/Find%20Sum%20of%20Array%20Product%20of%20Magical%20Sequences.py)       | Hard    |🛑   |
 
 
 
