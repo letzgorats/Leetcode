@@ -767,6 +767,7 @@ LeetCode
 | 3539 | [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/?envType=daily-question&envId=2025-10-12)    | [Python](./leetcode/3539/Find%20Sum%20of%20Array%20Product%20of%20Magical%20Sequences.py)      | Hard    |🛑   |
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/?envType=daily-question&envId=2025-10-13)   | [Python](./leetcode/2273/Find%20Resultant%20Array%20After%20Removing%20Anagrams.py)         | Easy  |
 | 3349 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/?envType=daily-question&envId=2025-10-14)   | [Python](./leetcode/3349/Adjacent%20Increasing%20Subarrays%20Detection%20I.py)          | Easy  |
+| 3350 | [Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/description/?envType=daily-question&envId=2025-10-15)   | [Python](./leetcode/3350/Adjacent%20Increasing%20Subarrays%20Detection%20II.py)   |  Medium  |
 
 
 HackerRank
