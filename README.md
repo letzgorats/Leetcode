@@ -768,6 +768,8 @@ LeetCode
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/?envType=daily-question&envId=2025-10-13)   | [Python](./leetcode/2273/Find%20Resultant%20Array%20After%20Removing%20Anagrams.py)         | Easy  |
 | 3349 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/?envType=daily-question&envId=2025-10-14)   | [Python](./leetcode/3349/Adjacent%20Increasing%20Subarrays%20Detection%20I.py)          | Easy  |
 | 3350 | [Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/description/?envType=daily-question&envId=2025-10-15)   | [Python](./leetcode/3350/Adjacent%20Increasing%20Subarrays%20Detection%20II.py)   |  Medium  |
+| 2598 | [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/description/?envType=daily-question&envId=2025-10-16)   | [Python](./leetcode/2598/Smallest%20Missing%20Non-negative%20Integer%20After%20Operations.py)   |  Medium  |🛑   |
+
 
 
 HackerRank
