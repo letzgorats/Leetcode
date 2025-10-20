@@ -772,6 +772,7 @@ LeetCode
 | 3003 | [Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/?envType=daily-question&envId=2025-10-17)   | [Python](./leetcode/3003/Maximize%20the%20Number%20of%20Partitions%20After%20Operations.py)   |  Hard  |🛑   |
 | 3397 | [Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/description/?envType=daily-question&envId=2025-10-18)   | [Python](./leetcode/3397/Maximum%20Number%20of%20Distinct%20Elements%20After%20Operations.py)   |  Medium  |🛑   |
 | 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/?envType=daily-question&envId=2025-10-19)   | [Python](./leetcode/1625/Lexicographically%20Smallest%20String%20After%20Applying%20Operations.py)   |  Medium  |🛑   |
+| 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/?envType=daily-question&envId=2025-10-20)   | [Python](./leetcode/2011/Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)   |  Easy  |
 
 
 
