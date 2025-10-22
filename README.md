@@ -774,6 +774,7 @@ LeetCode
 | 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/?envType=daily-question&envId=2025-10-19)   | [Python](./leetcode/1625/Lexicographically%20Smallest%20String%20After%20Applying%20Operations.py)   |  Medium  |🛑   |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/?envType=daily-question&envId=2025-10-20)   | [Python](./leetcode/2011/Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)   |  Easy  |
 | 3346 | [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/description/?envType=daily-question&envId=2025-10-21)   | [Python](./leetcode/3346/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20I.py)   |Medium  |🛑   |
+| 3347 | [Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/description/?envType=daily-question&envId=2025-10-21)   | [Python](./leetcode/3347/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II.py)   |Hard  |🛑   |
 
 
 
