@@ -776,7 +776,7 @@ LeetCode
 | 3346 | [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/description/?envType=daily-question&envId=2025-10-21)   | [Python](./leetcode/3346/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20I.py)   |Medium  |🛑   |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/description/?envType=daily-question&envId=2025-10-21)   | [Python](./leetcode/3347/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II.py)   |Hard  |🛑   |
 | 3461 | [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/description/?envType=daily-question&envId=2025-10-23)   | [Python](./leetcode/3461/Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I.py)   |Easy  |
-
+| 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/?envType=daily-question&envId=2025-10-24)   | [Python](./leetcode/2048/Next%20Greater%20Numerically%20Balanced%20Number.py)   |Medium  |
 
 
 HackerRank
