@@ -1,3 +1,25 @@
+# solution 3 - (array,math,string) - (100ms) - (2025.10.27)
+from collections import defaultdict
+from typing import List
+class Solution:
+    def numberOfBeams(self, bank: List[str]) -> int:
+
+        laser = []
+        for i, b in enumerate(bank):
+            cnt = 0
+            for idx, j in enumerate(b):
+                if j == '1':
+                    cnt += 1
+            if cnt:
+                laser.append(cnt)
+
+        ans = 0
+        for i in range(len(laser) - 1):
+            ans += (laser[i] * laser[i + 1])
+
+        return ans
+
+# solution 1 - (math,string) - (117ms) - (2024.07.03)
 class Solution(object):
     def numberOfBeams(self, bank):
         """
@@ -15,7 +37,7 @@ class Solution(object):
 
         return answer
 
-
+# solution 1 - (matrix,array) - (999ms) - (2024.07.03)
 class Solution(object):
     def numberOfBeams(self, bank):
         """
