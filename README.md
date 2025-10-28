@@ -778,7 +778,7 @@ LeetCode
 | 3461 | [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/description/?envType=daily-question&envId=2025-10-23)   | [Python](./leetcode/3461/Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I.py)  |Easy  |
 | 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/?envType=daily-question&envId=2025-10-24)   | [Python](./leetcode/2048/Next%20Greater%20Numerically%20Balanced%20Number.py)  |Medium  |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/?envType=daily-question&envId=2025-10-26)   | [Python](./leetcode/2043/Simple%20Bank%20System.py)   |Medium  |
-
+| 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/?envType=daily-question&envId=2025-10-28)   | [Python](./leetcode/3354/Make%20Array%20Elements%20Equal%20to%20Zero.py)  |Easy  |
 
 
 HackerRank
