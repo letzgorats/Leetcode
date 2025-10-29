@@ -779,6 +779,10 @@ LeetCode
 | 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/description/?envType=daily-question&envId=2025-10-24)   | [Python](./leetcode/2048/Next%20Greater%20Numerically%20Balanced%20Number.py)  |Medium  |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/?envType=daily-question&envId=2025-10-26)   | [Python](./leetcode/2043/Simple%20Bank%20System.py)   |Medium  |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/?envType=daily-question&envId=2025-10-28)   | [Python](./leetcode/3354/Make%20Array%20Elements%20Equal%20to%20Zero.py)  |Easy  |
+| 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/?envType=daily-question&envId=2025-10-29)   | [Python](./leetcode/3370/Smallest%20Number%20With%20All%20Set%20Bits.py)  |Easy  |
+
+
+
 
 
 HackerRank
