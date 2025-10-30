@@ -780,6 +780,7 @@ LeetCode
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/?envType=daily-question&envId=2025-10-26)   | [Python](./leetcode/2043/Simple%20Bank%20System.py)   |Medium  |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/?envType=daily-question&envId=2025-10-28)   | [Python](./leetcode/3354/Make%20Array%20Elements%20Equal%20to%20Zero.py)  |Easy  |
 | 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/?envType=daily-question&envId=2025-10-29)   | [Python](./leetcode/3370/Smallest%20Number%20With%20All%20Set%20Bits.py)  |Easy  |
+| 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/?envType=daily-question&envId=2025-10-30)   | [Python](./leetcode/1526/Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array.py)  |Hard  |
 
 
 
