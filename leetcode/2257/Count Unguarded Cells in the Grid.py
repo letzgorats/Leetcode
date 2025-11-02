@@ -1,5 +1,42 @@
-# solution 1 - greedy,dfs
+# solution 4 - (simulation,bfs) - (608ms) - (2025.11.02)
+from typing import List
+class Solution:
+    def countUnguarded(self, m: int, n: int, guards: List[List[int]], walls: List[List[int]]) -> int:
+
+        board = [[0 for _ in range(n)] for _ in range(m)]
+        # print(board)
+        total = n * m
+        for r, c in walls:
+            board[r][c] = 1
+
+        def bfs(r, c):
+
+            q = deque([(r, c)])
+            while q:
+
+                r, c = q.popleft()
+                for d in [(-1, 0), (0, 1), (1, 0), (0, -1)]:
+                    nr = r + d[0]
+                    nc = c + d[1]
+                    while 0 <= nr < m and 0 <= nc < n and board[nr][nc] == 0:
+                        surveillance.add((nr, nc))
+                        nr += d[0]
+                        nc += d[1]
+
+        surveillance = set()
+        for r, c in guards:
+            board[r][c] = 1
+
+        for r, c in guards:
+            bfs(r, c)
+
+        # print(surveillance)
+        return total - len(surveillance) - len(guards) - len(walls)
+
+
+# solution 1 - (greedy,simulation) - (329ms) - (2024.11.21)
 from collections import deque
+from typing import List
 class Solution:
     def countUnguarded(self, m: int, n: int, guards: List[List[int]], walls: List[List[int]]) -> int:
 
@@ -47,7 +84,7 @@ class Solution:
         return answer
 
 
-# solution 2 - greedy,dfs
+# solution 2 - (greedy,simulation) - (315ms) - (2024.11.21)
 class Solution:
     def countUnguarded(self, m: int, n: int, guards: List[List[int]], walls: List[List[int]]) -> int:
 
@@ -92,7 +129,7 @@ class Solution:
                     res += 1
         return res
 
-# solution 3 - bfs
+# solution 3 - (bfs) - (241ms) - (2024.11.21)
 class Solution:
     def countUnguarded(self, m: int, n: int, guards: List[List[int]], walls: List[List[int]]) -> int:
 
