@@ -1,5 +1,26 @@
-# https://leetcode.com/problems/minimum-time-to-make-rope-colorful/solutions/4463574/98-20-beats-intuitive-approach-easy-to-understand-python/
+# solution 1 - (greddy,min,math,max) - (131ms) -(2025.11.03)
+from typing import List
+class Solution:
+    def minCost(self, colors: str, neededTime: List[int]) -> int:
 
+        ans = 0
+        i = 1
+        last = [colors[0], 0]
+        while i < len(colors):
+            if last[0] == colors[i]:
+                ans += min(neededTime[i], neededTime[last[1]])  # 삭제한 풍선
+                if neededTime[i] >= neededTime[last[1]]:
+                    # 남은 풍선
+                    last[1] = i
+            else:
+                last = [colors[i], i]
+            i += 1
+            # print(i,last)
+        return ans
+
+
+# https://leetcode.com/problems/minimum-time-to-make-rope-colorful/solutions/4463574/98-20-beats-intuitive-approach-easy-to-understand-python/
+from typing import List
 class Solution:
     def minCost(self, colors: str, neededTime: List[int]) -> int:
 
