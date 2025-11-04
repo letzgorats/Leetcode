@@ -782,6 +782,7 @@ LeetCode
 | 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/?envType=daily-question&envId=2025-10-29)   | [Python](./leetcode/3370/Smallest%20Number%20With%20All%20Set%20Bits.py)  |Easy  |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/?envType=daily-question&envId=2025-10-30)   | [Python](./leetcode/1526/Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array.py)  |Hard  |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/?envType=daily-question&envId=2025-10-31)   | [Python](./leetcode/3289/The%20Two%20Sneaky%20Numbers%20of%20Digitville.py)  |Easy  |
+| 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/description/?envType=daily-question&envId=2025-11-04)   | [Python](./leetcode/3318/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I.py)  |Easy  |
 
 
 
