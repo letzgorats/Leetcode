@@ -56,3 +56,55 @@ class Solution:
                 # 이미 오프라인이면 아무 것도 안 함
 
         return ans
+
+# solution 2 - (union find,DSU) - (991ms) - (2025.11.06)
+class Solution:
+    def processQueries(self, c: int, connections: List[List[int]], queries: List[List[int]]) -> List[int]:
+
+        parent = [i for i in range(c + 1)]
+        size = [1] * (c + 1)
+
+        def find(x):
+            if parent[x] != x:
+                parent[x] = find(parent[x])
+            return parent[x]
+
+        def union(a, b):
+            pa = find(a)
+            pb = find(b)
+            if size[pa] >= size[pb]:
+                parent[pb] = pa
+                size[pa] += size[pb]
+            else:
+                parent[pa] = pb
+                size[pb] += size[pa]
+
+        for a, b in connections:
+            union(a, b)
+
+        def get_cluster():
+            d = defaultdict(SortedList)
+            for i in range(1, c + 1):
+                r = find(parent[i])
+                d[r].add(i)
+            return d
+
+        graph = get_cluster()
+        # print(graph)
+        # print(parent)
+
+        ans = []
+        for s, i in queries:
+            r = find(i)
+            if s == 2:  # offline
+                graph[r].discard(i)  # 해당 노드가 graph가 없으면 에러발생 x
+            else:
+                if not graph[r]:
+                    ans.append(-1)
+                else:
+                    if i in graph[r]:
+                        ans.append(i)
+                    else:
+                        ans.append(graph[r][0])
+
+        return ans
