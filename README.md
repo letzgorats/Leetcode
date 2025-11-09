@@ -786,6 +786,8 @@ LeetCode
 | 3321 | [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/?envType=daily-question&envId=2025-11-05)   | [Python](./leetcode/3321/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II.py)  |Hard  |🛑   |
 | 3607 | [Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/description/?envType=daily-question&envId=2025-11-06)   | [Python](./leetcode/3607/Power%20Grid%20Maintenance.py)   |Medium  |🛑   |
 | 2528 | [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/?envType=daily-question&envId=2025-11-07)   | [Python](./leetcode/2528/Maximize%20the%20Minimum%20Powered%20City.py)   |Hard  |🛑   |
+| 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/?envType=daily-question&envId=2025-11-09)   | [Python](./leetcode/2169/Count%20Operations%20to%20Obtain%20Zero.py)   |Easy  |
+
 
 
 HackerRank
