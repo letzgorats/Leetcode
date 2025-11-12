@@ -1,8 +1,6 @@
-# solution 1 - (number theory,subarray,math) - () - (2025.11.12)
+# solution 1 - (number theory,subarray,math) - (0ms) - (2025.11.12)
 import math
-import math
-
-
+from typing import List
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
 
@@ -41,4 +39,15 @@ class Solution:
 1을 전부 퍼뜨리는 데 필요한 횟수 = (n - 1)
 
 -> 총합 = (min_len - 1) + (n - 1) = n + min_len - 2
+'''
+'''
+배열 길이 n,
+gcd가 1이 되는 최소 구간 길이 min_len.
+
+이때, 1이 생기는 위치를 p라 하면,
+그 1이 왼쪽 끝(0번 인덱스)까지 가려면 p번,
+오른쪽 끝까지 가려면 n−p−1번 필요.
+
+그 합은 n−1 이다 !
+(즉, 배열 전체로 퍼지는 데 한 칸씩 이동하므로, 총 n−1번.)
 '''
