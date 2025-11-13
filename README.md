@@ -790,6 +790,7 @@ LeetCode
 | 3542 | [Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/?envType=daily-question&envId=2025-11-10)  | [Python](./leetcode/3542/Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)  |Medium  |🛑   |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/?envType=daily-question&envId=2025-11-11)   | [Python](./leetcode/474/Ones%20and%20Zeroes.py)   |Medium  |🛑   |
 | 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/?envType=daily-question&envId=2025-11-12)   | [Python](./leetcode/2654/Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201.py)   |Medium  |🛑   |
+| 3228 | [Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/?envType=daily-question&envId=2025-11-13)   | [Python](./leetcode/3228/Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End.py)   |Medium  |🛑   |
 
 
 
