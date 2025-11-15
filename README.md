@@ -790,7 +790,8 @@ LeetCode
 | 3542 | [Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/?envType=daily-question&envId=2025-11-10)  | [Python](./leetcode/3542/Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero.py)  |Medium  |🛑   |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/?envType=daily-question&envId=2025-11-11)   | [Python](./leetcode/474/Ones%20and%20Zeroes.py)   |Medium  |🛑   |
 | 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/?envType=daily-question&envId=2025-11-12)   | [Python](./leetcode/2654/Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201.py)   |Medium  |🛑   |
-| 2654 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/?envType=daily-question&envId=2025-11-14)   | [Python](./leetcode/2536/Increment%20Submatrices%20by%20One.py)   |Medium  |🛑   |
+| 2536 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/?envType=daily-question&envId=2025-11-14)   | [Python](./leetcode/2536/Increment%20Submatrices%20by%20One.py)   |Medium  |🛑   |
+| 3234 | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description/?envType=daily-question&envId=2025-11-15)   | [Python](./leetcode/3234/Count%20the%20Number%20of%20Substrings%20With%20Dominant%20Ones.py)   |Medium  |🛑   |
 
 
 HackerRank
