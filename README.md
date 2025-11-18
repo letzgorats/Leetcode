@@ -794,6 +794,7 @@ LeetCode
 | 3234 | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description/?envType=daily-question&envId=2025-11-15)   | [Python](./leetcode/3234/Count%20the%20Number%20of%20Substrings%20With%20Dominant%20Ones.py)  |Medium  |🛑   |
 | 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/?envType=daily-question&envId=2025-11-16)   | [Python](./leetcode/1513/Number%20of%20Substrings%20With%20Only%201s.py)   |Medium  |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/?envType=daily-question&envId=2025-11-17)   | [Python](./leetcode/1437/Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.py)   |Easy  |
+| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/?envType=daily-question&envId=2025-11-18)   | [Python](./leetcode/717/1-bit%20and%202-bit%20Characters.py)   |Easy  |
 
 
 
