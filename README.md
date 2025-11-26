@@ -1601,6 +1601,7 @@ LeetCode
 | 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/?envType=daily-question&envId=2025-11-23)  | [Python](./leetcode/1262/Greatest%20Sum%20Divisible%20by%20Three.py)  |Medium  |🛑   |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/?envType=daily-question&envId=2025-11-24)   | [Python](./leetcode/1018/Binary%20Prefix%20Divisible%20By%205.py)   |Easy  |
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/?envType=daily-question&envId=2025-11-25)   | [Python](./leetcode/1015/Smallest%20Integer%20Divisible%20by%20K.py)   |Medium  |🛑   |
+| 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/?envType=daily-question&envId=2025-11-26)   | [Python](./leetcode/2435/Paths%20in%20Matrix%20Whose%20Sum%20Is%20Divisible%20by%20K.py)   |Medium  |🛑   |
 
 
 HackerRank
