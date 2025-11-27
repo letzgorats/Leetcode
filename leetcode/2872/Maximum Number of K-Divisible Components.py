@@ -1,3 +1,5 @@
+# solution 1 - (dfs,tree) - (103ms,116ms) - (2024.12.22, 2025.11.28)
+from typing import List
 from collections import defaultdict
 class Solution:
     def maxKDivisibleComponents(self, n: int, edges: List[List[int]], values: List[int], k: int) -> int:
