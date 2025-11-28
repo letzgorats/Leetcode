@@ -1603,6 +1603,7 @@ LeetCode
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/?envType=daily-question&envId=2025-11-25)   | [Python](./leetcode/1015/Smallest%20Integer%20Divisible%20by%20K.py)   |Medium  |🛑   |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/?envType=daily-question&envId=2025-11-26)   | [Python](./leetcode/2435/Paths%20in%20Matrix%20Whose%20Sum%20Is%20Divisible%20by%20K.py)   |Medium  |🛑   |
 
+| 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/?envType=daily-question&envId=2025-11-29)   | [Python](./leetcode/3512/Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K.py)   |Easy  |
 
 HackerRank
 ========
