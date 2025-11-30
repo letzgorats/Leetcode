@@ -1,4 +1,5 @@
-# solution 1
+# solution 1 - (prefix sum,modular, defaultdict) - (398ms,79ms) - (2024.10.03,2025.11.30)
+from typing import List
 class Solution:
     def minSubarray(self, nums: List[int], p: int) -> int:
 
