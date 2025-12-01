@@ -804,7 +804,7 @@ LeetCode
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/?envType=daily-question&envId=2025-11-26)   | [Python](./leetcode/2435/Paths%20in%20Matrix%20Whose%20Sum%20Is%20Divisible%20by%20K.py)   |Medium  |🛑   |
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/?envType=daily-question&envId=2025-11-25)   | [Python](./leetcode/3381/Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K.py)   |Medium  |🛑   |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/?envType=daily-question&envId=2025-11-29)   | [Python](./leetcode/3512/Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K.py)   |Easy  |
-
+| 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/?envType=daily-question&envId=2025-12-01)  | [Python](./leetcode/2141/Maximum%20Running%20Time%20of%20N%20Computers.py) |Hard  |🛑   |
 
 
 
@@ -827,18 +827,3 @@ HackerRank
 |[Camel Case](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one) | [Python](./hackerRank/Camel%20Case%204/CamelCase4.py)|Easy|
 
 
-HackerRank
-========
-
-### HackerRank Algorithm
-
-
-| Title | Solution | Difficulty |
-| ----- | -------- | ---------- |
-|[PlusMinus](https://www.hackerrank.com/challenges/three-month-preparation-kit-plus-minus/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one) | [Python](./hackerRank/PlusMinus/PlusMinus.py)|Easy|
-|[Mini-Max Sum](https://www.hackerrank.com/challenges/three-month-preparation-kit-mini-max-sum/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one) | [Python](./hackerRank/MiniMaxSum/MiniMaxSum.py)|Easy|
-|[Time Conversion](https://www.hackerrank.com/challenges/three-month-preparation-kit-time-conversion/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one) | [Python](hackerRank/Time%20Conversion/TimeConversion.py)|Easy|
-|[Breaking the Records](https://www.hackerrank.com/challenges/three-month-preparation-kit-breaking-best-and-worst-records/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one) | [Python](./hackerRank/BreakingTheRecords/BreakingTheRecords.py)|Easy|
-|[Divisible Sum Pairs](https://www.hackerrank.com/challenges/three-month-preparation-kit-divisible-sum-pairs/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one) | [Python](./hackerRank/Divisible%20Sum%20Pairs/DivisibleSumPairs.py)|Easy|
-|[Sparse Arrays](https://www.hackerrank.com/challenges/three-month-preparation-kit-sparse-arrays/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one) | [Python](./hackerRank/Sparse%20Arrays/SparseArrays.py)|Easy|
-|[Camel Case](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one) | [Python](./hackerRank/Camel%20Case%204/CamelCase4.py)|Easy|
