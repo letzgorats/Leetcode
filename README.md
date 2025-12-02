@@ -805,7 +805,7 @@ LeetCode
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/?envType=daily-question&envId=2025-11-25)   | [Python](./leetcode/3381/Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K.py)   |Medium  |🛑   |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/?envType=daily-question&envId=2025-11-29)   | [Python](./leetcode/3512/Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K.py)   |Easy  |
 | 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/?envType=daily-question&envId=2025-12-01)  | [Python](./leetcode/2141/Maximum%20Running%20Time%20of%20N%20Computers.py) |Hard  |🛑   |
-
+| 3623 | [Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/?envType=daily-question&envId=2025-12-02)   | [Python](./leetcode/3623/Count%20Number%20of%20Trapezoids%20I.py)   |Medium  |🛑   |
 
 
 
