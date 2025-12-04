@@ -806,6 +806,7 @@ LeetCode
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/?envType=daily-question&envId=2025-11-29)   | [Python](./leetcode/3512/Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K.py)   |Easy  |
 | 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/?envType=daily-question&envId=2025-12-01)  | [Python](./leetcode/2141/Maximum%20Running%20Time%20of%20N%20Computers.py) |Hard  |🛑   |
 | 3623 | [Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/?envType=daily-question&envId=2025-12-02)   | [Python](./leetcode/3623/Count%20Number%20of%20Trapezoids%20I.py)   |Medium  |🛑   |
+| 2211 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/description/?envType=daily-question&envId=2025-12-04)   | [Python](./leetcode/2211/Count%20Collisions%20on%20a%20Road.py)   |Medium  |🛑  |  
 | 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/?envType=daily-question&envId=2025-12-05)   | [Python](./leetcode/3432/Count%20Partitions%20with%20Even%20Sum%20Difference.py)   |Easy  |
 
 
