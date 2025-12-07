@@ -809,7 +809,7 @@ LeetCode
 | 3625 | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/description/?envType=daily-question&envId=2025-12-03)  | [Python](./leetcode/3625/Count%20Number%20of%20Trapezoids%20II.py) |Hard  |🛑   |
 | 2211 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/description/?envType=daily-question&envId=2025-12-04)   | [Python](./leetcode/2211/Count%20Collisions%20on%20a%20Road.py)   |Medium  |🛑  |  
 | 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/?envType=daily-question&envId=2025-12-05)   | [Python](./leetcode/3432/Count%20Partitions%20with%20Even%20Sum%20Difference.py)   |Easy  |
-
+| 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/?envType=daily-question&envId=2025-12-07)   | [Python](./leetcode/3432/Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py)   |Easy  |
 
 
 HackerRank
