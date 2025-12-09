@@ -812,6 +812,8 @@ LeetCode
 | 3578 | [Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/?envType=daily-question&envId=2025-12-06)   | [Python](./leetcode/3578/Count%20Partitions%20With%20Max-Min%20Difference%20at%20Most%20K.py)   |Medium  |🛑  |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/?envType=daily-question&envId=2025-12-07)   | [Python](./leetcode/3432/Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py)   |Easy  |
 | 1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/?envType=daily-question&envId=2025-12-08)   | [Python](./leetcode/1925/Count%20Square%20Sum%20Triples.py)   |Easy  |
+| 3583 | [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/description/?envType=daily-question&envId=2025-12-09)   | [Python](./leetcode/3583/Count%20Special%20Triplets.py)   |Medium  |🛑  |
+
 
 HackerRank
 ========
