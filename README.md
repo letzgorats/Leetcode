@@ -816,7 +816,7 @@ LeetCode
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/description/?envType=daily-question&envId=2026-01-01)   | [Python](./leetcode/66/Plus%20One.py)   |Easy  |
 | 961  | [Plus One](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/?envType=daily-question&envId=2026-01-02)   | [Python](./leetcode/66/N-Repeated%20Element%20in%20Size%202N%20Array.py)   |Easy  |
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/?envType=daily-question&envId=2026-01-03)  | [Python](./leetcode/1411/Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid.py) |Hard  |🛑   |
-
+| 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/description/?envType=daily-question&envId=2026-01-04)   | [Python](./leetcode/1390/Four%20Divisors.py)   |Medium  |
 
                                                                                                                                                                                                                                                           |                                                                                                                          |            |       |
 HackerRank
