@@ -818,7 +818,21 @@ LeetCode
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/?envType=daily-question&envId=2026-01-03)  | [Python](./leetcode/1411/Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid.py) |Hard  |🛑   |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/description/?envType=daily-question&envId=2026-01-04)   | [Python](./leetcode/1390/Four%20Divisors.py)   |Medium  |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/?envType=daily-question&envId=2026-01-06)   | [Python](./leetcode/1161/Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)   |Medium  |🛑  |
-                                                                                                                                                                                                                                                          |                                                                                                                          |            |       |
+| 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/?envType=daily-question&envId=2026-01-07)   | [Python](./leetcode/1339/Maximum%20Product%20of%20Splitted%20Binary%20Tree.py)   |Medium  |🛑  |                                                                                                                                                                                                                                                          |                                                                                                                          |            |       |
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                           |                                                                                                                          |            |       |
 HackerRank
 ========
 
