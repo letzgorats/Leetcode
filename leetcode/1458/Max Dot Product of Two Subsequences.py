@@ -1,4 +1,5 @@
-# solution 1 - dynamic programming, LCS, subsequence, dp - (196ms) - (2025.03.22)
+# solution 1 - dynamic programming, LCS, subsequence, dp - (196ms) - (2025.03.22),(2026.01.08)
+from typing import List
 class Solution:
     def maxDotProduct(self, nums1: List[int], nums2: List[int]) -> int:
 
