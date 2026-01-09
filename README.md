@@ -814,12 +814,12 @@ LeetCode
 | 1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/?envType=daily-question&envId=2025-12-08)   | [Python](./leetcode/1925/Count%20Square%20Sum%20Triples.py)   |Easy  |
 | 3583 | [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/description/?envType=daily-question&envId=2025-12-09)   | [Python](./leetcode/3583/Count%20Special%20Triplets.py)   |Medium  |🛑  |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/description/?envType=daily-question&envId=2026-01-01)   | [Python](./leetcode/66/Plus%20One.py)   |Easy  |
-| 961  | [Plus One](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/?envType=daily-question&envId=2026-01-02)   | [Python](./leetcode/66/N-Repeated%20Element%20in%20Size%202N%20Array.py)   |Easy  |
+| 961  | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/?envType=daily-question&envId=2026-01-02)   | [Python](./leetcode/961/N-Repeated%20Element%20in%20Size%202N%20Array.py)   |Easy  |
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/?envType=daily-question&envId=2026-01-03)  | [Python](./leetcode/1411/Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid.py) |Hard  |🛑   |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/description/?envType=daily-question&envId=2026-01-04)   | [Python](./leetcode/1390/Four%20Divisors.py)   |Medium  |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/?envType=daily-question&envId=2026-01-06)   | [Python](./leetcode/1161/Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)   |Medium  |🛑  |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/?envType=daily-question&envId=2026-01-07)   | [Python](./leetcode/1339/Maximum%20Product%20of%20Splitted%20Binary%20Tree.py)   |Medium  |🛑  |                                                                                                                                                                                                                                                          |                                                                                                                          |            |       |
-
+| 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/?envType=daily-question&envId=2026-01-09)   | [Python](./leetcode/865/Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.py)   |Medium  |🛑  |
 
 
 
