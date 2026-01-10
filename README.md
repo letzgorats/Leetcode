@@ -820,7 +820,7 @@ LeetCode
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/?envType=daily-question&envId=2026-01-06)   | [Python](./leetcode/1161/Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py)   |Medium  |🛑  |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/?envType=daily-question&envId=2026-01-07)   | [Python](./leetcode/1339/Maximum%20Product%20of%20Splitted%20Binary%20Tree.py)   |Medium  |🛑  |                                                                                                                                                                                                                                                          |                                                                                                                          |            |       |
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/?envType=daily-question&envId=2026-01-09)   | [Python](./leetcode/865/Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.py)   |Medium  |🛑  |
-
+| 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/?envType=daily-question&envId=2026-01-10)   | [Python](./leetcode/712/Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.py)   |Medium  |🛑  |
 
 
 
