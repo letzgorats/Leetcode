@@ -1,3 +1,4 @@
+# solution 1 - (Chebyshev Distance) - (30ms,4ms) - (2023.12.03),(2026.01.13)
 class Solution(object):
     def minTimeToVisitAllPoints(self, points):
         """
